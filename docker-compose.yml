@@ -1,0 +1,23 @@
+services:
+  weather:
+    build: .
+    image: canada-weather:latest
+    container_name: canada-weather
+    restart: unless-stopped
+    environment:
+      HOST: "0.0.0.0"
+      PORT: "8000"
+    expose:
+      - "8000"
+    volumes:
+      - ./data:/app/data
+
+  cloudflared:
+    image: cloudflare/cloudflared:latest
+    container_name: canada-weather-tunnel
+    restart: unless-stopped
+    command: tunnel --no-autoupdate run --url http://weather:8000 sitesy-weather
+    volumes:
+      - ${HOME}/.cloudflared:/home/nonroot/.cloudflared:ro
+    depends_on:
+      - weather

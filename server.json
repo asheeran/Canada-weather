@@ -1,0 +1,14 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.asheeran/canada-weather",
+  "title": "Canada Weather",
+  "description": "Official Canadian weather: forecasts, conditions, alerts and air quality in English and French.",
+  "version": "1.0.0",
+  "websiteUrl": "https://weather.sitesy.ca/",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://weather.sitesy.ca/mcp"
+    }
+  ]
+}

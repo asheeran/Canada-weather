@@ -1,0 +1,8450 @@
+{
+ "built_at_utc": "2026-10-30T21:54:52.976014+00:00",
+ "source_urls": {
+  "en": "https://collaboration.cmc.ec.gc.ca/cmc/cmos/public_doc/msc-data/citypage-weather/site_list_en.geojson",
+  "fr": "https://collaboration.cmc.ec.gc.ca/cmc/cmos/public_doc/msc-data/citypage-weather/site_list_fr.geojson"
+ },
+ "count": 844,
+ "locations": [
+  {
+   "site_code": "s0000001",
+   "name_en": "Athabasca",
+   "province": "AB",
+   "lat": 54.72,
+   "lon": -113.28,
+   "name_fr": "Athabasca",
+   "search_en": "athabasca",
+   "search_fr": "athabasca"
+  },
+  {
+   "site_code": "s0000002",
+   "name_en": "Clearwater",
+   "province": "BC",
+   "lat": 51.65,
+   "lon": -120.03,
+   "name_fr": "Clearwater",
+   "search_en": "clearwater",
+   "search_fr": "clearwater"
+  },
+  {
+   "site_code": "s0000003",
+   "name_en": "Valemount",
+   "province": "BC",
+   "lat": 52.83,
+   "lon": -119.25,
+   "name_fr": "Valemount",
+   "search_en": "valemount",
+   "search_fr": "valemount"
+  },
+  {
+   "site_code": "s0000004",
+   "name_en": "Grand Forks",
+   "province": "BC",
+   "lat": 49.03,
+   "lon": -118.43,
+   "name_fr": "Grand Forks",
+   "search_en": "grand forks",
+   "search_fr": "grand forks"
+  },
+  {
+   "site_code": "s0000005",
+   "name_en": "McBride",
+   "province": "BC",
+   "lat": 53.3,
+   "lon": -120.17,
+   "name_fr": "McBride",
+   "search_en": "mcbride",
+   "search_fr": "mcbride"
+  },
+  {
+   "site_code": "s0000006",
+   "name_en": "Merritt",
+   "province": "BC",
+   "lat": 50.11,
+   "lon": -120.79,
+   "name_fr": "Merritt",
+   "search_en": "merritt",
+   "search_fr": "merritt"
+  },
+  {
+   "site_code": "s0000007",
+   "name_en": "Masset",
+   "province": "BC",
+   "lat": 54.02,
+   "lon": -132.1,
+   "name_fr": "Masset",
+   "search_en": "masset",
+   "search_fr": "masset"
+  },
+  {
+   "site_code": "s0000008",
+   "name_en": "Invermere",
+   "province": "BC",
+   "lat": 50.52,
+   "lon": -116.03,
+   "name_fr": "Invermere",
+   "search_en": "invermere",
+   "search_fr": "invermere"
+  },
+  {
+   "site_code": "s0000009",
+   "name_en": "Dome Creek",
+   "province": "BC",
+   "lat": 53.75,
+   "lon": -121.03,
+   "name_fr": "Dome Creek",
+   "search_en": "dome creek",
+   "search_fr": "dome creek"
+  },
+  {
+   "site_code": "s0000010",
+   "name_en": "Little Grand Rapids",
+   "province": "MB",
+   "lat": 52.04,
+   "lon": -95.46,
+   "name_fr": "Little Grand Rapids",
+   "search_en": "little grand rapids",
+   "search_fr": "little grand rapids"
+  },
+  {
+   "site_code": "s0000011",
+   "name_en": "Oxford House",
+   "province": "MB",
+   "lat": 54.95,
+   "lon": -95.27,
+   "name_fr": "Oxford House",
+   "search_en": "oxford house",
+   "search_fr": "oxford house"
+  },
+  {
+   "site_code": "s0000012",
+   "name_en": "Bissett",
+   "province": "MB",
+   "lat": 51.03,
+   "lon": -95.68,
+   "name_fr": "Bissett",
+   "search_en": "bissett",
+   "search_fr": "bissett"
+  },
+  {
+   "site_code": "s0000013",
+   "name_en": "Shamattawa",
+   "province": "MB",
+   "lat": 55.85,
+   "lon": -92.09,
+   "name_fr": "Shamattawa",
+   "search_en": "shamattawa",
+   "search_fr": "shamattawa"
+  },
+  {
+   "site_code": "s0000014",
+   "name_en": "York Factory",
+   "province": "MB",
+   "lat": 57.0,
+   "lon": -92.31,
+   "name_fr": "York Factory",
+   "search_en": "york factory",
+   "search_fr": "york factory"
+  },
+  {
+   "site_code": "s0000015",
+   "name_en": "Flin Flon",
+   "province": "MB",
+   "lat": 54.77,
+   "lon": -101.86,
+   "name_fr": "Flin Flon",
+   "search_en": "flin flon",
+   "search_fr": "flin flon"
+  },
+  {
+   "site_code": "s0000016",
+   "name_en": "Musgrave Harbour",
+   "province": "NL",
+   "lat": 49.45,
+   "lon": -53.97,
+   "name_fr": "Musgrave Harbour",
+   "search_en": "musgrave harbour",
+   "search_fr": "musgrave harbour"
+  },
+  {
+   "site_code": "s0000017",
+   "name_en": "New-Wes-Valley",
+   "province": "NL",
+   "lat": 49.17,
+   "lon": -53.57,
+   "name_fr": "New-Wes-Valley",
+   "search_en": "new-wes-valley",
+   "search_fr": "new-wes-valley"
+  },
+  {
+   "site_code": "s0000018",
+   "name_en": "Bay Roberts",
+   "province": "NL",
+   "lat": 47.6,
+   "lon": -53.27,
+   "name_fr": "Bay Roberts",
+   "search_en": "bay roberts",
+   "search_fr": "bay roberts"
+  },
+  {
+   "site_code": "s0000019",
+   "name_en": "St. Alban's",
+   "province": "NL",
+   "lat": 47.88,
+   "lon": -55.85,
+   "name_fr": "St. Alban's",
+   "search_en": "st. alban's",
+   "search_fr": "st. alban's"
+  },
+  {
+   "site_code": "s0000020",
+   "name_en": "Fourchu Head",
+   "province": "NS",
+   "lat": 45.72,
+   "lon": -60.23,
+   "name_fr": "Cap Fourchu",
+   "search_en": "fourchu head",
+   "search_fr": "cap fourchu"
+  },
+  {
+   "site_code": "s0000021",
+   "name_en": "North Mountain (Cape Breton)",
+   "province": "NS",
+   "lat": 46.88,
+   "lon": -60.58,
+   "name_fr": "North Mountain (Cap-Breton)",
+   "search_en": "north mountain (cape breton)",
+   "search_fr": "north mountain (cap-breton)"
+  },
+  {
+   "site_code": "s0000022",
+   "name_en": "Marathon",
+   "province": "ON",
+   "lat": 48.72,
+   "lon": -86.38,
+   "name_fr": "Marathon",
+   "search_en": "marathon",
+   "search_fr": "marathon"
+  },
+  {
+   "site_code": "s0000023",
+   "name_en": "Terrace Bay",
+   "province": "ON",
+   "lat": 48.8,
+   "lon": -87.1,
+   "name_fr": "Terrace Bay",
+   "search_en": "terrace bay",
+   "search_fr": "terrace bay"
+  },
+  {
+   "site_code": "s0000024",
+   "name_en": "Attawapiskat",
+   "province": "ON",
+   "lat": 52.92,
+   "lon": -82.43,
+   "name_fr": "Attawapiskat",
+   "search_en": "attawapiskat",
+   "search_fr": "attawapiskat"
+  },
+  {
+   "site_code": "s0000025",
+   "name_en": "Gogama",
+   "province": "ON",
+   "lat": 47.67,
+   "lon": -81.73,
+   "name_fr": "Gogama",
+   "search_en": "gogama",
+   "search_fr": "gogama"
+  },
+  {
+   "site_code": "s0000026",
+   "name_en": "Maple Plains",
+   "province": "PE",
+   "lat": 46.28,
+   "lon": -63.57,
+   "name_fr": "Maple Plains",
+   "search_en": "maple plains",
+   "search_fr": "maple plains"
+  },
+  {
+   "site_code": "s0000027",
+   "name_en": "Murdochville",
+   "province": "QC",
+   "lat": 48.97,
+   "lon": -65.5,
+   "name_fr": "Murdochville",
+   "search_en": "murdochville",
+   "search_fr": "murdochville"
+  },
+  {
+   "site_code": "s0000028",
+   "name_en": "Escoumins",
+   "province": "QC",
+   "lat": 48.42,
+   "lon": -69.42,
+   "name_fr": "Escoumins",
+   "search_en": "escoumins",
+   "search_fr": "escoumins"
+  },
+  {
+   "site_code": "s0000029",
+   "name_en": "Saint-Michel-des-Saints",
+   "province": "QC",
+   "lat": 46.68,
+   "lon": -73.92,
+   "name_fr": "Saint-Michel-des-Saints",
+   "search_en": "saint-michel-des-saints",
+   "search_fr": "saint-michel-des-saints"
+  },
+  {
+   "site_code": "s0000030",
+   "name_en": "Rancheria",
+   "province": "YT",
+   "lat": 60.09,
+   "lon": -130.6,
+   "name_fr": "Rancheria",
+   "search_en": "rancheria",
+   "search_fr": "rancheria"
+  },
+  {
+   "site_code": "s0000031",
+   "name_en": "Dempster (Highway)",
+   "province": "YT",
+   "lat": 66.16,
+   "lon": -137.15,
+   "name_fr": "Dempster (Route)",
+   "search_en": "dempster (highway)",
+   "search_fr": "dempster (route)"
+  },
+  {
+   "site_code": "s0000032",
+   "name_en": "Burgeo",
+   "province": "NL",
+   "lat": 47.61,
+   "lon": -57.62,
+   "name_fr": "Burgeo",
+   "search_en": "burgeo",
+   "search_fr": "burgeo"
+  },
+  {
+   "site_code": "s0000033",
+   "name_en": "Bouctouche",
+   "province": "NB",
+   "lat": 46.47,
+   "lon": -64.74,
+   "name_fr": "Bouctouche",
+   "search_en": "bouctouche",
+   "search_fr": "bouctouche"
+  },
+  {
+   "site_code": "s0000034",
+   "name_en": "Richibucto",
+   "province": "NB",
+   "lat": 46.68,
+   "lon": -64.88,
+   "name_fr": "Richibucto",
+   "search_en": "richibucto",
+   "search_fr": "richibucto"
+  },
+  {
+   "site_code": "s0000035",
+   "name_en": "Rogersville",
+   "province": "NB",
+   "lat": 46.75,
+   "lon": -65.5,
+   "name_fr": "Rogersville",
+   "search_en": "rogersville",
+   "search_fr": "rogersville"
+  },
+  {
+   "site_code": "s0000036",
+   "name_en": "Miramichi",
+   "province": "NB",
+   "lat": 47.0,
+   "lon": -65.47,
+   "name_fr": "Miramichi",
+   "search_en": "miramichi",
+   "search_fr": "miramichi"
+  },
+  {
+   "site_code": "s0000037",
+   "name_en": "Point Escuminac",
+   "province": "NB",
+   "lat": 47.07,
+   "lon": -64.8,
+   "name_fr": "Point Escuminac",
+   "search_en": "point escuminac",
+   "search_fr": "point escuminac"
+  },
+  {
+   "site_code": "s0000038",
+   "name_en": "Kouchibouguac",
+   "province": "NB",
+   "lat": 46.86,
+   "lon": -64.98,
+   "name_fr": "Kouchibouguac",
+   "search_en": "kouchibouguac",
+   "search_fr": "kouchibouguac"
+  },
+  {
+   "site_code": "s0000039",
+   "name_en": "St. Lawrence",
+   "province": "NL",
+   "lat": 46.92,
+   "lon": -55.4,
+   "name_fr": "St. Lawrence",
+   "search_en": "st. lawrence",
+   "search_fr": "st. lawrence"
+  },
+  {
+   "site_code": "s0000040",
+   "name_en": "Parrsboro",
+   "province": "NS",
+   "lat": 45.41,
+   "lon": -64.33,
+   "name_fr": "Parrsboro",
+   "search_en": "parrsboro",
+   "search_fr": "parrsboro"
+  },
+  {
+   "site_code": "s0000041",
+   "name_en": "Bonavista",
+   "province": "NL",
+   "lat": 48.65,
+   "lon": -53.11,
+   "name_fr": "Bonavista",
+   "search_en": "bonavista",
+   "search_fr": "bonavista"
+  },
+  {
+   "site_code": "s0000042",
+   "name_en": "Wreckhouse",
+   "province": "NL",
+   "lat": 47.71,
+   "lon": -59.31,
+   "name_fr": "Wreckhouse",
+   "search_en": "wreckhouse",
+   "search_fr": "wreckhouse"
+  },
+  {
+   "site_code": "s0000043",
+   "name_en": "Edmundston",
+   "province": "NB",
+   "lat": 47.38,
+   "lon": -68.29,
+   "name_fr": "Edmundston",
+   "search_en": "edmundston",
+   "search_fr": "edmundston"
+  },
+  {
+   "site_code": "s0000044",
+   "name_en": "Beauharnois",
+   "province": "QC",
+   "lat": 45.32,
+   "lon": -73.87,
+   "name_fr": "Beauharnois",
+   "search_en": "beauharnois",
+   "search_fr": "beauharnois"
+  },
+  {
+   "site_code": "s0000045",
+   "name_en": "Edmonton",
+   "province": "AB",
+   "lat": 53.53,
+   "lon": -113.49,
+   "name_fr": "Edmonton",
+   "search_en": "edmonton",
+   "search_fr": "edmonton"
+  },
+  {
+   "site_code": "s0000046",
+   "name_en": "Candiac",
+   "province": "QC",
+   "lat": 45.38,
+   "lon": -73.52,
+   "name_fr": "Candiac",
+   "search_en": "candiac",
+   "search_fr": "candiac"
+  },
+  {
+   "site_code": "s0000047",
+   "name_en": "Calgary",
+   "province": "AB",
+   "lat": 51.05,
+   "lon": -114.06,
+   "name_fr": "Calgary",
+   "search_en": "calgary",
+   "search_fr": "calgary"
+  },
+  {
+   "site_code": "s0000048",
+   "name_en": "La Prairie",
+   "province": "QC",
+   "lat": 45.42,
+   "lon": -73.5,
+   "name_fr": "La Prairie",
+   "search_en": "la prairie",
+   "search_fr": "la prairie"
+  },
+  {
+   "site_code": "s0000049",
+   "name_en": "Saint-Constant",
+   "province": "QC",
+   "lat": 45.37,
+   "lon": -73.57,
+   "name_fr": "Saint-Constant",
+   "search_en": "saint-constant",
+   "search_fr": "saint-constant"
+  },
+  {
+   "site_code": "s0000050",
+   "name_en": "Sainte-Catherine",
+   "province": "QC",
+   "lat": 45.4,
+   "lon": -73.58,
+   "name_fr": "Sainte-Catherine",
+   "search_en": "sainte-catherine",
+   "search_fr": "sainte-catherine"
+  },
+  {
+   "site_code": "s0000051",
+   "name_en": "Saint-Rémi",
+   "province": "QC",
+   "lat": 45.27,
+   "lon": -73.62,
+   "name_fr": "Saint-Rémi",
+   "search_en": "saint-remi",
+   "search_fr": "saint-remi"
+  },
+  {
+   "site_code": "s0000052",
+   "name_en": "Granby",
+   "province": "QC",
+   "lat": 45.4,
+   "lon": -72.73,
+   "name_fr": "Granby",
+   "search_en": "granby",
+   "search_fr": "granby"
+  },
+  {
+   "site_code": "s0000053",
+   "name_en": "Cowansville",
+   "province": "QC",
+   "lat": 45.2,
+   "lon": -72.75,
+   "name_fr": "Cowansville",
+   "search_en": "cowansville",
+   "search_fr": "cowansville"
+  },
+  {
+   "site_code": "s0000054",
+   "name_en": "Victoriaville",
+   "province": "QC",
+   "lat": 46.05,
+   "lon": -71.97,
+   "name_fr": "Victoriaville",
+   "search_en": "victoriaville",
+   "search_fr": "victoriaville"
+  },
+  {
+   "site_code": "s0000055",
+   "name_en": "Prévost",
+   "province": "QC",
+   "lat": 45.87,
+   "lon": -74.08,
+   "name_fr": "Prévost",
+   "search_en": "prevost",
+   "search_fr": "prevost"
+  },
+  {
+   "site_code": "s0000056",
+   "name_en": "Sainte-Sophie",
+   "province": "QC",
+   "lat": 45.82,
+   "lon": -73.9,
+   "name_fr": "Sainte-Sophie",
+   "search_en": "sainte-sophie",
+   "search_fr": "sainte-sophie"
+  },
+  {
+   "site_code": "s0000057",
+   "name_en": "Saint-Lin-Laurentides",
+   "province": "QC",
+   "lat": 45.85,
+   "lon": -73.77,
+   "name_fr": "Saint-Lin-Laurentides",
+   "search_en": "saint-lin-laurentides",
+   "search_fr": "saint-lin-laurentides"
+  },
+  {
+   "site_code": "s0000058",
+   "name_en": "Saint-Sauveur",
+   "province": "QC",
+   "lat": 45.9,
+   "lon": -74.17,
+   "name_fr": "Saint-Sauveur",
+   "search_en": "saint-sauveur",
+   "search_fr": "saint-sauveur"
+  },
+  {
+   "site_code": "s0000059",
+   "name_en": "Saint-Hyacinthe",
+   "province": "QC",
+   "lat": 45.62,
+   "lon": -72.95,
+   "name_fr": "Saint-Hyacinthe",
+   "search_en": "saint-hyacinthe",
+   "search_fr": "saint-hyacinthe"
+  },
+  {
+   "site_code": "s0000060",
+   "name_en": "Marieville",
+   "province": "QC",
+   "lat": 45.43,
+   "lon": -73.17,
+   "name_fr": "Marieville",
+   "search_en": "marieville",
+   "search_fr": "marieville"
+  },
+  {
+   "site_code": "s0000061",
+   "name_en": "Rigaud",
+   "province": "QC",
+   "lat": 45.48,
+   "lon": -74.3,
+   "name_fr": "Rigaud",
+   "search_en": "rigaud",
+   "search_fr": "rigaud"
+  },
+  {
+   "site_code": "s0000062",
+   "name_en": "Saint-Lazare",
+   "province": "QC",
+   "lat": 45.4,
+   "lon": -74.13,
+   "name_fr": "Saint-Lazare",
+   "search_en": "saint-lazare",
+   "search_fr": "saint-lazare"
+  },
+  {
+   "site_code": "s0000063",
+   "name_en": "Farnham",
+   "province": "QC",
+   "lat": 45.28,
+   "lon": -72.98,
+   "name_fr": "Farnham",
+   "search_en": "farnham",
+   "search_fr": "farnham"
+  },
+  {
+   "site_code": "s0000064",
+   "name_en": "Thetford Mines",
+   "province": "QC",
+   "lat": 46.1,
+   "lon": -71.3,
+   "name_fr": "Thetford Mines",
+   "search_en": "thetford mines",
+   "search_fr": "thetford mines"
+  },
+  {
+   "site_code": "s0000065",
+   "name_en": "Kugaaruk",
+   "province": "NU",
+   "lat": 68.53,
+   "lon": -89.83,
+   "name_fr": "Kugaaruk",
+   "search_en": "kugaaruk",
+   "search_fr": "kugaaruk"
+  },
+  {
+   "site_code": "s0000066",
+   "name_en": "Highvale",
+   "province": "AB",
+   "lat": 53.45,
+   "lon": -114.52,
+   "name_fr": "Highvale",
+   "search_en": "highvale",
+   "search_fr": "highvale"
+  },
+  {
+   "site_code": "s0000067",
+   "name_en": "Pelican Narrows",
+   "province": "SK",
+   "lat": 55.19,
+   "lon": -102.93,
+   "name_fr": "Pelican Narrows",
+   "search_en": "pelican narrows",
+   "search_fr": "pelican narrows"
+  },
+  {
+   "site_code": "s0000068",
+   "name_en": "Strathmore",
+   "province": "AB",
+   "lat": 51.05,
+   "lon": -113.39,
+   "name_fr": "Strathmore",
+   "search_en": "strathmore",
+   "search_fr": "strathmore"
+  },
+  {
+   "site_code": "s0000069",
+   "name_en": "Hawkesbury",
+   "province": "ON",
+   "lat": 45.61,
+   "lon": -74.6,
+   "name_fr": "Hawkesbury",
+   "search_en": "hawkesbury",
+   "search_fr": "hawkesbury"
+  },
+  {
+   "site_code": "s0000070",
+   "name_en": "Alexandria",
+   "province": "ON",
+   "lat": 45.31,
+   "lon": -74.63,
+   "name_fr": "Alexandria",
+   "search_en": "alexandria",
+   "search_fr": "alexandria"
+  },
+  {
+   "site_code": "s0000071",
+   "name_en": "Cornwall",
+   "province": "ON",
+   "lat": 45.03,
+   "lon": -74.73,
+   "name_fr": "Cornwall",
+   "search_en": "cornwall",
+   "search_fr": "cornwall"
+  },
+  {
+   "site_code": "s0000072",
+   "name_en": "Morrisburg",
+   "province": "ON",
+   "lat": 44.9,
+   "lon": -75.18,
+   "name_fr": "Morrisburg",
+   "search_en": "morrisburg",
+   "search_fr": "morrisburg"
+  },
+  {
+   "site_code": "s0000073",
+   "name_en": "Algonquin Park (Brent)",
+   "province": "ON",
+   "lat": 46.03,
+   "lon": -78.48,
+   "name_fr": "Parc Algonquin (Brent)",
+   "search_en": "algonquin park (brent)",
+   "search_fr": "parc algonquin (brent)"
+  },
+  {
+   "site_code": "s0000074",
+   "name_en": "Algonquin Park (Lake of Two Rivers)",
+   "province": "ON",
+   "lat": 45.58,
+   "lon": -78.48,
+   "name_fr": "Parc Algonquin (Lake of Two Rivers)",
+   "search_en": "algonquin park (lake of two rivers)",
+   "search_fr": "parc algonquin (lake of two rivers)"
+  },
+  {
+   "site_code": "s0000075",
+   "name_en": "Oxtongue Lake",
+   "province": "ON",
+   "lat": 45.36,
+   "lon": -78.92,
+   "name_fr": "Oxtongue Lake",
+   "search_en": "oxtongue lake",
+   "search_fr": "oxtongue lake"
+  },
+  {
+   "site_code": "s0000076",
+   "name_en": "Welland",
+   "province": "ON",
+   "lat": 43.0,
+   "lon": -79.23,
+   "name_fr": "Welland",
+   "search_en": "welland",
+   "search_fr": "welland"
+  },
+  {
+   "site_code": "s0000077",
+   "name_en": "Winchester",
+   "province": "ON",
+   "lat": 45.09,
+   "lon": -75.35,
+   "name_fr": "Winchester",
+   "search_en": "winchester",
+   "search_fr": "winchester"
+  },
+  {
+   "site_code": "s0000078",
+   "name_en": "Whistler",
+   "province": "BC",
+   "lat": 50.12,
+   "lon": -122.97,
+   "name_fr": "Whistler",
+   "search_en": "whistler",
+   "search_fr": "whistler"
+  },
+  {
+   "site_code": "s0000079",
+   "name_en": "La Scie",
+   "province": "NL",
+   "lat": 49.96,
+   "lon": -55.59,
+   "name_fr": "La Scie",
+   "search_en": "la scie",
+   "search_fr": "la scie"
+  },
+  {
+   "site_code": "s0000080",
+   "name_en": "Rondeau (Provincial Park)",
+   "province": "ON",
+   "lat": 42.3,
+   "lon": -81.89,
+   "name_fr": "Rondeau (Parc provincial)",
+   "search_en": "rondeau (provincial park)",
+   "search_fr": "rondeau (parc provincial)"
+  },
+  {
+   "site_code": "s0000081",
+   "name_en": "Coronach",
+   "province": "SK",
+   "lat": 49.11,
+   "lon": -105.51,
+   "name_fr": "Coronach",
+   "search_en": "coronach",
+   "search_fr": "coronach"
+  },
+  {
+   "site_code": "s0000082",
+   "name_en": "Placentia",
+   "province": "NL",
+   "lat": 47.3,
+   "lon": -53.99,
+   "name_fr": "Placentia",
+   "search_en": "placentia",
+   "search_fr": "placentia"
+  },
+  {
+   "site_code": "s0000083",
+   "name_en": "Sundre",
+   "province": "AB",
+   "lat": 51.8,
+   "lon": -114.64,
+   "name_fr": "Sundre",
+   "search_en": "sundre",
+   "search_fr": "sundre"
+  },
+  {
+   "site_code": "s0000084",
+   "name_en": "Halifax (Shearwater)",
+   "province": "NS",
+   "lat": 44.66,
+   "lon": -63.59,
+   "name_fr": "Halifax (Shearwater)",
+   "search_en": "halifax (shearwater)",
+   "search_fr": "halifax (shearwater)"
+  },
+  {
+   "site_code": "s0000085",
+   "name_en": "Témiscamingue",
+   "province": "QC",
+   "lat": 47.55,
+   "lon": -79.23,
+   "name_fr": "Témiscamingue",
+   "search_en": "temiscamingue",
+   "search_fr": "temiscamingue"
+  },
+  {
+   "site_code": "s0000086",
+   "name_en": "Indian Head",
+   "province": "SK",
+   "lat": 50.53,
+   "lon": -103.67,
+   "name_fr": "Indian Head",
+   "search_en": "indian head",
+   "search_fr": "indian head"
+  },
+  {
+   "site_code": "s0000087",
+   "name_en": "Fort Qu'Appelle",
+   "province": "SK",
+   "lat": 50.77,
+   "lon": -103.79,
+   "name_fr": "Fort Qu'Appelle",
+   "search_en": "fort qu'appelle",
+   "search_fr": "fort qu'appelle"
+  },
+  {
+   "site_code": "s0000088",
+   "name_en": "Killarney",
+   "province": "ON",
+   "lat": 46.06,
+   "lon": -80.98,
+   "name_fr": "Killarney",
+   "search_en": "killarney",
+   "search_fr": "killarney"
+  },
+  {
+   "site_code": "s0000089",
+   "name_en": "New Glasgow",
+   "province": "NS",
+   "lat": 45.59,
+   "lon": -62.64,
+   "name_fr": "New Glasgow",
+   "search_en": "new glasgow",
+   "search_fr": "new glasgow"
+  },
+  {
+   "site_code": "s0000090",
+   "name_en": "Caribou",
+   "province": "NS",
+   "lat": 45.73,
+   "lon": -62.72,
+   "name_fr": "Caribou",
+   "search_en": "caribou",
+   "search_fr": "caribou"
+  },
+  {
+   "site_code": "s0000091",
+   "name_en": "Bachelors Island",
+   "province": "MB",
+   "lat": 51.75,
+   "lon": -99.9,
+   "name_fr": "Bachelors Island",
+   "search_en": "bachelors island",
+   "search_fr": "bachelors island"
+  },
+  {
+   "site_code": "s0000092",
+   "name_en": "Beaverlodge",
+   "province": "AB",
+   "lat": 55.21,
+   "lon": -119.43,
+   "name_fr": "Beaverlodge",
+   "search_en": "beaverlodge",
+   "search_fr": "beaverlodge"
+  },
+  {
+   "site_code": "s0000093",
+   "name_en": "Brooks",
+   "province": "AB",
+   "lat": 50.57,
+   "lon": -111.9,
+   "name_fr": "Brooks",
+   "search_en": "brooks",
+   "search_fr": "brooks"
+  },
+  {
+   "site_code": "s0000094",
+   "name_en": "Mingan",
+   "province": "QC",
+   "lat": 50.3,
+   "lon": -64.03,
+   "name_fr": "Mingan",
+   "search_en": "mingan",
+   "search_fr": "mingan"
+  },
+  {
+   "site_code": "s0000095",
+   "name_en": "Nipawin",
+   "province": "SK",
+   "lat": 53.36,
+   "lon": -104.02,
+   "name_fr": "Nipawin",
+   "search_en": "nipawin",
+   "search_fr": "nipawin"
+  },
+  {
+   "site_code": "s0000096",
+   "name_en": "Beaver Island",
+   "province": "NS",
+   "lat": 44.75,
+   "lon": -62.8,
+   "name_fr": "Beaver Island",
+   "search_en": "beaver island",
+   "search_fr": "beaver island"
+  },
+  {
+   "site_code": "s0000097",
+   "name_en": "Port-Menier",
+   "province": "QC",
+   "lat": 49.82,
+   "lon": -64.35,
+   "name_fr": "Port-Menier",
+   "search_en": "port-menier",
+   "search_fr": "port-menier"
+  },
+  {
+   "site_code": "s0000098",
+   "name_en": "Salaberry-de-Valleyfield",
+   "province": "QC",
+   "lat": 45.25,
+   "lon": -74.13,
+   "name_fr": "Salaberry-de-Valleyfield",
+   "search_en": "salaberry-de-valleyfield",
+   "search_fr": "salaberry-de-valleyfield"
+  },
+  {
+   "site_code": "s0000099",
+   "name_en": "Huntingdon",
+   "province": "QC",
+   "lat": 45.08,
+   "lon": -74.17,
+   "name_fr": "Huntingdon",
+   "search_en": "huntingdon",
+   "search_fr": "huntingdon"
+  },
+  {
+   "site_code": "s0000100",
+   "name_en": "Cartwright",
+   "province": "NL",
+   "lat": 53.71,
+   "lon": -57.01,
+   "name_fr": "Cartwright",
+   "search_en": "cartwright",
+   "search_fr": "cartwright"
+  },
+  {
+   "site_code": "s0000101",
+   "name_en": "Bloodvein",
+   "province": "MB",
+   "lat": 51.79,
+   "lon": -96.71,
+   "name_fr": "Bloodvein",
+   "search_en": "bloodvein",
+   "search_fr": "bloodvein"
+  },
+  {
+   "site_code": "s0000102",
+   "name_en": "Berens River",
+   "province": "MB",
+   "lat": 52.37,
+   "lon": -97.03,
+   "name_fr": "Berens River",
+   "search_en": "berens river",
+   "search_fr": "berens river"
+  },
+  {
+   "site_code": "s0000103",
+   "name_en": "Atikokan",
+   "province": "ON",
+   "lat": 48.76,
+   "lon": -91.61,
+   "name_fr": "Atikokan",
+   "search_en": "atikokan",
+   "search_fr": "atikokan"
+  },
+  {
+   "site_code": "s0000104",
+   "name_en": "Fort Frances",
+   "province": "ON",
+   "lat": 48.61,
+   "lon": -93.39,
+   "name_fr": "Fort Frances",
+   "search_en": "fort frances",
+   "search_fr": "fort frances"
+  },
+  {
+   "site_code": "s0000105",
+   "name_en": "Mine Centre",
+   "province": "ON",
+   "lat": 48.77,
+   "lon": -92.62,
+   "name_fr": "Mine Centre",
+   "search_en": "mine centre",
+   "search_fr": "mine centre"
+  },
+  {
+   "site_code": "s0000106",
+   "name_en": "100 Mile House",
+   "province": "BC",
+   "lat": 51.65,
+   "lon": -121.28,
+   "name_fr": "100 Mile House",
+   "search_en": "100 mile house",
+   "search_fr": "100 mile house"
+  },
+  {
+   "site_code": "s0000107",
+   "name_en": "Clinton",
+   "province": "BC",
+   "lat": 51.08,
+   "lon": -121.58,
+   "name_fr": "Clinton",
+   "search_en": "clinton",
+   "search_fr": "clinton"
+  },
+  {
+   "site_code": "s0000108",
+   "name_en": "Collingwood",
+   "province": "ON",
+   "lat": 44.5,
+   "lon": -80.24,
+   "name_fr": "Collingwood",
+   "search_en": "collingwood",
+   "search_fr": "collingwood"
+  },
+  {
+   "site_code": "s0000109",
+   "name_en": "Shelburne",
+   "province": "NS",
+   "lat": 43.76,
+   "lon": -65.32,
+   "name_fr": "Shelburne",
+   "search_en": "shelburne",
+   "search_fr": "shelburne"
+  },
+  {
+   "site_code": "s0000110",
+   "name_en": "Baccaro Point",
+   "province": "NS",
+   "lat": 43.45,
+   "lon": -65.47,
+   "name_fr": "Cap Baccaro",
+   "search_en": "baccaro point",
+   "search_fr": "cap baccaro"
+  },
+  {
+   "site_code": "s0000111",
+   "name_en": "Coronation",
+   "province": "AB",
+   "lat": 52.09,
+   "lon": -111.45,
+   "name_fr": "Coronation",
+   "search_en": "coronation",
+   "search_fr": "coronation"
+  },
+  {
+   "site_code": "s0000112",
+   "name_en": "Englee",
+   "province": "NL",
+   "lat": 50.73,
+   "lon": -56.1,
+   "name_fr": "Englee",
+   "search_en": "englee",
+   "search_fr": "englee"
+  },
+  {
+   "site_code": "s0000113",
+   "name_en": "Uranium City",
+   "province": "SK",
+   "lat": 59.57,
+   "lon": -108.61,
+   "name_fr": "Uranium City",
+   "search_en": "uranium city",
+   "search_fr": "uranium city"
+  },
+  {
+   "site_code": "s0000114",
+   "name_en": "Port au Choix",
+   "province": "NL",
+   "lat": 50.71,
+   "lon": -57.36,
+   "name_fr": "Port-au-Choix",
+   "search_en": "port au choix",
+   "search_fr": "port-au-choix"
+  },
+  {
+   "site_code": "s0000115",
+   "name_en": "Daniel's Harbour",
+   "province": "NL",
+   "lat": 50.24,
+   "lon": -57.59,
+   "name_fr": "Daniel's Harbour",
+   "search_en": "daniel's harbour",
+   "search_fr": "daniel's harbour"
+  },
+  {
+   "site_code": "s0000116",
+   "name_en": "Badger",
+   "province": "NL",
+   "lat": 48.98,
+   "lon": -56.04,
+   "name_fr": "Badger",
+   "search_en": "badger",
+   "search_fr": "badger"
+  },
+  {
+   "site_code": "s0000117",
+   "name_en": "Buchans",
+   "province": "NL",
+   "lat": 48.82,
+   "lon": -56.86,
+   "name_fr": "Buchans",
+   "search_en": "buchans",
+   "search_fr": "buchans"
+  },
+  {
+   "site_code": "s0000118",
+   "name_en": "Grand Falls-Windsor",
+   "province": "NL",
+   "lat": 48.94,
+   "lon": -55.67,
+   "name_fr": "Grand Falls-Windsor",
+   "search_en": "grand falls-windsor",
+   "search_fr": "grand falls-windsor"
+  },
+  {
+   "site_code": "s0000119",
+   "name_en": "Willow Creek (Provincial Park)",
+   "province": "AB",
+   "lat": 50.12,
+   "lon": -113.77,
+   "name_fr": "Willow Creek (Parc provincial)",
+   "search_en": "willow creek (provincial park)",
+   "search_fr": "willow creek (parc provincial)"
+  },
+  {
+   "site_code": "s0000120",
+   "name_en": "Claresholm",
+   "province": "AB",
+   "lat": 50.02,
+   "lon": -113.58,
+   "name_fr": "Claresholm",
+   "search_en": "claresholm",
+   "search_fr": "claresholm"
+  },
+  {
+   "site_code": "s0000121",
+   "name_en": "Chevery",
+   "province": "QC",
+   "lat": 50.47,
+   "lon": -59.6,
+   "name_fr": "Chevery",
+   "search_en": "chevery",
+   "search_fr": "chevery"
+  },
+  {
+   "site_code": "s0000122",
+   "name_en": "Twillingate",
+   "province": "NL",
+   "lat": 49.65,
+   "lon": -54.76,
+   "name_fr": "Twillingate",
+   "search_en": "twillingate",
+   "search_fr": "twillingate"
+  },
+  {
+   "site_code": "s0000123",
+   "name_en": "Manicouagan",
+   "province": "QC",
+   "lat": 50.64,
+   "lon": -68.74,
+   "name_fr": "Manicouagan",
+   "search_en": "manicouagan",
+   "search_fr": "manicouagan"
+  },
+  {
+   "site_code": "s0000124",
+   "name_en": "La Tuque",
+   "province": "QC",
+   "lat": 47.43,
+   "lon": -72.78,
+   "name_fr": "La Tuque",
+   "search_en": "la tuque",
+   "search_fr": "la tuque"
+  },
+  {
+   "site_code": "s0000125",
+   "name_en": "Mauricie",
+   "province": "QC",
+   "lat": 46.8,
+   "lon": -72.97,
+   "name_fr": "Mauricie",
+   "search_en": "mauricie",
+   "search_fr": "mauricie"
+  },
+  {
+   "site_code": "s0000126",
+   "name_en": "Calgary (Olympic Park)",
+   "province": "AB",
+   "lat": 51.09,
+   "lon": -114.23,
+   "name_fr": "Calgary (Parc Olympique)",
+   "search_en": "calgary (olympic park)",
+   "search_fr": "calgary (parc olympique)"
+  },
+  {
+   "site_code": "s0000127",
+   "name_en": "Upsala",
+   "province": "ON",
+   "lat": 49.06,
+   "lon": -90.5,
+   "name_fr": "Upsala",
+   "search_en": "upsala",
+   "search_fr": "upsala"
+  },
+  {
+   "site_code": "s0000128",
+   "name_en": "St. Anthony",
+   "province": "NL",
+   "lat": 51.37,
+   "lon": -55.59,
+   "name_fr": "St. Anthony",
+   "search_en": "st. anthony",
+   "search_fr": "st. anthony"
+  },
+  {
+   "site_code": "s0000129",
+   "name_en": "Drumheller",
+   "province": "AB",
+   "lat": 51.46,
+   "lon": -112.72,
+   "name_fr": "Drumheller",
+   "search_en": "drumheller",
+   "search_fr": "drumheller"
+  },
+  {
+   "site_code": "s0000130",
+   "name_en": "Pinawa",
+   "province": "MB",
+   "lat": 50.15,
+   "lon": -95.88,
+   "name_fr": "Pinawa",
+   "search_en": "pinawa",
+   "search_fr": "pinawa"
+  },
+  {
+   "site_code": "s0000131",
+   "name_en": "Whiteshell",
+   "province": "MB",
+   "lat": 49.74,
+   "lon": -95.2,
+   "name_fr": "Whiteshell",
+   "search_en": "whiteshell",
+   "search_fr": "whiteshell"
+  },
+  {
+   "site_code": "s0000132",
+   "name_en": "Estevan Point",
+   "province": "BC",
+   "lat": 49.38,
+   "lon": -126.55,
+   "name_fr": "Estevan Point",
+   "search_en": "estevan point",
+   "search_fr": "estevan point"
+  },
+  {
+   "site_code": "s0000133",
+   "name_en": "Shaunavon",
+   "province": "SK",
+   "lat": 49.65,
+   "lon": -108.42,
+   "name_fr": "Shaunavon",
+   "search_en": "shaunavon",
+   "search_fr": "shaunavon"
+  },
+  {
+   "site_code": "s0000134",
+   "name_en": "Eastend",
+   "province": "SK",
+   "lat": 49.52,
+   "lon": -108.82,
+   "name_fr": "Eastend",
+   "search_en": "eastend",
+   "search_fr": "eastend"
+  },
+  {
+   "site_code": "s0000135",
+   "name_en": "Virden",
+   "province": "MB",
+   "lat": 49.85,
+   "lon": -100.93,
+   "name_fr": "Virden",
+   "search_en": "virden",
+   "search_fr": "virden"
+  },
+  {
+   "site_code": "s0000136",
+   "name_en": "Melita",
+   "province": "MB",
+   "lat": 49.27,
+   "lon": -101.0,
+   "name_fr": "Melita",
+   "search_en": "melita",
+   "search_fr": "melita"
+  },
+  {
+   "site_code": "s0000137",
+   "name_en": "Turtle Mountain (Provincial Park)",
+   "province": "MB",
+   "lat": 49.05,
+   "lon": -100.25,
+   "name_fr": "Turtle Mountain (Parc provincial)",
+   "search_en": "turtle mountain (provincial park)",
+   "search_fr": "turtle mountain (parc provincial)"
+  },
+  {
+   "site_code": "s0000138",
+   "name_en": "East Point",
+   "province": "PE",
+   "lat": 46.45,
+   "lon": -62.0,
+   "name_fr": "East Point",
+   "search_en": "east point",
+   "search_fr": "east point"
+  },
+  {
+   "site_code": "s0000139",
+   "name_en": "Swan River",
+   "province": "MB",
+   "lat": 52.11,
+   "lon": -101.27,
+   "name_fr": "Swan River",
+   "search_en": "swan river",
+   "search_fr": "swan river"
+  },
+  {
+   "site_code": "s0000140",
+   "name_en": "Eureka",
+   "province": "NU",
+   "lat": 79.98,
+   "lon": -85.95,
+   "name_fr": "Eureka",
+   "search_en": "eureka",
+   "search_fr": "eureka"
+  },
+  {
+   "site_code": "s0000141",
+   "name_en": "Vancouver",
+   "province": "BC",
+   "lat": 49.25,
+   "lon": -123.12,
+   "name_fr": "Vancouver",
+   "search_en": "vancouver",
+   "search_fr": "vancouver"
+  },
+  {
+   "site_code": "s0000142",
+   "name_en": "L'Assomption",
+   "province": "QC",
+   "lat": 45.83,
+   "lon": -73.42,
+   "name_fr": "L'Assomption",
+   "search_en": "l'assomption",
+   "search_fr": "l'assomption"
+  },
+  {
+   "site_code": "s0000143",
+   "name_en": "Berthierville",
+   "province": "QC",
+   "lat": 46.08,
+   "lon": -73.18,
+   "name_fr": "Berthierville",
+   "search_en": "berthierville",
+   "search_fr": "berthierville"
+  },
+  {
+   "site_code": "s0000144",
+   "name_en": "Contrecoeur",
+   "province": "QC",
+   "lat": 45.85,
+   "lon": -73.23,
+   "name_fr": "Contrecoeur",
+   "search_en": "contrecoeur",
+   "search_fr": "contrecoeur"
+  },
+  {
+   "site_code": "s0000145",
+   "name_en": "Mascouche",
+   "province": "QC",
+   "lat": 45.75,
+   "lon": -73.6,
+   "name_fr": "Mascouche",
+   "search_en": "mascouche",
+   "search_fr": "mascouche"
+  },
+  {
+   "site_code": "s0000146",
+   "name_en": "Prince George",
+   "province": "BC",
+   "lat": 53.92,
+   "lon": -122.75,
+   "name_fr": "Prince George",
+   "search_en": "prince george",
+   "search_fr": "prince george"
+  },
+  {
+   "site_code": "s0000147",
+   "name_en": "Sorel-Tracy",
+   "province": "QC",
+   "lat": 46.03,
+   "lon": -73.12,
+   "name_fr": "Sorel-Tracy",
+   "search_en": "sorel-tracy",
+   "search_fr": "sorel-tracy"
+  },
+  {
+   "site_code": "s0000148",
+   "name_en": "Tracy",
+   "province": "QC",
+   "lat": 46.03,
+   "lon": -73.14,
+   "name_fr": "Tracy",
+   "search_en": "tracy",
+   "search_fr": "tracy"
+  },
+  {
+   "site_code": "s0000149",
+   "name_en": "Le Gardeur",
+   "province": "QC",
+   "lat": 45.75,
+   "lon": -73.47,
+   "name_fr": "Le Gardeur",
+   "search_en": "le gardeur",
+   "search_fr": "le gardeur"
+  },
+  {
+   "site_code": "s0000150",
+   "name_en": "Morris",
+   "province": "MB",
+   "lat": 49.36,
+   "lon": -97.37,
+   "name_fr": "Morris",
+   "search_en": "morris",
+   "search_fr": "morris"
+  },
+  {
+   "site_code": "s0000151",
+   "name_en": "Steinbach",
+   "province": "MB",
+   "lat": 49.53,
+   "lon": -96.68,
+   "name_fr": "Steinbach",
+   "search_en": "steinbach",
+   "search_fr": "steinbach"
+  },
+  {
+   "site_code": "s0000152",
+   "name_en": "Dominion City",
+   "province": "MB",
+   "lat": 49.14,
+   "lon": -97.16,
+   "name_fr": "Dominion City",
+   "search_en": "dominion city",
+   "search_fr": "dominion city"
+  },
+  {
+   "site_code": "s0000153",
+   "name_en": "Emerson",
+   "province": "MB",
+   "lat": 49.01,
+   "lon": -97.21,
+   "name_fr": "Emerson",
+   "search_en": "emerson",
+   "search_fr": "emerson"
+  },
+  {
+   "site_code": "s0000154",
+   "name_en": "Vita",
+   "province": "MB",
+   "lat": 49.13,
+   "lon": -96.56,
+   "name_fr": "Vita",
+   "search_en": "vita",
+   "search_fr": "vita"
+  },
+  {
+   "site_code": "s0000155",
+   "name_en": "Gulf Islands (Southern)",
+   "province": "BC",
+   "lat": 48.95,
+   "lon": -123.53,
+   "name_fr": "Gulf Islands (Secteur sud)",
+   "search_en": "gulf islands (southern)",
+   "search_fr": "gulf islands (secteur sud)"
+  },
+  {
+   "site_code": "s0000156",
+   "name_en": "Elk Island (National Park)",
+   "province": "AB",
+   "lat": 53.61,
+   "lon": -112.87,
+   "name_fr": "Elk Island (Parc national)",
+   "search_en": "elk island (national park)",
+   "search_fr": "elk island (parc national)"
+  },
+  {
+   "site_code": "s0000157",
+   "name_en": "Tisdale",
+   "province": "SK",
+   "lat": 52.85,
+   "lon": -104.05,
+   "name_fr": "Tisdale",
+   "search_en": "tisdale",
+   "search_fr": "tisdale"
+  },
+  {
+   "site_code": "s0000158",
+   "name_en": "Melfort",
+   "province": "SK",
+   "lat": 52.86,
+   "lon": -104.61,
+   "name_fr": "Melfort",
+   "search_en": "melfort",
+   "search_fr": "melfort"
+  },
+  {
+   "site_code": "s0000159",
+   "name_en": "Cardston",
+   "province": "AB",
+   "lat": 49.2,
+   "lon": -113.3,
+   "name_fr": "Cardston",
+   "search_en": "cardston",
+   "search_fr": "cardston"
+  },
+  {
+   "site_code": "s0000160",
+   "name_en": "Snow Lake",
+   "province": "MB",
+   "lat": 54.88,
+   "lon": -100.04,
+   "name_fr": "Snow Lake",
+   "search_en": "snow lake",
+   "search_fr": "snow lake"
+  },
+  {
+   "site_code": "s0000161",
+   "name_en": "Pukatawagan",
+   "province": "MB",
+   "lat": 55.74,
+   "lon": -101.32,
+   "name_fr": "Pukatawagan",
+   "search_en": "pukatawagan",
+   "search_fr": "pukatawagan"
+  },
+  {
+   "site_code": "s0000162",
+   "name_en": "Nain",
+   "province": "NL",
+   "lat": 56.55,
+   "lon": -61.69,
+   "name_fr": "Nain",
+   "search_en": "nain",
+   "search_fr": "nain"
+  },
+  {
+   "site_code": "s0000163",
+   "name_en": "Sutton",
+   "province": "QC",
+   "lat": 45.1,
+   "lon": -72.62,
+   "name_fr": "Sutton",
+   "search_en": "sutton",
+   "search_fr": "sutton"
+  },
+  {
+   "site_code": "s0000164",
+   "name_en": "Colville Lake",
+   "province": "NT",
+   "lat": 67.03,
+   "lon": -126.12,
+   "name_fr": "Colville Lake",
+   "search_en": "colville lake",
+   "search_fr": "colville lake"
+  },
+  {
+   "site_code": "s0000165",
+   "name_en": "Goderich",
+   "province": "ON",
+   "lat": 43.74,
+   "lon": -81.7,
+   "name_fr": "Goderich",
+   "search_en": "goderich",
+   "search_fr": "goderich"
+  },
+  {
+   "site_code": "s0000166",
+   "name_en": "Kincardine",
+   "province": "ON",
+   "lat": 44.17,
+   "lon": -81.63,
+   "name_fr": "Kincardine",
+   "search_en": "kincardine",
+   "search_fr": "kincardine"
+  },
+  {
+   "site_code": "s0000167",
+   "name_en": "Garden Creek",
+   "province": "AB",
+   "lat": 58.7,
+   "lon": -113.88,
+   "name_fr": "Garden Creek",
+   "search_en": "garden creek",
+   "search_fr": "garden creek"
+  },
+  {
+   "site_code": "s0000168",
+   "name_en": "Brockville",
+   "province": "ON",
+   "lat": 44.6,
+   "lon": -75.69,
+   "name_fr": "Brockville",
+   "search_en": "brockville",
+   "search_fr": "brockville"
+  },
+  {
+   "site_code": "s0000169",
+   "name_en": "Gananoque",
+   "province": "ON",
+   "lat": 44.33,
+   "lon": -76.16,
+   "name_fr": "Gananoque",
+   "search_en": "gananoque",
+   "search_fr": "gananoque"
+  },
+  {
+   "site_code": "s0000170",
+   "name_en": "Waterton Park",
+   "province": "AB",
+   "lat": 49.05,
+   "lon": -113.91,
+   "name_fr": "Parc Waterton",
+   "search_en": "waterton park",
+   "search_fr": "parc waterton"
+  },
+  {
+   "site_code": "s0000171",
+   "name_en": "Altona",
+   "province": "MB",
+   "lat": 49.1,
+   "lon": -97.56,
+   "name_fr": "Altona",
+   "search_en": "altona",
+   "search_fr": "altona"
+  },
+  {
+   "site_code": "s0000172",
+   "name_en": "Gretna",
+   "province": "MB",
+   "lat": 49.01,
+   "lon": -97.56,
+   "name_fr": "Gretna",
+   "search_en": "gretna",
+   "search_fr": "gretna"
+  },
+  {
+   "site_code": "s0000173",
+   "name_en": "Pemberton",
+   "province": "BC",
+   "lat": 50.32,
+   "lon": -122.8,
+   "name_fr": "Pemberton",
+   "search_en": "pemberton",
+   "search_fr": "pemberton"
+  },
+  {
+   "site_code": "s0000174",
+   "name_en": "Îles-de-la-Madeleine",
+   "province": "QC",
+   "lat": 47.4,
+   "lon": -61.78,
+   "name_fr": "Îles-de-la-Madeleine",
+   "search_en": "iles-de-la-madeleine",
+   "search_fr": "iles-de-la-madeleine"
+  },
+  {
+   "site_code": "s0000175",
+   "name_en": "Sparwood",
+   "province": "BC",
+   "lat": 49.72,
+   "lon": -114.9,
+   "name_fr": "Sparwood",
+   "search_en": "sparwood",
+   "search_fr": "sparwood"
+  },
+  {
+   "site_code": "s0000176",
+   "name_en": "Esther",
+   "province": "AB",
+   "lat": 51.68,
+   "lon": -110.26,
+   "name_fr": "Esther",
+   "search_en": "esther",
+   "search_fr": "esther"
+  },
+  {
+   "site_code": "s0000177",
+   "name_en": "Grise Fiord",
+   "province": "NU",
+   "lat": 76.42,
+   "lon": -82.9,
+   "name_fr": "Grise Fiord",
+   "search_en": "grise fiord",
+   "search_fr": "grise fiord"
+  },
+  {
+   "site_code": "s0000178",
+   "name_en": "Hunters Point",
+   "province": "MB",
+   "lat": 53.03,
+   "lon": -100.94,
+   "name_fr": "Hunters Point",
+   "search_en": "hunters point",
+   "search_fr": "hunters point"
+  },
+  {
+   "site_code": "s0000179",
+   "name_en": "Three Hills",
+   "province": "AB",
+   "lat": 51.7,
+   "lon": -113.27,
+   "name_fr": "Three Hills",
+   "search_en": "three hills",
+   "search_fr": "three hills"
+  },
+  {
+   "site_code": "s0000180",
+   "name_en": "Varennes",
+   "province": "QC",
+   "lat": 45.68,
+   "lon": -73.43,
+   "name_fr": "Varennes",
+   "search_en": "varennes",
+   "search_fr": "varennes"
+  },
+  {
+   "site_code": "s0000181",
+   "name_en": "Hopedale",
+   "province": "NL",
+   "lat": 55.47,
+   "lon": -60.22,
+   "name_fr": "Hopedale",
+   "search_en": "hopedale",
+   "search_fr": "hopedale"
+  },
+  {
+   "site_code": "s0000182",
+   "name_en": "Donnacona",
+   "province": "QC",
+   "lat": 46.67,
+   "lon": -71.75,
+   "name_fr": "Donnacona",
+   "search_en": "donnacona",
+   "search_fr": "donnacona"
+  },
+  {
+   "site_code": "s0000183",
+   "name_en": "Haines Junction",
+   "province": "YT",
+   "lat": 60.75,
+   "lon": -137.51,
+   "name_fr": "Haines Junction",
+   "search_en": "haines junction",
+   "search_fr": "haines junction"
+  },
+  {
+   "site_code": "s0000185",
+   "name_en": "Beauceville",
+   "province": "QC",
+   "lat": 46.2,
+   "lon": -70.78,
+   "name_fr": "Beauceville",
+   "search_en": "beauceville",
+   "search_fr": "beauceville"
+  },
+  {
+   "site_code": "s0000186",
+   "name_en": "Lac-Mégantic",
+   "province": "QC",
+   "lat": 45.58,
+   "lon": -70.88,
+   "name_fr": "Lac-Mégantic",
+   "search_en": "lac-megantic",
+   "search_fr": "lac-megantic"
+  },
+  {
+   "site_code": "s0000187",
+   "name_en": "Saint-Georges",
+   "province": "QC",
+   "lat": 46.12,
+   "lon": -70.67,
+   "name_fr": "Saint-Georges",
+   "search_en": "saint-georges",
+   "search_fr": "saint-georges"
+  },
+  {
+   "site_code": "s0000188",
+   "name_en": "Fort Providence",
+   "province": "NT",
+   "lat": 61.35,
+   "lon": -117.65,
+   "name_fr": "Fort Providence",
+   "search_en": "fort providence",
+   "search_fr": "fort providence"
+  },
+  {
+   "site_code": "s0000189",
+   "name_en": "Pine Falls",
+   "province": "MB",
+   "lat": 50.57,
+   "lon": -96.22,
+   "name_fr": "Pine Falls",
+   "search_en": "pine falls",
+   "search_fr": "pine falls"
+  },
+  {
+   "site_code": "s0000190",
+   "name_en": "Victoria Beach",
+   "province": "MB",
+   "lat": 50.7,
+   "lon": -96.56,
+   "name_fr": "Victoria Beach",
+   "search_en": "victoria beach",
+   "search_fr": "victoria beach"
+  },
+  {
+   "site_code": "s0000191",
+   "name_en": "Grand Beach",
+   "province": "MB",
+   "lat": 50.55,
+   "lon": -96.63,
+   "name_fr": "Grand Beach",
+   "search_en": "grand beach",
+   "search_fr": "grand beach"
+  },
+  {
+   "site_code": "s0000192",
+   "name_en": "Broadview",
+   "province": "SK",
+   "lat": 50.38,
+   "lon": -102.58,
+   "name_fr": "Broadview",
+   "search_en": "broadview",
+   "search_fr": "broadview"
+  },
+  {
+   "site_code": "s0000193",
+   "name_en": "Winnipeg",
+   "province": "MB",
+   "lat": 49.88,
+   "lon": -97.15,
+   "name_fr": "Winnipeg",
+   "search_en": "winnipeg",
+   "search_fr": "winnipeg"
+  },
+  {
+   "site_code": "s0000194",
+   "name_en": "Charlevoix",
+   "province": "QC",
+   "lat": 47.48,
+   "lon": -70.48,
+   "name_fr": "Charlevoix",
+   "search_en": "charlevoix",
+   "search_fr": "charlevoix"
+  },
+  {
+   "site_code": "s0000195",
+   "name_en": "Watrous",
+   "province": "SK",
+   "lat": 51.69,
+   "lon": -105.46,
+   "name_fr": "Watrous",
+   "search_en": "watrous",
+   "search_fr": "watrous"
+  },
+  {
+   "site_code": "s0000196",
+   "name_en": "Humboldt",
+   "province": "SK",
+   "lat": 52.2,
+   "lon": -105.12,
+   "name_fr": "Humboldt",
+   "search_en": "humboldt",
+   "search_fr": "humboldt"
+  },
+  {
+   "site_code": "s0000197",
+   "name_en": "Alma",
+   "province": "QC",
+   "lat": 48.55,
+   "lon": -71.65,
+   "name_fr": "Alma",
+   "search_en": "alma",
+   "search_fr": "alma"
+  },
+  {
+   "site_code": "s0000198",
+   "name_en": "Mount Carleton (Provincial Park)",
+   "province": "NB",
+   "lat": 47.38,
+   "lon": -66.83,
+   "name_fr": "Mont Carleton (Parc provincial)",
+   "search_en": "mount carleton (provincial park)",
+   "search_fr": "mont carleton (parc provincial)"
+  },
+  {
+   "site_code": "s0000199",
+   "name_en": "Saint-Quentin",
+   "province": "NB",
+   "lat": 47.51,
+   "lon": -67.39,
+   "name_fr": "Saint-Quentin",
+   "search_en": "saint-quentin",
+   "search_fr": "saint-quentin"
+  },
+  {
+   "site_code": "s0000200",
+   "name_en": "St. Leonard",
+   "province": "NB",
+   "lat": 47.17,
+   "lon": -67.92,
+   "name_fr": "St. Leonard",
+   "search_en": "st. leonard",
+   "search_fr": "st. leonard"
+  },
+  {
+   "site_code": "s0000201",
+   "name_en": "Grand Falls",
+   "province": "NB",
+   "lat": 47.05,
+   "lon": -67.74,
+   "name_fr": "Grand-Sault",
+   "search_en": "grand falls",
+   "search_fr": "grand-sault"
+  },
+  {
+   "site_code": "s0000202",
+   "name_en": "Saint-Jean-sur-Richelieu",
+   "province": "QC",
+   "lat": 45.32,
+   "lon": -73.27,
+   "name_fr": "Saint-Jean-sur-Richelieu",
+   "search_en": "saint-jean-sur-richelieu",
+   "search_fr": "saint-jean-sur-richelieu"
+  },
+  {
+   "site_code": "s0000203",
+   "name_en": "Saint-Luc",
+   "province": "QC",
+   "lat": 45.35,
+   "lon": -73.3,
+   "name_fr": "Saint-Luc",
+   "search_en": "saint-luc",
+   "search_fr": "saint-luc"
+  },
+  {
+   "site_code": "s0000204",
+   "name_en": "Vanier",
+   "province": "QC",
+   "lat": 46.82,
+   "lon": -71.26,
+   "name_fr": "Vanier",
+   "search_en": "vanier",
+   "search_fr": "vanier"
+  },
+  {
+   "site_code": "s0000205",
+   "name_en": "Bernières",
+   "province": "QC",
+   "lat": 46.69,
+   "lon": -71.36,
+   "name_fr": "Bernières",
+   "search_en": "bernieres",
+   "search_fr": "bernieres"
+  },
+  {
+   "site_code": "s0000206",
+   "name_en": "Ennadai",
+   "province": "NU",
+   "lat": 61.13,
+   "lon": -100.88,
+   "name_fr": "Ennadai",
+   "search_en": "ennadai",
+   "search_fr": "ennadai"
+  },
+  {
+   "site_code": "s0000207",
+   "name_en": "Grand Rapids",
+   "province": "MB",
+   "lat": 53.18,
+   "lon": -99.26,
+   "name_fr": "Grand Rapids",
+   "search_en": "grand rapids",
+   "search_fr": "grand rapids"
+  },
+  {
+   "site_code": "s0000208",
+   "name_en": "Southend Reindeer",
+   "province": "SK",
+   "lat": 56.32,
+   "lon": -103.27,
+   "name_fr": "Southend Reindeer",
+   "search_en": "southend reindeer",
+   "search_fr": "southend reindeer"
+  },
+  {
+   "site_code": "s0000209",
+   "name_en": "Assiniboia",
+   "province": "SK",
+   "lat": 49.63,
+   "lon": -105.99,
+   "name_fr": "Assiniboia",
+   "search_en": "assiniboia",
+   "search_fr": "assiniboia"
+  },
+  {
+   "site_code": "s0000210",
+   "name_en": "Fort Liard",
+   "province": "NT",
+   "lat": 60.23,
+   "lon": -123.47,
+   "name_fr": "Fort Liard",
+   "search_en": "fort liard",
+   "search_fr": "fort liard"
+  },
+  {
+   "site_code": "s0000211",
+   "name_en": "Saguenay",
+   "province": "QC",
+   "lat": 48.42,
+   "lon": -71.07,
+   "name_fr": "Saguenay",
+   "search_en": "saguenay",
+   "search_fr": "saguenay"
+  },
+  {
+   "site_code": "s0000212",
+   "name_en": "Creston",
+   "province": "BC",
+   "lat": 49.1,
+   "lon": -116.5,
+   "name_fr": "Creston",
+   "search_en": "creston",
+   "search_fr": "creston"
+  },
+  {
+   "site_code": "s0000213",
+   "name_en": "Mont-Tremblant",
+   "province": "QC",
+   "lat": 46.12,
+   "lon": -74.6,
+   "name_fr": "Mont-Tremblant",
+   "search_en": "mont-tremblant",
+   "search_fr": "mont-tremblant"
+  },
+  {
+   "site_code": "s0000214",
+   "name_en": "Sainte-Agathe",
+   "province": "QC",
+   "lat": 46.05,
+   "lon": -74.28,
+   "name_fr": "Sainte-Agathe",
+   "search_en": "sainte-agathe",
+   "search_fr": "sainte-agathe"
+  },
+  {
+   "site_code": "s0000216",
+   "name_en": "Vernon",
+   "province": "BC",
+   "lat": 50.26,
+   "lon": -119.27,
+   "name_fr": "Vernon",
+   "search_en": "vernon",
+   "search_fr": "vernon"
+  },
+  {
+   "site_code": "s0000217",
+   "name_en": "Hinton",
+   "province": "AB",
+   "lat": 53.41,
+   "lon": -117.56,
+   "name_fr": "Hinton",
+   "search_en": "hinton",
+   "search_fr": "hinton"
+  },
+  {
+   "site_code": "s0000218",
+   "name_en": "Jasper",
+   "province": "AB",
+   "lat": 52.89,
+   "lon": -118.17,
+   "name_fr": "Jasper",
+   "search_en": "jasper",
+   "search_fr": "jasper"
+  },
+  {
+   "site_code": "s0000219",
+   "name_en": "Leader",
+   "province": "SK",
+   "lat": 50.89,
+   "lon": -109.55,
+   "name_fr": "Leader",
+   "search_en": "leader",
+   "search_fr": "leader"
+  },
+  {
+   "site_code": "s0000220",
+   "name_en": "Marble Mountain",
+   "province": "NL",
+   "lat": 48.94,
+   "lon": -57.84,
+   "name_fr": "Marble Mountain",
+   "search_en": "marble mountain",
+   "search_fr": "marble mountain"
+  },
+  {
+   "site_code": "s0000221",
+   "name_en": "Corner Brook",
+   "province": "NL",
+   "lat": 48.94,
+   "lon": -57.97,
+   "name_fr": "Corner Brook",
+   "search_en": "corner brook",
+   "search_fr": "corner brook"
+  },
+  {
+   "site_code": "s0000222",
+   "name_en": "Lillooet",
+   "province": "BC",
+   "lat": 50.68,
+   "lon": -121.93,
+   "name_fr": "Lillooet",
+   "search_en": "lillooet",
+   "search_fr": "lillooet"
+  },
+  {
+   "site_code": "s0000223",
+   "name_en": "Kejimkujik (National Park)",
+   "province": "NS",
+   "lat": 44.39,
+   "lon": -65.29,
+   "name_fr": "Kejimkujik (Parc national)",
+   "search_en": "kejimkujik (national park)",
+   "search_fr": "kejimkujik (parc national)"
+  },
+  {
+   "site_code": "s0000224",
+   "name_en": "Malahat",
+   "province": "BC",
+   "lat": 48.55,
+   "lon": -123.57,
+   "name_fr": "Malahat",
+   "search_en": "malahat",
+   "search_fr": "malahat"
+  },
+  {
+   "site_code": "s0000225",
+   "name_en": "Rockglen",
+   "province": "SK",
+   "lat": 49.18,
+   "lon": -105.95,
+   "name_fr": "Rockglen",
+   "search_en": "rockglen",
+   "search_fr": "rockglen"
+  },
+  {
+   "site_code": "s0000226",
+   "name_en": "Hope Slide",
+   "province": "BC",
+   "lat": 49.3,
+   "lon": -121.27,
+   "name_fr": "Hope Slide",
+   "search_en": "hope slide",
+   "search_fr": "hope slide"
+  },
+  {
+   "site_code": "s0000227",
+   "name_en": "Dease Lake",
+   "province": "BC",
+   "lat": 58.43,
+   "lon": -130.02,
+   "name_fr": "Dease Lake",
+   "search_en": "dease lake",
+   "search_fr": "dease lake"
+  },
+  {
+   "site_code": "s0000228",
+   "name_en": "Cassiar",
+   "province": "BC",
+   "lat": 59.29,
+   "lon": -129.85,
+   "name_fr": "Cassiar",
+   "search_en": "cassiar",
+   "search_fr": "cassiar"
+  },
+  {
+   "site_code": "s0000229",
+   "name_en": "Lac La Biche",
+   "province": "AB",
+   "lat": 54.77,
+   "lon": -111.98,
+   "name_fr": "Lac La Biche",
+   "search_en": "lac la biche",
+   "search_fr": "lac la biche"
+  },
+  {
+   "site_code": "s0000230",
+   "name_en": "Lucky Lake",
+   "province": "SK",
+   "lat": 50.99,
+   "lon": -107.13,
+   "name_fr": "Lucky Lake",
+   "search_en": "lucky lake",
+   "search_fr": "lucky lake"
+  },
+  {
+   "site_code": "s0000231",
+   "name_en": "Ogoki",
+   "province": "ON",
+   "lat": 51.63,
+   "lon": -85.95,
+   "name_fr": "Ogoki",
+   "search_en": "ogoki",
+   "search_fr": "ogoki"
+  },
+  {
+   "site_code": "s0000232",
+   "name_en": "Webequie",
+   "province": "ON",
+   "lat": 52.99,
+   "lon": -87.36,
+   "name_fr": "Webequie",
+   "search_en": "webequie",
+   "search_fr": "webequie"
+  },
+  {
+   "site_code": "s0000233",
+   "name_en": "Lansdowne House",
+   "province": "ON",
+   "lat": 52.22,
+   "lon": -87.89,
+   "name_fr": "Lansdowne House",
+   "search_en": "lansdowne house",
+   "search_fr": "lansdowne house"
+  },
+  {
+   "site_code": "s0000234",
+   "name_en": "Gonzales Point",
+   "province": "BC",
+   "lat": 48.41,
+   "lon": -123.29,
+   "name_fr": "Gonzales Point",
+   "search_en": "gonzales point",
+   "search_fr": "gonzales point"
+  },
+  {
+   "site_code": "s0000235",
+   "name_en": "Wingham",
+   "province": "ON",
+   "lat": 43.89,
+   "lon": -81.31,
+   "name_fr": "Wingham",
+   "search_en": "wingham",
+   "search_fr": "wingham"
+  },
+  {
+   "site_code": "s0000236",
+   "name_en": "Walkerton",
+   "province": "ON",
+   "lat": 44.13,
+   "lon": -81.15,
+   "name_fr": "Walkerton",
+   "search_en": "walkerton",
+   "search_fr": "walkerton"
+  },
+  {
+   "site_code": "s0000237",
+   "name_en": "Dundalk",
+   "province": "ON",
+   "lat": 44.17,
+   "lon": -80.39,
+   "name_fr": "Dundalk",
+   "search_en": "dundalk",
+   "search_fr": "dundalk"
+  },
+  {
+   "site_code": "s0000238",
+   "name_en": "North Perth",
+   "province": "ON",
+   "lat": 43.73,
+   "lon": -80.97,
+   "name_fr": "North Perth",
+   "search_en": "north perth",
+   "search_fr": "north perth"
+  },
+  {
+   "site_code": "s0000239",
+   "name_en": "Shelburne",
+   "province": "ON",
+   "lat": 44.08,
+   "lon": -80.2,
+   "name_fr": "Shelburne",
+   "search_en": "shelburne",
+   "search_fr": "shelburne"
+  },
+  {
+   "site_code": "s0000240",
+   "name_en": "Mount Forest",
+   "province": "ON",
+   "lat": 43.98,
+   "lon": -80.74,
+   "name_fr": "Mount Forest",
+   "search_en": "mount forest",
+   "search_fr": "mount forest"
+  },
+  {
+   "site_code": "s0000241",
+   "name_en": "Waskesiu Lake",
+   "province": "SK",
+   "lat": 53.92,
+   "lon": -106.08,
+   "name_fr": "Waskesiu Lake",
+   "search_en": "waskesiu lake",
+   "search_fr": "waskesiu lake"
+  },
+  {
+   "site_code": "s0000242",
+   "name_en": "Lytton",
+   "province": "BC",
+   "lat": 50.23,
+   "lon": -121.57,
+   "name_fr": "Lytton",
+   "search_en": "lytton",
+   "search_fr": "lytton"
+  },
+  {
+   "site_code": "s0000243",
+   "name_en": "Miscou Island",
+   "province": "NB",
+   "lat": 47.95,
+   "lon": -64.57,
+   "name_fr": "Miscou Island",
+   "search_en": "miscou island",
+   "search_fr": "miscou island"
+  },
+  {
+   "site_code": "s0000244",
+   "name_en": "Maniwaki",
+   "province": "QC",
+   "lat": 46.38,
+   "lon": -75.97,
+   "name_fr": "Maniwaki",
+   "search_en": "maniwaki",
+   "search_fr": "maniwaki"
+  },
+  {
+   "site_code": "s0000245",
+   "name_en": "La Vérendrye (Réserve faunique)",
+   "province": "QC",
+   "lat": 47.33,
+   "lon": -77.0,
+   "name_fr": "La Vérendrye (Réserve faunique)",
+   "search_en": "la verendrye (reserve faunique)",
+   "search_fr": "la verendrye (reserve faunique)"
+  },
+  {
+   "site_code": "s0000246",
+   "name_en": "Mont-Laurier",
+   "province": "QC",
+   "lat": 46.55,
+   "lon": -75.5,
+   "name_fr": "Mont-Laurier",
+   "search_en": "mont-laurier",
+   "search_fr": "mont-laurier"
+  },
+  {
+   "site_code": "s0000247",
+   "name_en": "Pitt Meadows",
+   "province": "BC",
+   "lat": 49.22,
+   "lon": -122.69,
+   "name_fr": "Pitt Meadows",
+   "search_en": "pitt meadows",
+   "search_fr": "pitt meadows"
+  },
+  {
+   "site_code": "s0000248",
+   "name_en": "Maple Creek",
+   "province": "SK",
+   "lat": 49.91,
+   "lon": -109.48,
+   "name_fr": "Maple Creek",
+   "search_en": "maple creek",
+   "search_fr": "maple creek"
+  },
+  {
+   "site_code": "s0000249",
+   "name_en": "Whati",
+   "province": "NT",
+   "lat": 63.14,
+   "lon": -117.27,
+   "name_fr": "Whati",
+   "search_en": "whati",
+   "search_fr": "whati"
+  },
+  {
+   "site_code": "s0000250",
+   "name_en": "Fredericton",
+   "province": "NB",
+   "lat": 45.95,
+   "lon": -66.67,
+   "name_fr": "Fredericton",
+   "search_en": "fredericton",
+   "search_fr": "fredericton"
+  },
+  {
+   "site_code": "s0000251",
+   "name_en": "Cobourg",
+   "province": "ON",
+   "lat": 43.96,
+   "lon": -78.16,
+   "name_fr": "Cobourg",
+   "search_en": "cobourg",
+   "search_fr": "cobourg"
+  },
+  {
+   "site_code": "s0000252",
+   "name_en": "North Cape",
+   "province": "PE",
+   "lat": 47.07,
+   "lon": -64.0,
+   "name_fr": "North Cape",
+   "search_en": "north cape",
+   "search_fr": "north cape"
+  },
+  {
+   "site_code": "s0000253",
+   "name_en": "Rivière-du-Loup",
+   "province": "QC",
+   "lat": 47.83,
+   "lon": -69.53,
+   "name_fr": "Rivière-du-Loup",
+   "search_en": "riviere-du-loup",
+   "search_fr": "riviere-du-loup"
+  },
+  {
+   "site_code": "s0000254",
+   "name_en": "Trois-Pistoles",
+   "province": "QC",
+   "lat": 48.12,
+   "lon": -69.18,
+   "name_fr": "Trois-Pistoles",
+   "search_en": "trois-pistoles",
+   "search_fr": "trois-pistoles"
+  },
+  {
+   "site_code": "s0000255",
+   "name_en": "Temiscouata",
+   "province": "QC",
+   "lat": 47.68,
+   "lon": -68.88,
+   "name_fr": "Témiscouata",
+   "search_en": "temiscouata",
+   "search_fr": "temiscouata"
+  },
+  {
+   "site_code": "s0000256",
+   "name_en": "Deerwood",
+   "province": "MB",
+   "lat": 49.4,
+   "lon": -98.39,
+   "name_fr": "Deerwood",
+   "search_en": "deerwood",
+   "search_fr": "deerwood"
+  },
+  {
+   "site_code": "s0000257",
+   "name_en": "Carman",
+   "province": "MB",
+   "lat": 49.5,
+   "lon": -98.0,
+   "name_fr": "Carman",
+   "search_en": "carman",
+   "search_fr": "carman"
+  },
+  {
+   "site_code": "s0000258",
+   "name_en": "Nelson",
+   "province": "BC",
+   "lat": 49.5,
+   "lon": -117.28,
+   "name_fr": "Nelson",
+   "search_en": "nelson",
+   "search_fr": "nelson"
+  },
+  {
+   "site_code": "s0000259",
+   "name_en": "Nakusp",
+   "province": "BC",
+   "lat": 50.25,
+   "lon": -117.8,
+   "name_fr": "Nakusp",
+   "search_en": "nakusp",
+   "search_fr": "nakusp"
+  },
+  {
+   "site_code": "s0000260",
+   "name_en": "Nicolet",
+   "province": "QC",
+   "lat": 46.22,
+   "lon": -72.62,
+   "name_fr": "Nicolet",
+   "search_en": "nicolet",
+   "search_fr": "nicolet"
+  },
+  {
+   "site_code": "s0000261",
+   "name_en": "Drummondville",
+   "province": "QC",
+   "lat": 45.88,
+   "lon": -72.48,
+   "name_fr": "Drummondville",
+   "search_en": "drummondville",
+   "search_fr": "drummondville"
+  },
+  {
+   "site_code": "s0000262",
+   "name_en": "Saint-Nicéphore",
+   "province": "QC",
+   "lat": 45.83,
+   "lon": -72.42,
+   "name_fr": "Saint-Nicéphore",
+   "search_en": "saint-nicephore",
+   "search_fr": "saint-nicephore"
+  },
+  {
+   "site_code": "s0000263",
+   "name_en": "Kananaskis (Nakiska Ridgetop)",
+   "province": "AB",
+   "lat": 51.08,
+   "lon": -115.13,
+   "name_fr": "Kananaskis (Nakiska Ridgetop)",
+   "search_en": "kananaskis (nakiska ridgetop)",
+   "search_fr": "kananaskis (nakiska ridgetop)"
+  },
+  {
+   "site_code": "s0000264",
+   "name_en": "North East Margaree",
+   "province": "NS",
+   "lat": 46.33,
+   "lon": -61.01,
+   "name_fr": "North East Margaree",
+   "search_en": "north east margaree",
+   "search_fr": "north east margaree"
+  },
+  {
+   "site_code": "s0000265",
+   "name_en": "Baddeck",
+   "province": "NS",
+   "lat": 46.1,
+   "lon": -60.75,
+   "name_fr": "Baddeck",
+   "search_en": "baddeck",
+   "search_fr": "baddeck"
+  },
+  {
+   "site_code": "s0000266",
+   "name_en": "Hearst",
+   "province": "ON",
+   "lat": 49.69,
+   "lon": -83.65,
+   "name_fr": "Hearst",
+   "search_en": "hearst",
+   "search_fr": "hearst"
+  },
+  {
+   "site_code": "s0000267",
+   "name_en": "Hornepayne",
+   "province": "ON",
+   "lat": 49.25,
+   "lon": -84.78,
+   "name_fr": "Hornepayne",
+   "search_en": "hornepayne",
+   "search_fr": "hornepayne"
+  },
+  {
+   "site_code": "s0000268",
+   "name_en": "New Carlisle",
+   "province": "QC",
+   "lat": 48.02,
+   "lon": -65.33,
+   "name_fr": "New Carlisle",
+   "search_en": "new carlisle",
+   "search_fr": "new carlisle"
+  },
+  {
+   "site_code": "s0000269",
+   "name_en": "Bonaventure",
+   "province": "QC",
+   "lat": 48.05,
+   "lon": -65.48,
+   "name_fr": "Bonaventure",
+   "search_en": "bonaventure",
+   "search_fr": "bonaventure"
+  },
+  {
+   "site_code": "s0000270",
+   "name_en": "Dolbeau-Mistassini",
+   "province": "QC",
+   "lat": 48.88,
+   "lon": -72.23,
+   "name_fr": "Dolbeau-Mistassini",
+   "search_en": "dolbeau-mistassini",
+   "search_fr": "dolbeau-mistassini"
+  },
+  {
+   "site_code": "s0000272",
+   "name_en": "Onefour",
+   "province": "AB",
+   "lat": 49.12,
+   "lon": -110.47,
+   "name_fr": "Onefour",
+   "search_en": "onefour",
+   "search_fr": "onefour"
+  },
+  {
+   "site_code": "s0000273",
+   "name_en": "Oak Point",
+   "province": "MB",
+   "lat": 50.51,
+   "lon": -98.03,
+   "name_fr": "Oak Point",
+   "search_en": "oak point",
+   "search_fr": "oak point"
+  },
+  {
+   "site_code": "s0000274",
+   "name_en": "Elbow",
+   "province": "SK",
+   "lat": 51.12,
+   "lon": -106.6,
+   "name_fr": "Elbow",
+   "search_en": "elbow",
+   "search_fr": "elbow"
+  },
+  {
+   "site_code": "s0000275",
+   "name_en": "Dawson",
+   "province": "YT",
+   "lat": 64.06,
+   "lon": -139.43,
+   "name_fr": "Dawson",
+   "search_en": "dawson",
+   "search_fr": "dawson"
+  },
+  {
+   "site_code": "s0000276",
+   "name_en": "McCreary",
+   "province": "MB",
+   "lat": 50.77,
+   "lon": -99.49,
+   "name_fr": "McCreary",
+   "search_en": "mccreary",
+   "search_fr": "mccreary"
+  },
+  {
+   "site_code": "s0000277",
+   "name_en": "Breton",
+   "province": "AB",
+   "lat": 53.11,
+   "lon": -114.47,
+   "name_fr": "Breton",
+   "search_en": "breton",
+   "search_fr": "breton"
+  },
+  {
+   "site_code": "s0000278",
+   "name_en": "Wynyard",
+   "province": "SK",
+   "lat": 51.77,
+   "lon": -104.18,
+   "name_fr": "Wynyard",
+   "search_en": "wynyard",
+   "search_fr": "wynyard"
+  },
+  {
+   "site_code": "s0000279",
+   "name_en": "Hendrickson Creek",
+   "province": "AB",
+   "lat": 53.77,
+   "lon": -118.37,
+   "name_fr": "Hendrickson Creek",
+   "search_en": "hendrickson creek",
+   "search_fr": "hendrickson creek"
+  },
+  {
+   "site_code": "s0000280",
+   "name_en": "St. John's",
+   "province": "NL",
+   "lat": 47.57,
+   "lon": -52.73,
+   "name_fr": "St. John's",
+   "search_en": "st. john's",
+   "search_fr": "st. john's"
+  },
+  {
+   "site_code": "s0000281",
+   "name_en": "Midland",
+   "province": "ON",
+   "lat": 44.75,
+   "lon": -79.88,
+   "name_fr": "Midland",
+   "search_en": "midland",
+   "search_fr": "midland"
+  },
+  {
+   "site_code": "s0000282",
+   "name_en": "Fort Erie",
+   "province": "ON",
+   "lat": 42.92,
+   "lon": -79.02,
+   "name_fr": "Fort Erie",
+   "search_en": "fort erie",
+   "search_fr": "fort erie"
+  },
+  {
+   "site_code": "s0000283",
+   "name_en": "Port Colborne",
+   "province": "ON",
+   "lat": 42.92,
+   "lon": -79.19,
+   "name_fr": "Port Colborne",
+   "search_en": "port colborne",
+   "search_fr": "port colborne"
+  },
+  {
+   "site_code": "s0000284",
+   "name_en": "Laurentides (Réserve faunique)",
+   "province": "QC",
+   "lat": 47.75,
+   "lon": -71.25,
+   "name_fr": "Laurentides (Réserve faunique)",
+   "search_en": "laurentides (reserve faunique)",
+   "search_fr": "laurentides (reserve faunique)"
+  },
+  {
+   "site_code": "s0000285",
+   "name_en": "Point Lepreau",
+   "province": "NB",
+   "lat": 45.07,
+   "lon": -66.45,
+   "name_fr": "Point Lepreau",
+   "search_en": "point lepreau",
+   "search_fr": "point lepreau"
+  },
+  {
+   "site_code": "s0000286",
+   "name_en": "Esquimalt",
+   "province": "BC",
+   "lat": 48.45,
+   "lon": -123.42,
+   "name_fr": "Esquimalt",
+   "search_en": "esquimalt",
+   "search_fr": "esquimalt"
+  },
+  {
+   "site_code": "s0000287",
+   "name_en": "Parent",
+   "province": "QC",
+   "lat": 47.92,
+   "lon": -74.62,
+   "name_fr": "Parent",
+   "search_en": "parent",
+   "search_fr": "parent"
+  },
+  {
+   "site_code": "s0000288",
+   "name_en": "Gouin (Réservoir)",
+   "province": "QC",
+   "lat": 48.63,
+   "lon": -74.9,
+   "name_fr": "Gouin (Réservoir)",
+   "search_en": "gouin (reservoir)",
+   "search_fr": "gouin (reservoir)"
+  },
+  {
+   "site_code": "s0000289",
+   "name_en": "Pilot Mound",
+   "province": "MB",
+   "lat": 49.2,
+   "lon": -98.89,
+   "name_fr": "Pilot Mound",
+   "search_en": "pilot mound",
+   "search_fr": "pilot mound"
+  },
+  {
+   "site_code": "s0000290",
+   "name_en": "Terrebonne",
+   "province": "QC",
+   "lat": 45.7,
+   "lon": -73.63,
+   "name_fr": "Terrebonne",
+   "search_en": "terrebonne",
+   "search_fr": "terrebonne"
+  },
+  {
+   "site_code": "s0000291",
+   "name_en": "Princeton",
+   "province": "BC",
+   "lat": 49.46,
+   "lon": -120.51,
+   "name_fr": "Princeton",
+   "search_en": "princeton",
+   "search_fr": "princeton"
+  },
+  {
+   "site_code": "s0000292",
+   "name_en": "Puntzi Mountain",
+   "province": "BC",
+   "lat": 52.17,
+   "lon": -124.2,
+   "name_fr": "Puntzi Mountain",
+   "search_en": "puntzi mountain",
+   "search_fr": "puntzi mountain"
+  },
+  {
+   "site_code": "s0000293",
+   "name_en": "Burns Lake",
+   "province": "BC",
+   "lat": 54.23,
+   "lon": -125.75,
+   "name_fr": "Burns Lake",
+   "search_en": "burns lake",
+   "search_fr": "burns lake"
+  },
+  {
+   "site_code": "s0000294",
+   "name_en": "Port Alberni",
+   "province": "BC",
+   "lat": 49.24,
+   "lon": -124.8,
+   "name_fr": "Port Alberni",
+   "search_en": "port alberni",
+   "search_fr": "port alberni"
+  },
+  {
+   "site_code": "s0000295",
+   "name_en": "Tadoussac",
+   "province": "QC",
+   "lat": 48.15,
+   "lon": -69.72,
+   "name_fr": "Tadoussac",
+   "search_en": "tadoussac",
+   "search_fr": "tadoussac"
+  },
+  {
+   "site_code": "s0000296",
+   "name_en": "Coaticook",
+   "province": "QC",
+   "lat": 45.13,
+   "lon": -71.8,
+   "name_fr": "Coaticook",
+   "search_en": "coaticook",
+   "search_fr": "coaticook"
+  },
+  {
+   "site_code": "s0000297",
+   "name_en": "Lacombe",
+   "province": "AB",
+   "lat": 52.46,
+   "lon": -113.73,
+   "name_fr": "Lacombe",
+   "search_en": "lacombe",
+   "search_fr": "lacombe"
+  },
+  {
+   "site_code": "s0000298",
+   "name_en": "Cape Race",
+   "province": "NL",
+   "lat": 46.66,
+   "lon": -53.07,
+   "name_fr": "Cape Race",
+   "search_en": "cape race",
+   "search_fr": "cape race"
+  },
+  {
+   "site_code": "s0000299",
+   "name_en": "Red Earth Creek",
+   "province": "AB",
+   "lat": 56.54,
+   "lon": -115.29,
+   "name_fr": "Red Earth Creek",
+   "search_en": "red earth creek",
+   "search_fr": "red earth creek"
+  },
+  {
+   "site_code": "s0000300",
+   "name_en": "Rosetown",
+   "province": "SK",
+   "lat": 51.55,
+   "lon": -107.99,
+   "name_fr": "Rosetown",
+   "search_en": "rosetown",
+   "search_fr": "rosetown"
+  },
+  {
+   "site_code": "s0000301",
+   "name_en": "Bancroft",
+   "province": "ON",
+   "lat": 45.06,
+   "lon": -77.76,
+   "name_fr": "Bancroft",
+   "search_en": "bancroft",
+   "search_fr": "bancroft"
+  },
+  {
+   "site_code": "s0000302",
+   "name_en": "Barry's Bay",
+   "province": "ON",
+   "lat": 45.49,
+   "lon": -77.68,
+   "name_fr": "Barry's Bay",
+   "search_en": "barry's bay",
+   "search_fr": "barry's bay"
+  },
+  {
+   "site_code": "s0000303",
+   "name_en": "Haliburton",
+   "province": "ON",
+   "lat": 45.05,
+   "lon": -78.51,
+   "name_fr": "Haliburton",
+   "search_en": "haliburton",
+   "search_fr": "haliburton"
+  },
+  {
+   "site_code": "s0000304",
+   "name_en": "Apsley",
+   "province": "ON",
+   "lat": 44.76,
+   "lon": -78.09,
+   "name_fr": "Apsley",
+   "search_en": "apsley",
+   "search_fr": "apsley"
+  },
+  {
+   "site_code": "s0000305",
+   "name_en": "Kaladar",
+   "province": "ON",
+   "lat": 44.65,
+   "lon": -77.12,
+   "name_fr": "Kaladar",
+   "search_en": "kaladar",
+   "search_fr": "kaladar"
+  },
+  {
+   "site_code": "s0000306",
+   "name_en": "Rocky Mountain House",
+   "province": "AB",
+   "lat": 52.37,
+   "lon": -114.92,
+   "name_fr": "Rocky Mountain House",
+   "search_en": "rocky mountain house",
+   "search_fr": "rocky mountain house"
+  },
+  {
+   "site_code": "s0000307",
+   "name_en": "St. Peter's",
+   "province": "NS",
+   "lat": 45.66,
+   "lon": -60.88,
+   "name_fr": "St. Peter's",
+   "search_en": "st. peter's",
+   "search_fr": "st. peter's"
+  },
+  {
+   "site_code": "s0000308",
+   "name_en": "Hart Island",
+   "province": "NS",
+   "lat": 45.35,
+   "lon": -60.98,
+   "name_fr": "Hart Island",
+   "search_en": "hart island",
+   "search_fr": "hart island"
+  },
+  {
+   "site_code": "s0000309",
+   "name_en": "Rock River",
+   "province": "YT",
+   "lat": 66.98,
+   "lon": -136.22,
+   "name_fr": "Rock River",
+   "search_en": "rock river",
+   "search_fr": "rock river"
+  },
+  {
+   "site_code": "s0000310",
+   "name_en": "Crowsnest",
+   "province": "AB",
+   "lat": 49.63,
+   "lon": -114.69,
+   "name_fr": "Crowsnest",
+   "search_en": "crowsnest",
+   "search_fr": "crowsnest"
+  },
+  {
+   "site_code": "s0000311",
+   "name_en": "Camrose",
+   "province": "AB",
+   "lat": 53.02,
+   "lon": -112.82,
+   "name_fr": "Camrose",
+   "search_en": "camrose",
+   "search_fr": "camrose"
+  },
+  {
+   "site_code": "s0000312",
+   "name_en": "Wetaskiwin",
+   "province": "AB",
+   "lat": 52.97,
+   "lon": -113.38,
+   "name_fr": "Wetaskiwin",
+   "search_en": "wetaskiwin",
+   "search_fr": "wetaskiwin"
+  },
+  {
+   "site_code": "s0000313",
+   "name_en": "Milk River",
+   "province": "AB",
+   "lat": 49.15,
+   "lon": -112.09,
+   "name_fr": "Milk River",
+   "search_en": "milk river",
+   "search_fr": "milk river"
+  },
+  {
+   "site_code": "s0000314",
+   "name_en": "Percé",
+   "province": "QC",
+   "lat": 48.53,
+   "lon": -64.22,
+   "name_fr": "Percé",
+   "search_en": "perce",
+   "search_fr": "perce"
+  },
+  {
+   "site_code": "s0000315",
+   "name_en": "Chandler",
+   "province": "QC",
+   "lat": 48.35,
+   "lon": -64.68,
+   "name_fr": "Chandler",
+   "search_en": "chandler",
+   "search_fr": "chandler"
+  },
+  {
+   "site_code": "s0000316",
+   "name_en": "Gibsons",
+   "province": "BC",
+   "lat": 49.4,
+   "lon": -123.5,
+   "name_fr": "Gibsons",
+   "search_en": "gibsons",
+   "search_fr": "gibsons"
+  },
+  {
+   "site_code": "s0000317",
+   "name_en": "Sechelt",
+   "province": "BC",
+   "lat": 49.47,
+   "lon": -123.77,
+   "name_fr": "Sechelt",
+   "search_en": "sechelt",
+   "search_fr": "sechelt"
+  },
+  {
+   "site_code": "s0000318",
+   "name_en": "Halifax",
+   "province": "NS",
+   "lat": 44.87,
+   "lon": -63.72,
+   "name_fr": "Halifax",
+   "search_en": "halifax",
+   "search_fr": "halifax"
+  },
+  {
+   "site_code": "s0000319",
+   "name_en": "Grande-Vallée",
+   "province": "QC",
+   "lat": 49.22,
+   "lon": -65.13,
+   "name_fr": "Grande-Vallée",
+   "search_en": "grande-vallee",
+   "search_fr": "grande-vallee"
+  },
+  {
+   "site_code": "s0000320",
+   "name_en": "Cap Chat",
+   "province": "QC",
+   "lat": 49.1,
+   "lon": -66.68,
+   "name_fr": "Cap Chat",
+   "search_en": "cap chat",
+   "search_fr": "cap chat"
+  },
+  {
+   "site_code": "s0000321",
+   "name_en": "Gaspésie (Parc national)",
+   "province": "QC",
+   "lat": 48.93,
+   "lon": -66.28,
+   "name_fr": "Gaspésie (Parc national)",
+   "search_en": "gaspesie (parc national)",
+   "search_fr": "gaspesie (parc national)"
+  },
+  {
+   "site_code": "s0000322",
+   "name_en": "Sainte-Anne-Des-Monts",
+   "province": "QC",
+   "lat": 49.13,
+   "lon": -66.5,
+   "name_fr": "Sainte-Anne-Des-Monts",
+   "search_en": "sainte-anne-des-monts",
+   "search_fr": "sainte-anne-des-monts"
+  },
+  {
+   "site_code": "s0000323",
+   "name_en": "Squamish",
+   "province": "BC",
+   "lat": 49.75,
+   "lon": -123.13,
+   "name_fr": "Squamish",
+   "search_en": "squamish",
+   "search_fr": "squamish"
+  },
+  {
+   "site_code": "s0000324",
+   "name_en": "Salmon Arm",
+   "province": "BC",
+   "lat": 50.7,
+   "lon": -119.27,
+   "name_fr": "Salmon Arm",
+   "search_en": "salmon arm",
+   "search_fr": "salmon arm"
+  },
+  {
+   "site_code": "s0000325",
+   "name_en": "Stratford",
+   "province": "ON",
+   "lat": 43.37,
+   "lon": -80.98,
+   "name_fr": "Stratford",
+   "search_en": "stratford",
+   "search_fr": "stratford"
+  },
+  {
+   "site_code": "s0000326",
+   "name_en": "London",
+   "province": "ON",
+   "lat": 42.97,
+   "lon": -81.23,
+   "name_fr": "London",
+   "search_en": "london",
+   "search_fr": "london"
+  },
+  {
+   "site_code": "s0000327",
+   "name_en": "Woodstock",
+   "province": "ON",
+   "lat": 43.14,
+   "lon": -80.74,
+   "name_fr": "Woodstock",
+   "search_en": "woodstock",
+   "search_fr": "woodstock"
+  },
+  {
+   "site_code": "s0000328",
+   "name_en": "Strathroy",
+   "province": "ON",
+   "lat": 42.96,
+   "lon": -81.62,
+   "name_fr": "Strathroy",
+   "search_en": "strathroy",
+   "search_fr": "strathroy"
+  },
+  {
+   "site_code": "s0000329",
+   "name_en": "St. Thomas",
+   "province": "ON",
+   "lat": 42.78,
+   "lon": -81.19,
+   "name_fr": "St. Thomas",
+   "search_en": "st. thomas",
+   "search_fr": "st. thomas"
+  },
+  {
+   "site_code": "s0000330",
+   "name_en": "Spiritwood",
+   "province": "SK",
+   "lat": 53.37,
+   "lon": -107.52,
+   "name_fr": "Spiritwood",
+   "search_en": "spiritwood",
+   "search_fr": "spiritwood"
+  },
+  {
+   "site_code": "s0000331",
+   "name_en": "Saint Andrews",
+   "province": "NB",
+   "lat": 45.08,
+   "lon": -67.06,
+   "name_fr": "Saint Andrews",
+   "search_en": "saint andrews",
+   "search_fr": "saint andrews"
+  },
+  {
+   "site_code": "s0000332",
+   "name_en": "St. Stephen",
+   "province": "NB",
+   "lat": 45.22,
+   "lon": -67.33,
+   "name_fr": "St. Stephen",
+   "search_en": "st. stephen",
+   "search_fr": "st. stephen"
+  },
+  {
+   "site_code": "s0000333",
+   "name_en": "La Malbaie",
+   "province": "QC",
+   "lat": 47.65,
+   "lon": -70.15,
+   "name_fr": "La Malbaie",
+   "search_en": "la malbaie",
+   "search_fr": "la malbaie"
+  },
+  {
+   "site_code": "s0000334",
+   "name_en": "Montmagny",
+   "province": "QC",
+   "lat": 46.98,
+   "lon": -70.55,
+   "name_fr": "Montmagny",
+   "search_en": "montmagny",
+   "search_fr": "montmagny"
+  },
+  {
+   "site_code": "s0000335",
+   "name_en": "Kamouraska",
+   "province": "QC",
+   "lat": 47.57,
+   "lon": -69.87,
+   "name_fr": "Kamouraska",
+   "search_en": "kamouraska",
+   "search_fr": "kamouraska"
+  },
+  {
+   "site_code": "s0000336",
+   "name_en": "L'Islet",
+   "province": "QC",
+   "lat": 47.1,
+   "lon": -70.35,
+   "name_fr": "L'Islet",
+   "search_en": "l'islet",
+   "search_fr": "l'islet"
+  },
+  {
+   "site_code": "s0000337",
+   "name_en": "Sprague",
+   "province": "MB",
+   "lat": 49.04,
+   "lon": -95.64,
+   "name_fr": "Sprague",
+   "search_en": "sprague",
+   "search_fr": "sprague"
+  },
+  {
+   "site_code": "s0000338",
+   "name_en": "Sachs Harbour",
+   "province": "NT",
+   "lat": 71.98,
+   "lon": -125.24,
+   "name_fr": "Sachs Harbour",
+   "search_en": "sachs harbour",
+   "search_fr": "sachs harbour"
+  },
+  {
+   "site_code": "s0000339",
+   "name_en": "Fisher Branch",
+   "province": "MB",
+   "lat": 51.08,
+   "lon": -97.62,
+   "name_fr": "Fisher Branch",
+   "search_en": "fisher branch",
+   "search_fr": "fisher branch"
+  },
+  {
+   "site_code": "s0000340",
+   "name_en": "Sambaa K'e",
+   "province": "NT",
+   "lat": 60.43,
+   "lon": -121.25,
+   "name_fr": "Sambaa K'e",
+   "search_en": "sambaa k'e",
+   "search_fr": "sambaa k'e"
+  },
+  {
+   "site_code": "s0000341",
+   "name_en": "Tetsa River (Provincial Park)",
+   "province": "BC",
+   "lat": 58.65,
+   "lon": -123.95,
+   "name_fr": "Tetsa River (Parc provincial)",
+   "search_en": "tetsa river (provincial park)",
+   "search_fr": "tetsa river (parc provincial)"
+  },
+  {
+   "site_code": "s0000342",
+   "name_en": "Baie-Saint-Paul",
+   "province": "QC",
+   "lat": 47.45,
+   "lon": -70.5,
+   "name_fr": "Baie-Saint-Paul",
+   "search_en": "baie-saint-paul",
+   "search_fr": "baie-saint-paul"
+  },
+  {
+   "site_code": "s0000343",
+   "name_en": "Biggar",
+   "province": "SK",
+   "lat": 52.06,
+   "lon": -107.98,
+   "name_fr": "Biggar",
+   "search_en": "biggar",
+   "search_fr": "biggar"
+  },
+  {
+   "site_code": "s0000344",
+   "name_en": "Scott",
+   "province": "SK",
+   "lat": 52.37,
+   "lon": -108.83,
+   "name_fr": "Scott",
+   "search_en": "scott",
+   "search_fr": "scott"
+  },
+  {
+   "site_code": "s0000345",
+   "name_en": "Magog",
+   "province": "QC",
+   "lat": 45.27,
+   "lon": -72.15,
+   "name_fr": "Magog",
+   "search_en": "magog",
+   "search_fr": "magog"
+  },
+  {
+   "site_code": "s0000346",
+   "name_en": "Trois-Rivières",
+   "province": "QC",
+   "lat": 46.35,
+   "lon": -72.58,
+   "name_fr": "Trois-Rivières",
+   "search_en": "trois-rivieres",
+   "search_fr": "trois-rivieres"
+  },
+  {
+   "site_code": "s0000347",
+   "name_en": "Bécancour",
+   "province": "QC",
+   "lat": 46.33,
+   "lon": -72.43,
+   "name_fr": "Bécancour",
+   "search_en": "becancour",
+   "search_fr": "becancour"
+  },
+  {
+   "site_code": "s0000348",
+   "name_en": "Louiseville",
+   "province": "QC",
+   "lat": 46.25,
+   "lon": -72.95,
+   "name_fr": "Louiseville",
+   "search_en": "louiseville",
+   "search_fr": "louiseville"
+  },
+  {
+   "site_code": "s0000349",
+   "name_en": "Faro",
+   "province": "YT",
+   "lat": 62.23,
+   "lon": -133.36,
+   "name_fr": "Faro",
+   "search_en": "faro",
+   "search_fr": "faro"
+  },
+  {
+   "site_code": "s0000350",
+   "name_en": "Ross River",
+   "province": "YT",
+   "lat": 61.98,
+   "lon": -132.43,
+   "name_fr": "Ross River",
+   "search_en": "ross river",
+   "search_fr": "ross river"
+  },
+  {
+   "site_code": "s0000351",
+   "name_en": "Summerland",
+   "province": "BC",
+   "lat": 49.6,
+   "lon": -119.67,
+   "name_fr": "Summerland",
+   "search_en": "summerland",
+   "search_fr": "summerland"
+  },
+  {
+   "site_code": "s0000352",
+   "name_en": "Shoal Lake",
+   "province": "MB",
+   "lat": 50.44,
+   "lon": -100.59,
+   "name_fr": "Shoal Lake",
+   "search_en": "shoal lake",
+   "search_fr": "shoal lake"
+  },
+  {
+   "site_code": "s0000353",
+   "name_en": "Rouyn-Noranda",
+   "province": "QC",
+   "lat": 48.23,
+   "lon": -79.02,
+   "name_fr": "Rouyn-Noranda",
+   "search_en": "rouyn-noranda",
+   "search_fr": "rouyn-noranda"
+  },
+  {
+   "site_code": "s0000354",
+   "name_en": "La Sarre",
+   "province": "QC",
+   "lat": 48.8,
+   "lon": -79.2,
+   "name_fr": "La Sarre",
+   "search_en": "la sarre",
+   "search_fr": "la sarre"
+  },
+  {
+   "site_code": "s0000355",
+   "name_en": "Swift Current",
+   "province": "SK",
+   "lat": 50.29,
+   "lon": -107.79,
+   "name_fr": "Swift Current",
+   "search_en": "swift current",
+   "search_fr": "swift current"
+  },
+  {
+   "site_code": "s0000356",
+   "name_en": "Vegreville",
+   "province": "AB",
+   "lat": 53.5,
+   "lon": -112.05,
+   "name_fr": "Vegreville",
+   "search_en": "vegreville",
+   "search_fr": "vegreville"
+  },
+  {
+   "site_code": "s0000357",
+   "name_en": "Val Marie",
+   "province": "SK",
+   "lat": 49.25,
+   "lon": -107.73,
+   "name_fr": "Val Marie",
+   "search_en": "val marie",
+   "search_fr": "val marie"
+  },
+  {
+   "site_code": "s0000358",
+   "name_en": "Vauxhall",
+   "province": "AB",
+   "lat": 50.07,
+   "lon": -112.11,
+   "name_fr": "Vauxhall",
+   "search_en": "vauxhall",
+   "search_fr": "vauxhall"
+  },
+  {
+   "site_code": "s0000359",
+   "name_en": "Taber",
+   "province": "AB",
+   "lat": 49.78,
+   "lon": -112.15,
+   "name_fr": "Taber",
+   "search_en": "taber",
+   "search_fr": "taber"
+  },
+  {
+   "site_code": "s0000360",
+   "name_en": "Cypress Hills (Provincial Park)",
+   "province": "SK",
+   "lat": 49.63,
+   "lon": -109.75,
+   "name_fr": "Cypress Hills (Parc provincial)",
+   "search_en": "cypress hills (provincial park)",
+   "search_fr": "cypress hills (parc provincial)"
+  },
+  {
+   "site_code": "s0000361",
+   "name_en": "Deux-Montagnes",
+   "province": "QC",
+   "lat": 45.53,
+   "lon": -73.88,
+   "name_fr": "Deux-Montagnes",
+   "search_en": "deux-montagnes",
+   "search_fr": "deux-montagnes"
+  },
+  {
+   "site_code": "s0000362",
+   "name_en": "Vaudreuil-Dorion",
+   "province": "QC",
+   "lat": 45.4,
+   "lon": -74.03,
+   "name_fr": "Vaudreuil-Dorion",
+   "search_en": "vaudreuil-dorion",
+   "search_fr": "vaudreuil-dorion"
+  },
+  {
+   "site_code": "s0000363",
+   "name_en": "Pincourt",
+   "province": "QC",
+   "lat": 45.38,
+   "lon": -73.98,
+   "name_fr": "Pincourt",
+   "search_en": "pincourt",
+   "search_fr": "pincourt"
+  },
+  {
+   "site_code": "s0000364",
+   "name_en": "Digby",
+   "province": "NS",
+   "lat": 44.62,
+   "lon": -65.76,
+   "name_fr": "Digby",
+   "search_en": "digby",
+   "search_fr": "digby"
+  },
+  {
+   "site_code": "s0000365",
+   "name_en": "Brier Island",
+   "province": "NS",
+   "lat": 44.27,
+   "lon": -66.37,
+   "name_fr": "Brier Island",
+   "search_en": "brier island",
+   "search_fr": "brier island"
+  },
+  {
+   "site_code": "s0000366",
+   "name_en": "Yellowknife",
+   "province": "NT",
+   "lat": 62.46,
+   "lon": -114.35,
+   "name_fr": "Yellowknife",
+   "search_en": "yellowknife",
+   "search_fr": "yellowknife"
+  },
+  {
+   "site_code": "s0000367",
+   "name_en": "Oakville",
+   "province": "ON",
+   "lat": 43.46,
+   "lon": -79.71,
+   "name_fr": "Oakville",
+   "search_en": "oakville",
+   "search_fr": "oakville"
+  },
+  {
+   "site_code": "s0000368",
+   "name_en": "Burlington",
+   "province": "ON",
+   "lat": 43.37,
+   "lon": -79.81,
+   "name_fr": "Burlington",
+   "search_en": "burlington",
+   "search_fr": "burlington"
+  },
+  {
+   "site_code": "s0000369",
+   "name_en": "Collins Bay",
+   "province": "SK",
+   "lat": 58.28,
+   "lon": -103.63,
+   "name_fr": "Collins Bay",
+   "search_en": "collins bay",
+   "search_fr": "collins bay"
+  },
+  {
+   "site_code": "s0000370",
+   "name_en": "Western Head",
+   "province": "NS",
+   "lat": 43.99,
+   "lon": -64.67,
+   "name_fr": "Western Head",
+   "search_en": "western head",
+   "search_fr": "western head"
+  },
+  {
+   "site_code": "s0000371",
+   "name_en": "Liverpool",
+   "province": "NS",
+   "lat": 44.04,
+   "lon": -64.72,
+   "name_fr": "Liverpool",
+   "search_en": "liverpool",
+   "search_fr": "liverpool"
+  },
+  {
+   "site_code": "s0000372",
+   "name_en": "Weyburn",
+   "province": "SK",
+   "lat": 49.66,
+   "lon": -103.85,
+   "name_fr": "Weyburn",
+   "search_en": "weyburn",
+   "search_fr": "weyburn"
+  },
+  {
+   "site_code": "s0000373",
+   "name_en": "White Rock",
+   "province": "BC",
+   "lat": 49.02,
+   "lon": -122.8,
+   "name_fr": "White Rock",
+   "search_en": "white rock",
+   "search_fr": "white rock"
+  },
+  {
+   "site_code": "s0000374",
+   "name_en": "Peawanuck",
+   "province": "ON",
+   "lat": 55.02,
+   "lon": -85.42,
+   "name_fr": "Peawanuck",
+   "search_en": "peawanuck",
+   "search_fr": "peawanuck"
+  },
+  {
+   "site_code": "s0000375",
+   "name_en": "Wasagaming",
+   "province": "MB",
+   "lat": 50.66,
+   "lon": -99.97,
+   "name_fr": "Wasagaming",
+   "search_en": "wasagaming",
+   "search_fr": "wasagaming"
+  },
+  {
+   "site_code": "s0000376",
+   "name_en": "Muncho Lake",
+   "province": "BC",
+   "lat": 58.93,
+   "lon": -125.77,
+   "name_fr": "Muncho Lake",
+   "search_en": "muncho lake",
+   "search_fr": "muncho lake"
+  },
+  {
+   "site_code": "s0000377",
+   "name_en": "Liard River",
+   "province": "BC",
+   "lat": 59.42,
+   "lon": -126.08,
+   "name_fr": "Liard River",
+   "search_en": "liard river",
+   "search_fr": "liard river"
+  },
+  {
+   "site_code": "s0000378",
+   "name_en": "Poplar River",
+   "province": "MB",
+   "lat": 52.99,
+   "lon": -97.28,
+   "name_fr": "Poplar River",
+   "search_en": "poplar river",
+   "search_fr": "poplar river"
+  },
+  {
+   "site_code": "s0000379",
+   "name_en": "Bow Valley (Provincial Park)",
+   "province": "AB",
+   "lat": 51.08,
+   "lon": -115.07,
+   "name_fr": "Bow Valley (Parc provincial)",
+   "search_en": "bow valley (provincial park)",
+   "search_fr": "bow valley (parc provincial)"
+  },
+  {
+   "site_code": "s0000380",
+   "name_en": "Roblin",
+   "province": "MB",
+   "lat": 51.23,
+   "lon": -101.36,
+   "name_fr": "Roblin",
+   "search_en": "roblin",
+   "search_fr": "roblin"
+  },
+  {
+   "site_code": "s0000381",
+   "name_en": "Last Mountain Lake (Sanctuary)",
+   "province": "SK",
+   "lat": 51.37,
+   "lon": -105.23,
+   "name_fr": "Last Mountain Lake (Sanctuaire)",
+   "search_en": "last mountain lake (sanctuary)",
+   "search_fr": "last mountain lake (sanctuaire)"
+  },
+  {
+   "site_code": "s0000382",
+   "name_en": "Bow Island",
+   "province": "AB",
+   "lat": 49.87,
+   "lon": -111.38,
+   "name_fr": "Bow Island",
+   "search_en": "bow island",
+   "search_fr": "bow island"
+  },
+  {
+   "site_code": "s0000383",
+   "name_en": "High River",
+   "province": "AB",
+   "lat": 50.58,
+   "lon": -113.87,
+   "name_fr": "High River",
+   "search_en": "high river",
+   "search_fr": "high river"
+  },
+  {
+   "site_code": "s0000384",
+   "name_en": "Stavely",
+   "province": "AB",
+   "lat": 50.16,
+   "lon": -113.64,
+   "name_fr": "Stavely",
+   "search_en": "stavely",
+   "search_fr": "stavely"
+  },
+  {
+   "site_code": "s0000385",
+   "name_en": "Tracadie-Sheila",
+   "province": "NB",
+   "lat": 47.51,
+   "lon": -64.92,
+   "name_fr": "Tracadie-Sheila",
+   "search_en": "tracadie-sheila",
+   "search_fr": "tracadie-sheila"
+  },
+  {
+   "site_code": "s0000386",
+   "name_en": "Bas-Caraquet",
+   "province": "NB",
+   "lat": 47.8,
+   "lon": -64.83,
+   "name_fr": "Bas-Caraquet",
+   "search_en": "bas-caraquet",
+   "search_fr": "bas-caraquet"
+  },
+  {
+   "site_code": "s0000387",
+   "name_en": "Outlook",
+   "province": "SK",
+   "lat": 51.49,
+   "lon": -107.05,
+   "name_fr": "Outlook",
+   "search_en": "outlook",
+   "search_fr": "outlook"
+  },
+  {
+   "site_code": "s0000388",
+   "name_en": "Gameti",
+   "province": "NT",
+   "lat": 64.12,
+   "lon": -117.35,
+   "name_fr": "Gameti",
+   "search_en": "gameti",
+   "search_fr": "gameti"
+  },
+  {
+   "site_code": "s0000389",
+   "name_en": "Indin River",
+   "province": "NT",
+   "lat": 64.28,
+   "lon": -115.07,
+   "name_fr": "Indin River",
+   "search_en": "indin river",
+   "search_fr": "indin river"
+  },
+  {
+   "site_code": "s0000390",
+   "name_en": "Victoria (University of)",
+   "province": "BC",
+   "lat": 48.46,
+   "lon": -123.3,
+   "name_fr": "Victoria (Université de)",
+   "search_en": "victoria (university of)",
+   "search_fr": "victoria (universite de)"
+  },
+  {
+   "site_code": "s0000391",
+   "name_en": "Kootenay (National Park)",
+   "province": "BC",
+   "lat": 50.95,
+   "lon": -116.03,
+   "name_fr": "Kootenay (Parc national)",
+   "search_en": "kootenay (national park)",
+   "search_fr": "kootenay (parc national)"
+  },
+  {
+   "site_code": "s0000392",
+   "name_en": "Yoho (National Park)",
+   "province": "BC",
+   "lat": 51.5,
+   "lon": -116.5,
+   "name_fr": "Yoho (Parc national)",
+   "search_en": "yoho (national park)",
+   "search_fr": "yoho (parc national)"
+  },
+  {
+   "site_code": "s0000393",
+   "name_en": "Rimouski",
+   "province": "QC",
+   "lat": 48.45,
+   "lon": -68.53,
+   "name_fr": "Rimouski",
+   "search_en": "rimouski",
+   "search_fr": "rimouski"
+  },
+  {
+   "site_code": "s0000394",
+   "name_en": "Iqaluit",
+   "province": "NU",
+   "lat": 63.75,
+   "lon": -68.52,
+   "name_fr": "Iqaluit",
+   "search_en": "iqaluit",
+   "search_fr": "iqaluit"
+  },
+  {
+   "site_code": "s0000395",
+   "name_en": "Gull Bay",
+   "province": "ON",
+   "lat": 49.8,
+   "lon": -89.11,
+   "name_fr": "Gull Bay",
+   "search_en": "gull bay",
+   "search_fr": "gull bay"
+  },
+  {
+   "site_code": "s0000396",
+   "name_en": "Rock Creek",
+   "province": "BC",
+   "lat": 49.05,
+   "lon": -119.0,
+   "name_fr": "Rock Creek",
+   "search_en": "rock creek",
+   "search_fr": "rock creek"
+  },
+  {
+   "site_code": "s0000397",
+   "name_en": "Osoyoos",
+   "province": "BC",
+   "lat": 49.03,
+   "lon": -119.45,
+   "name_fr": "Osoyoos",
+   "search_en": "osoyoos",
+   "search_fr": "osoyoos"
+  },
+  {
+   "site_code": "s0000398",
+   "name_en": "Chilliwack",
+   "province": "BC",
+   "lat": 49.18,
+   "lon": -121.94,
+   "name_fr": "Chilliwack",
+   "search_en": "chilliwack",
+   "search_fr": "chilliwack"
+  },
+  {
+   "site_code": "s0000399",
+   "name_en": "Agassiz",
+   "province": "BC",
+   "lat": 49.23,
+   "lon": -121.77,
+   "name_fr": "Agassiz",
+   "search_en": "agassiz",
+   "search_fr": "agassiz"
+  },
+  {
+   "site_code": "s0000400",
+   "name_en": "Channel-Port aux Basques",
+   "province": "NL",
+   "lat": 47.58,
+   "lon": -59.14,
+   "name_fr": "Channel-Port aux Basques",
+   "search_en": "channel-port aux basques",
+   "search_fr": "channel-port aux basques"
+  },
+  {
+   "site_code": "s0000401",
+   "name_en": "Carberry",
+   "province": "MB",
+   "lat": 49.87,
+   "lon": -99.36,
+   "name_fr": "Carberry",
+   "search_en": "carberry",
+   "search_fr": "carberry"
+  },
+  {
+   "site_code": "s0000402",
+   "name_en": "Shilo",
+   "province": "MB",
+   "lat": 49.81,
+   "lon": -99.64,
+   "name_fr": "Shilo",
+   "search_en": "shilo",
+   "search_fr": "shilo"
+  },
+  {
+   "site_code": "s0000403",
+   "name_en": "Canmore",
+   "province": "AB",
+   "lat": 51.08,
+   "lon": -115.37,
+   "name_fr": "Canmore",
+   "search_en": "canmore",
+   "search_fr": "canmore"
+  },
+  {
+   "site_code": "s0000404",
+   "name_en": "Banff",
+   "province": "AB",
+   "lat": 51.18,
+   "lon": -115.57,
+   "name_fr": "Banff",
+   "search_en": "banff",
+   "search_fr": "banff"
+  },
+  {
+   "site_code": "s0000405",
+   "name_en": "Grand Étang",
+   "province": "NS",
+   "lat": 46.55,
+   "lon": -61.05,
+   "name_fr": "Grand Étang",
+   "search_en": "grand etang",
+   "search_fr": "grand etang"
+  },
+  {
+   "site_code": "s0000406",
+   "name_en": "Amqui",
+   "province": "QC",
+   "lat": 48.47,
+   "lon": -67.43,
+   "name_fr": "Amqui",
+   "search_en": "amqui",
+   "search_fr": "amqui"
+  },
+  {
+   "site_code": "s0000407",
+   "name_en": "Matapedia",
+   "province": "QC",
+   "lat": 47.97,
+   "lon": -66.95,
+   "name_fr": "Matapédia",
+   "search_en": "matapedia",
+   "search_fr": "matapedia"
+  },
+  {
+   "site_code": "s0000408",
+   "name_en": "Vallée de la Matapédia",
+   "province": "QC",
+   "lat": 48.17,
+   "lon": -67.14,
+   "name_fr": "Vallée de la Matapédia",
+   "search_en": "vallee de la matapedia",
+   "search_fr": "vallee de la matapedia"
+  },
+  {
+   "site_code": "s0000409",
+   "name_en": "Atlin",
+   "province": "BC",
+   "lat": 59.57,
+   "lon": -133.7,
+   "name_fr": "Atlin",
+   "search_en": "atlin",
+   "search_fr": "atlin"
+  },
+  {
+   "site_code": "s0000410",
+   "name_en": "Teslin",
+   "province": "YT",
+   "lat": 60.17,
+   "lon": -132.72,
+   "name_fr": "Teslin",
+   "search_en": "teslin",
+   "search_fr": "teslin"
+  },
+  {
+   "site_code": "s0000411",
+   "name_en": "Thunder Bay",
+   "province": "ON",
+   "lat": 48.4,
+   "lon": -89.27,
+   "name_fr": "Thunder Bay",
+   "search_en": "thunder bay",
+   "search_fr": "thunder bay"
+  },
+  {
+   "site_code": "s0000412",
+   "name_en": "Arctic Bay",
+   "province": "NU",
+   "lat": 73.03,
+   "lon": -85.17,
+   "name_fr": "Arctic Bay",
+   "search_en": "arctic bay",
+   "search_fr": "arctic bay"
+  },
+  {
+   "site_code": "s0000413",
+   "name_en": "Barrhead",
+   "province": "AB",
+   "lat": 54.12,
+   "lon": -114.4,
+   "name_fr": "Barrhead",
+   "search_en": "barrhead",
+   "search_fr": "barrhead"
+  },
+  {
+   "site_code": "s0000414",
+   "name_en": "Orillia",
+   "province": "ON",
+   "lat": 44.6,
+   "lon": -79.42,
+   "name_fr": "Orillia",
+   "search_en": "orillia",
+   "search_fr": "orillia"
+  },
+  {
+   "site_code": "s0000415",
+   "name_en": "Barrie",
+   "province": "ON",
+   "lat": 44.37,
+   "lon": -79.68,
+   "name_fr": "Barrie",
+   "search_en": "barrie",
+   "search_fr": "barrie"
+  },
+  {
+   "site_code": "s0000416",
+   "name_en": "Lévis",
+   "province": "QC",
+   "lat": 46.8,
+   "lon": -71.18,
+   "name_fr": "Lévis",
+   "search_en": "levis",
+   "search_fr": "levis"
+  },
+  {
+   "site_code": "s0000417",
+   "name_en": "Tadoule Lake",
+   "province": "MB",
+   "lat": 58.71,
+   "lon": -98.48,
+   "name_fr": "Tadoule Lake",
+   "search_en": "tadoule lake",
+   "search_fr": "tadoule lake"
+  },
+  {
+   "site_code": "s0000418",
+   "name_en": "Greenstone (Beardmore)",
+   "province": "ON",
+   "lat": 49.6,
+   "lon": -87.96,
+   "name_fr": "Greenstone (Beardmore)",
+   "search_en": "greenstone (beardmore)",
+   "search_fr": "greenstone (beardmore)"
+  },
+  {
+   "site_code": "s0000419",
+   "name_en": "Nipigon",
+   "province": "ON",
+   "lat": 48.98,
+   "lon": -88.33,
+   "name_fr": "Nipigon",
+   "search_en": "nipigon",
+   "search_fr": "nipigon"
+  },
+  {
+   "site_code": "s0000420",
+   "name_en": "Chéticamp",
+   "province": "NS",
+   "lat": 46.63,
+   "lon": -61.01,
+   "name_fr": "Chéticamp",
+   "search_en": "cheticamp",
+   "search_fr": "cheticamp"
+  },
+  {
+   "site_code": "s0000421",
+   "name_en": "Carmacks",
+   "province": "YT",
+   "lat": 62.09,
+   "lon": -136.3,
+   "name_fr": "Carmacks",
+   "search_en": "carmacks",
+   "search_fr": "carmacks"
+  },
+  {
+   "site_code": "s0000422",
+   "name_en": "Tobermory",
+   "province": "ON",
+   "lat": 45.25,
+   "lon": -81.66,
+   "name_fr": "Tobermory",
+   "search_en": "tobermory",
+   "search_fr": "tobermory"
+  },
+  {
+   "site_code": "s0000423",
+   "name_en": "Deline",
+   "province": "NT",
+   "lat": 65.19,
+   "lon": -123.42,
+   "name_fr": "Deline",
+   "search_en": "deline",
+   "search_fr": "deline"
+  },
+  {
+   "site_code": "s0000424",
+   "name_en": "Simcoe",
+   "province": "ON",
+   "lat": 42.84,
+   "lon": -80.31,
+   "name_fr": "Simcoe",
+   "search_en": "simcoe",
+   "search_fr": "simcoe"
+  },
+  {
+   "site_code": "s0000425",
+   "name_en": "Tillsonburg",
+   "province": "ON",
+   "lat": 42.87,
+   "lon": -80.73,
+   "name_fr": "Tillsonburg",
+   "search_en": "tillsonburg",
+   "search_fr": "tillsonburg"
+  },
+  {
+   "site_code": "s0000426",
+   "name_en": "Norfolk",
+   "province": "ON",
+   "lat": 42.8,
+   "lon": -80.41,
+   "name_fr": "Norfolk",
+   "search_en": "norfolk",
+   "search_fr": "norfolk"
+  },
+  {
+   "site_code": "s0000427",
+   "name_en": "Westlock",
+   "province": "AB",
+   "lat": 54.16,
+   "lon": -113.86,
+   "name_fr": "Westlock",
+   "search_en": "westlock",
+   "search_fr": "westlock"
+  },
+  {
+   "site_code": "s0000428",
+   "name_en": "Ear Falls",
+   "province": "ON",
+   "lat": 50.64,
+   "lon": -93.24,
+   "name_fr": "Ear Falls",
+   "search_en": "ear falls",
+   "search_fr": "ear falls"
+  },
+  {
+   "site_code": "s0000429",
+   "name_en": "New Tecumseth",
+   "province": "ON",
+   "lat": 44.08,
+   "lon": -79.77,
+   "name_fr": "New Tecumseth",
+   "search_en": "new tecumseth",
+   "search_fr": "new tecumseth"
+  },
+  {
+   "site_code": "s0000430",
+   "name_en": "Ottawa (Kanata - Orléans)",
+   "province": "ON",
+   "lat": 45.33,
+   "lon": -75.58,
+   "name_fr": "Ottawa (Kanata - Orléans)",
+   "search_en": "ottawa (kanata - orleans)",
+   "search_fr": "ottawa (kanata - orleans)"
+  },
+  {
+   "site_code": "s0000431",
+   "name_en": "Leamington",
+   "province": "ON",
+   "lat": 42.1,
+   "lon": -82.56,
+   "name_fr": "Leamington",
+   "search_en": "leamington",
+   "search_fr": "leamington"
+  },
+  {
+   "site_code": "s0000432",
+   "name_en": "Ulukhaktok",
+   "province": "NT",
+   "lat": 70.73,
+   "lon": -117.75,
+   "name_fr": "Ulukhaktok",
+   "search_en": "ulukhaktok",
+   "search_fr": "ulukhaktok"
+  },
+  {
+   "site_code": "s0000433",
+   "name_en": "Ingonish",
+   "province": "NS",
+   "lat": 46.69,
+   "lon": -60.37,
+   "name_fr": "Ingonish",
+   "search_en": "ingonish",
+   "search_fr": "ingonish"
+  },
+  {
+   "site_code": "s0000434",
+   "name_en": "Smiths Falls",
+   "province": "ON",
+   "lat": 44.9,
+   "lon": -76.02,
+   "name_fr": "Smiths Falls",
+   "search_en": "smiths falls",
+   "search_fr": "smiths falls"
+  },
+  {
+   "site_code": "s0000435",
+   "name_en": "Sharbot Lake",
+   "province": "ON",
+   "lat": 44.77,
+   "lon": -76.69,
+   "name_fr": "Sharbot Lake",
+   "search_en": "sharbot lake",
+   "search_fr": "sharbot lake"
+  },
+  {
+   "site_code": "s0000436",
+   "name_en": "Kemptville",
+   "province": "ON",
+   "lat": 45.02,
+   "lon": -75.64,
+   "name_fr": "Kemptville",
+   "search_en": "kemptville",
+   "search_fr": "kemptville"
+  },
+  {
+   "site_code": "s0000437",
+   "name_en": "Kirkland Lake",
+   "province": "ON",
+   "lat": 48.15,
+   "lon": -80.03,
+   "name_fr": "Kirkland Lake",
+   "search_en": "kirkland lake",
+   "search_fr": "kirkland lake"
+  },
+  {
+   "site_code": "s0000438",
+   "name_en": "Windsor",
+   "province": "NS",
+   "lat": 44.99,
+   "lon": -64.14,
+   "name_fr": "Windsor",
+   "search_en": "windsor",
+   "search_fr": "windsor"
+  },
+  {
+   "site_code": "s0000439",
+   "name_en": "Kentville",
+   "province": "NS",
+   "lat": 45.08,
+   "lon": -64.5,
+   "name_fr": "Kentville",
+   "search_en": "kentville",
+   "search_fr": "kentville"
+  },
+  {
+   "site_code": "s0000440",
+   "name_en": "Lunenburg",
+   "province": "NS",
+   "lat": 44.38,
+   "lon": -64.31,
+   "name_fr": "Lunenburg",
+   "search_en": "lunenburg",
+   "search_fr": "lunenburg"
+  },
+  {
+   "site_code": "s0000441",
+   "name_en": "Bridgewater",
+   "province": "NS",
+   "lat": 44.38,
+   "lon": -64.52,
+   "name_fr": "Bridgewater",
+   "search_en": "bridgewater",
+   "search_fr": "bridgewater"
+  },
+  {
+   "site_code": "s0000442",
+   "name_en": "Wekweeti",
+   "province": "NT",
+   "lat": 64.19,
+   "lon": -114.18,
+   "name_fr": "Wekweeti",
+   "search_en": "wekweeti",
+   "search_fr": "wekweeti"
+  },
+  {
+   "site_code": "s0000443",
+   "name_en": "Lutselke",
+   "province": "NT",
+   "lat": 62.41,
+   "lon": -110.74,
+   "name_fr": "Lutselke",
+   "search_en": "lutselke",
+   "search_fr": "lutselke"
+  },
+  {
+   "site_code": "s0000444",
+   "name_en": "Morden",
+   "province": "MB",
+   "lat": 49.19,
+   "lon": -98.1,
+   "name_fr": "Morden",
+   "search_en": "morden",
+   "search_fr": "morden"
+  },
+  {
+   "site_code": "s0000445",
+   "name_en": "Winkler",
+   "province": "MB",
+   "lat": 49.18,
+   "lon": -97.94,
+   "name_fr": "Winkler",
+   "search_en": "winkler",
+   "search_fr": "winkler"
+  },
+  {
+   "site_code": "s0000446",
+   "name_en": "Sheet Harbour",
+   "province": "NS",
+   "lat": 44.92,
+   "lon": -62.54,
+   "name_fr": "Sheet Harbour",
+   "search_en": "sheet harbour",
+   "search_fr": "sheet harbour"
+  },
+  {
+   "site_code": "s0000447",
+   "name_en": "Malay Falls",
+   "province": "NS",
+   "lat": 44.99,
+   "lon": -62.48,
+   "name_fr": "Malay Falls",
+   "search_en": "malay falls",
+   "search_fr": "malay falls"
+  },
+  {
+   "site_code": "s0000448",
+   "name_en": "Nordegg",
+   "province": "AB",
+   "lat": 52.47,
+   "lon": -116.08,
+   "name_fr": "Nordegg",
+   "search_en": "nordegg",
+   "search_fr": "nordegg"
+  },
+  {
+   "site_code": "s0000449",
+   "name_en": "Sackville",
+   "province": "NB",
+   "lat": 45.92,
+   "lon": -64.39,
+   "name_fr": "Sackville",
+   "search_en": "sackville",
+   "search_fr": "sackville"
+  },
+  {
+   "site_code": "s0000450",
+   "name_en": "Amherst",
+   "province": "NS",
+   "lat": 45.83,
+   "lon": -64.21,
+   "name_fr": "Amherst",
+   "search_en": "amherst",
+   "search_fr": "amherst"
+  },
+  {
+   "site_code": "s0000451",
+   "name_en": "Parry Sound",
+   "province": "ON",
+   "lat": 45.35,
+   "lon": -80.04,
+   "name_fr": "Parry Sound",
+   "search_en": "parry sound",
+   "search_fr": "parry sound"
+  },
+  {
+   "site_code": "s0000452",
+   "name_en": "Dunchurch",
+   "province": "ON",
+   "lat": 45.65,
+   "lon": -79.85,
+   "name_fr": "Dunchurch",
+   "search_en": "dunchurch",
+   "search_fr": "dunchurch"
+  },
+  {
+   "site_code": "s0000453",
+   "name_en": "Stony Plain",
+   "province": "AB",
+   "lat": 53.53,
+   "lon": -114.01,
+   "name_fr": "Stony Plain",
+   "search_en": "stony plain",
+   "search_fr": "stony plain"
+  },
+  {
+   "site_code": "s0000454",
+   "name_en": "Chatham-Kent",
+   "province": "ON",
+   "lat": 42.43,
+   "lon": -82.13,
+   "name_fr": "Chatham-Kent",
+   "search_en": "chatham-kent",
+   "search_fr": "chatham-kent"
+  },
+  {
+   "site_code": "s0000455",
+   "name_en": "Rodney",
+   "province": "ON",
+   "lat": 42.57,
+   "lon": -81.68,
+   "name_fr": "Rodney",
+   "search_en": "rodney",
+   "search_fr": "rodney"
+  },
+  {
+   "site_code": "s0000456",
+   "name_en": "Rocky Harbour",
+   "province": "NL",
+   "lat": 49.59,
+   "lon": -57.92,
+   "name_fr": "Rocky Harbour",
+   "search_en": "rocky harbour",
+   "search_fr": "rocky harbour"
+  },
+  {
+   "site_code": "s0000457",
+   "name_en": "Gros Morne",
+   "province": "NL",
+   "lat": 49.69,
+   "lon": -57.74,
+   "name_fr": "Gros Morne",
+   "search_en": "gros morne",
+   "search_fr": "gros morne"
+  },
+  {
+   "site_code": "s0000458",
+   "name_en": "Toronto",
+   "province": "ON",
+   "lat": 43.74,
+   "lon": -79.37,
+   "name_fr": "Toronto",
+   "search_en": "toronto",
+   "search_fr": "toronto"
+  },
+  {
+   "site_code": "s0000459",
+   "name_en": "Lanaudière",
+   "province": "QC",
+   "lat": 46.3,
+   "lon": -73.2,
+   "name_fr": "Lanaudière",
+   "search_en": "lanaudiere",
+   "search_fr": "lanaudiere"
+  },
+  {
+   "site_code": "s0000460",
+   "name_en": "Port Hawkesbury",
+   "province": "NS",
+   "lat": 45.62,
+   "lon": -61.36,
+   "name_fr": "Port Hawkesbury",
+   "search_en": "port hawkesbury",
+   "search_fr": "port hawkesbury"
+  },
+  {
+   "site_code": "s0000461",
+   "name_en": "Tracadie",
+   "province": "NS",
+   "lat": 45.62,
+   "lon": -61.67,
+   "name_fr": "Tracadie",
+   "search_en": "tracadie",
+   "search_fr": "tracadie"
+  },
+  {
+   "site_code": "s0000462",
+   "name_en": "Antigonish",
+   "province": "NS",
+   "lat": 45.62,
+   "lon": -61.99,
+   "name_fr": "Antigonish",
+   "search_en": "antigonish",
+   "search_fr": "antigonish"
+  },
+  {
+   "site_code": "s0000463",
+   "name_en": "Cape George",
+   "province": "NS",
+   "lat": 45.85,
+   "lon": -61.93,
+   "name_fr": "Cape George",
+   "search_en": "cape george",
+   "search_fr": "cape george"
+  },
+  {
+   "site_code": "s0000464",
+   "name_en": "Guysborough",
+   "province": "NS",
+   "lat": 45.39,
+   "lon": -61.5,
+   "name_fr": "Guysborough",
+   "search_en": "guysborough",
+   "search_fr": "guysborough"
+  },
+  {
+   "site_code": "s0000465",
+   "name_en": "Tatlayoko Lake",
+   "province": "BC",
+   "lat": 51.72,
+   "lon": -124.43,
+   "name_fr": "Tatlayoko Lake",
+   "search_en": "tatlayoko lake",
+   "search_fr": "tatlayoko lake"
+  },
+  {
+   "site_code": "s0000466",
+   "name_en": "Clarenville",
+   "province": "NL",
+   "lat": 48.16,
+   "lon": -53.98,
+   "name_fr": "Clarenville",
+   "search_en": "clarenville",
+   "search_fr": "clarenville"
+  },
+  {
+   "site_code": "s0000467",
+   "name_en": "Terra Nova (National Park)",
+   "province": "NL",
+   "lat": 48.53,
+   "lon": -53.93,
+   "name_fr": "Terra Nova (Parc national)",
+   "search_en": "terra nova (national park)",
+   "search_fr": "terra nova (parc national)"
+  },
+  {
+   "site_code": "s0000468",
+   "name_en": "Drayton Valley",
+   "province": "AB",
+   "lat": 53.22,
+   "lon": -114.98,
+   "name_fr": "Drayton Valley",
+   "search_en": "drayton valley",
+   "search_fr": "drayton valley"
+  },
+  {
+   "site_code": "s0000469",
+   "name_en": "Vineland",
+   "province": "ON",
+   "lat": 43.15,
+   "lon": -79.39,
+   "name_fr": "Vineland",
+   "search_en": "vineland",
+   "search_fr": "vineland"
+  },
+  {
+   "site_code": "s0000470",
+   "name_en": "Lincoln",
+   "province": "ON",
+   "lat": 43.15,
+   "lon": -79.42,
+   "name_fr": "Lincoln",
+   "search_en": "lincoln",
+   "search_fr": "lincoln"
+  },
+  {
+   "site_code": "s0000471",
+   "name_en": "Trail",
+   "province": "BC",
+   "lat": 49.1,
+   "lon": -117.7,
+   "name_fr": "Trail",
+   "search_en": "trail",
+   "search_fr": "trail"
+  },
+  {
+   "site_code": "s0000472",
+   "name_en": "Winnipeg (The Forks)",
+   "province": "MB",
+   "lat": 49.89,
+   "lon": -97.13,
+   "name_fr": "Winnipeg (La Fourche)",
+   "search_en": "winnipeg (the forks)",
+   "search_fr": "winnipeg (la fourche)"
+  },
+  {
+   "site_code": "s0000473",
+   "name_en": "Winterland",
+   "province": "NL",
+   "lat": 47.16,
+   "lon": -55.31,
+   "name_fr": "Winterland",
+   "search_en": "winterland",
+   "search_fr": "winterland"
+  },
+  {
+   "site_code": "s0000474",
+   "name_en": "Marystown",
+   "province": "NL",
+   "lat": 47.17,
+   "lon": -55.17,
+   "name_fr": "Marystown",
+   "search_en": "marystown",
+   "search_fr": "marystown"
+  },
+  {
+   "site_code": "s0000475",
+   "name_en": "Grand Bank",
+   "province": "NL",
+   "lat": 47.1,
+   "lon": -55.77,
+   "name_fr": "Grand Bank",
+   "search_en": "grand bank",
+   "search_fr": "grand bank"
+  },
+  {
+   "site_code": "s0000476",
+   "name_en": "Nahanni Butte",
+   "province": "NT",
+   "lat": 61.03,
+   "lon": -123.39,
+   "name_fr": "Nahanni Butte",
+   "search_en": "nahanni butte",
+   "search_fr": "nahanni butte"
+  },
+  {
+   "site_code": "s0000477",
+   "name_en": "Whitecourt",
+   "province": "AB",
+   "lat": 54.14,
+   "lon": -115.68,
+   "name_fr": "Whitecourt",
+   "search_en": "whitecourt",
+   "search_fr": "whitecourt"
+  },
+  {
+   "site_code": "s0000478",
+   "name_en": "La Grande-Quatre",
+   "province": "QC",
+   "lat": 53.83,
+   "lon": -73.53,
+   "name_fr": "La Grande-Quatre",
+   "search_en": "la grande-quatre",
+   "search_fr": "la grande-quatre"
+  },
+  {
+   "site_code": "s0000479",
+   "name_en": "Sault Ste. Marie",
+   "province": "ON",
+   "lat": 46.56,
+   "lon": -84.35,
+   "name_fr": "Sault Ste. Marie",
+   "search_en": "sault ste. marie",
+   "search_fr": "sault ste. marie"
+  },
+  {
+   "site_code": "s0000480",
+   "name_en": "Kangirsuk",
+   "province": "QC",
+   "lat": 60.02,
+   "lon": -70.03,
+   "name_fr": "Kangirsuk",
+   "search_en": "kangirsuk",
+   "search_fr": "kangirsuk"
+  },
+  {
+   "site_code": "s0000481",
+   "name_en": "Tofino",
+   "province": "BC",
+   "lat": 49.12,
+   "lon": -125.88,
+   "name_fr": "Tofino",
+   "search_en": "tofino",
+   "search_fr": "tofino"
+  },
+  {
+   "site_code": "s0000482",
+   "name_en": "Ucluelet",
+   "province": "BC",
+   "lat": 48.94,
+   "lon": -125.55,
+   "name_fr": "Ucluelet",
+   "search_en": "ucluelet",
+   "search_fr": "ucluelet"
+  },
+  {
+   "site_code": "s0000483",
+   "name_en": "Baie-Comeau",
+   "province": "QC",
+   "lat": 49.22,
+   "lon": -68.15,
+   "name_fr": "Baie-Comeau",
+   "search_en": "baie-comeau",
+   "search_fr": "baie-comeau"
+  },
+  {
+   "site_code": "s0000484",
+   "name_en": "Forestville",
+   "province": "QC",
+   "lat": 48.73,
+   "lon": -69.08,
+   "name_fr": "Forestville",
+   "search_en": "forestville",
+   "search_fr": "forestville"
+  },
+  {
+   "site_code": "s0000485",
+   "name_en": "Bella Coola",
+   "province": "BC",
+   "lat": 52.38,
+   "lon": -126.75,
+   "name_fr": "Bella Coola",
+   "search_en": "bella coola",
+   "search_fr": "bella coola"
+  },
+  {
+   "site_code": "s0000486",
+   "name_en": "Bagotville",
+   "province": "QC",
+   "lat": 48.35,
+   "lon": -70.88,
+   "name_fr": "Bagotville",
+   "search_en": "bagotville",
+   "search_fr": "bagotville"
+  },
+  {
+   "site_code": "s0000487",
+   "name_en": "Baker Lake",
+   "province": "NU",
+   "lat": 64.32,
+   "lon": -96.02,
+   "name_fr": "Baker Lake",
+   "search_en": "baker lake",
+   "search_fr": "baker lake"
+  },
+  {
+   "site_code": "s0000488",
+   "name_en": "Campbell River",
+   "province": "BC",
+   "lat": 50.02,
+   "lon": -125.24,
+   "name_fr": "Campbell River",
+   "search_en": "campbell river",
+   "search_fr": "campbell river"
+  },
+  {
+   "site_code": "s0000489",
+   "name_en": "Alliston",
+   "province": "ON",
+   "lat": 44.15,
+   "lon": -79.86,
+   "name_fr": "Alliston",
+   "search_en": "alliston",
+   "search_fr": "alliston"
+  },
+  {
+   "site_code": "s0000490",
+   "name_en": "Minnedosa",
+   "province": "MB",
+   "lat": 50.25,
+   "lon": -99.84,
+   "name_fr": "Minnedosa",
+   "search_en": "minnedosa",
+   "search_fr": "minnedosa"
+  },
+  {
+   "site_code": "s0000491",
+   "name_en": "Souris",
+   "province": "MB",
+   "lat": 49.62,
+   "lon": -100.26,
+   "name_fr": "Souris",
+   "search_en": "souris",
+   "search_fr": "souris"
+  },
+  {
+   "site_code": "s0000492",
+   "name_en": "Brandon",
+   "province": "MB",
+   "lat": 49.85,
+   "lon": -99.95,
+   "name_fr": "Brandon",
+   "search_en": "brandon",
+   "search_fr": "brandon"
+  },
+  {
+   "site_code": "s0000493",
+   "name_en": "Cochrane",
+   "province": "AB",
+   "lat": 51.21,
+   "lon": -114.47,
+   "name_fr": "Cochrane",
+   "search_en": "cochrane",
+   "search_fr": "cochrane"
+  },
+  {
+   "site_code": "s0000494",
+   "name_en": "Blanc-Sablon",
+   "province": "QC",
+   "lat": 51.42,
+   "lon": -57.13,
+   "name_fr": "Blanc-Sablon",
+   "search_en": "blanc-sablon",
+   "search_fr": "blanc-sablon"
+  },
+  {
+   "site_code": "s0000495",
+   "name_en": "Cambridge Bay",
+   "province": "NU",
+   "lat": 69.11,
+   "lon": -105.05,
+   "name_fr": "Cambridge Bay",
+   "search_en": "cambridge bay",
+   "search_fr": "cambridge bay"
+  },
+  {
+   "site_code": "s0000496",
+   "name_en": "Nanaimo",
+   "province": "BC",
+   "lat": 49.17,
+   "lon": -123.93,
+   "name_fr": "Nanaimo",
+   "search_en": "nanaimo",
+   "search_fr": "nanaimo"
+  },
+  {
+   "site_code": "s0000497",
+   "name_en": "Castlegar",
+   "province": "BC",
+   "lat": 49.3,
+   "lon": -117.67,
+   "name_fr": "Castlegar",
+   "search_en": "castlegar",
+   "search_fr": "castlegar"
+  },
+  {
+   "site_code": "s0000498",
+   "name_en": "Kugluktuk",
+   "province": "NU",
+   "lat": 67.83,
+   "lon": -115.09,
+   "name_fr": "Kugluktuk",
+   "search_en": "kugluktuk",
+   "search_fr": "kugluktuk"
+  },
+  {
+   "site_code": "s0000499",
+   "name_en": "Blue River",
+   "province": "BC",
+   "lat": 52.1,
+   "lon": -119.3,
+   "name_fr": "Blue River",
+   "search_en": "blue river",
+   "search_fr": "blue river"
+  },
+  {
+   "site_code": "s0000500",
+   "name_en": "Chetwynd",
+   "province": "BC",
+   "lat": 55.7,
+   "lon": -121.63,
+   "name_fr": "Chetwynd",
+   "search_en": "chetwynd",
+   "search_fr": "chetwynd"
+  },
+  {
+   "site_code": "s0000501",
+   "name_en": "Chesterfield",
+   "province": "NU",
+   "lat": 63.34,
+   "lon": -90.7,
+   "name_fr": "Chesterfield",
+   "search_en": "chesterfield",
+   "search_fr": "chesterfield"
+  },
+  {
+   "site_code": "s0000502",
+   "name_en": "Chipman",
+   "province": "NB",
+   "lat": 46.17,
+   "lon": -65.89,
+   "name_fr": "Chipman",
+   "search_en": "chipman",
+   "search_fr": "chipman"
+  },
+  {
+   "site_code": "s0000503",
+   "name_en": "Doaktown",
+   "province": "NB",
+   "lat": 46.56,
+   "lon": -66.12,
+   "name_fr": "Doaktown",
+   "search_en": "doaktown",
+   "search_fr": "doaktown"
+  },
+  {
+   "site_code": "s0000504",
+   "name_en": "Clyde River",
+   "province": "NU",
+   "lat": 70.47,
+   "lon": -68.59,
+   "name_fr": "Clyde River",
+   "search_en": "clyde river",
+   "search_fr": "clyde river"
+  },
+  {
+   "site_code": "s0000505",
+   "name_en": "Kluane Lake",
+   "province": "YT",
+   "lat": 61.26,
+   "lon": -138.77,
+   "name_fr": "Lac Kluane",
+   "search_en": "kluane lake",
+   "search_fr": "lac kluane"
+  },
+  {
+   "site_code": "s0000506",
+   "name_en": "Burwash Landing",
+   "province": "YT",
+   "lat": 61.36,
+   "lon": -138.99,
+   "name_fr": "Burwash Landing",
+   "search_en": "burwash landing",
+   "search_fr": "burwash landing"
+  },
+  {
+   "site_code": "s0000507",
+   "name_en": "Deer Lake",
+   "province": "NL",
+   "lat": 49.18,
+   "lon": -57.43,
+   "name_fr": "Deer Lake",
+   "search_en": "deer lake",
+   "search_fr": "deer lake"
+  },
+  {
+   "site_code": "s0000508",
+   "name_en": "Dauphin",
+   "province": "MB",
+   "lat": 51.15,
+   "lon": -100.05,
+   "name_fr": "Dauphin",
+   "search_en": "dauphin",
+   "search_fr": "dauphin"
+  },
+  {
+   "site_code": "s0000509",
+   "name_en": "Dawson Creek",
+   "province": "BC",
+   "lat": 55.77,
+   "lon": -120.23,
+   "name_fr": "Dawson Creek",
+   "search_en": "dawson creek",
+   "search_fr": "dawson creek"
+  },
+  {
+   "site_code": "s0000510",
+   "name_en": "Edmonton (Int'l Aprt)",
+   "province": "AB",
+   "lat": 53.34,
+   "lon": -113.54,
+   "name_fr": "Edmonton (Aprt int.)",
+   "search_en": "edmonton (int'l aprt)",
+   "search_fr": "edmonton (aprt int.)"
+  },
+  {
+   "site_code": "s0000511",
+   "name_en": "Arviat",
+   "province": "NU",
+   "lat": 61.11,
+   "lon": -94.06,
+   "name_fr": "Arviat",
+   "search_en": "arviat",
+   "search_fr": "arviat"
+  },
+  {
+   "site_code": "s0000512",
+   "name_en": "Elliot Lake",
+   "province": "ON",
+   "lat": 46.38,
+   "lon": -82.66,
+   "name_fr": "Elliot Lake",
+   "search_en": "elliot lake",
+   "search_fr": "elliot lake"
+  },
+  {
+   "site_code": "s0000513",
+   "name_en": "Blind River",
+   "province": "ON",
+   "lat": 46.19,
+   "lon": -82.96,
+   "name_fr": "Blind River",
+   "search_en": "blind river",
+   "search_fr": "blind river"
+  },
+  {
+   "site_code": "s0000514",
+   "name_en": "Oxbow",
+   "province": "SK",
+   "lat": 49.23,
+   "lon": -102.17,
+   "name_fr": "Oxbow",
+   "search_en": "oxbow",
+   "search_fr": "oxbow"
+  },
+  {
+   "site_code": "s0000515",
+   "name_en": "Carlyle",
+   "province": "SK",
+   "lat": 49.64,
+   "lon": -102.27,
+   "name_fr": "Carlyle",
+   "search_en": "carlyle",
+   "search_fr": "carlyle"
+  },
+  {
+   "site_code": "s0000516",
+   "name_en": "Estevan",
+   "province": "SK",
+   "lat": 49.14,
+   "lon": -102.99,
+   "name_fr": "Estevan",
+   "search_en": "estevan",
+   "search_fr": "estevan"
+  },
+  {
+   "site_code": "s0000517",
+   "name_en": "Fort Severn",
+   "province": "ON",
+   "lat": 56.0,
+   "lon": -87.62,
+   "name_fr": "Fort Severn",
+   "search_en": "fort severn",
+   "search_fr": "fort severn"
+  },
+  {
+   "site_code": "s0000518",
+   "name_en": "Edson",
+   "province": "AB",
+   "lat": 53.58,
+   "lon": -116.43,
+   "name_fr": "Edson",
+   "search_en": "edson",
+   "search_fr": "edson"
+  },
+  {
+   "site_code": "s0000519",
+   "name_en": "Inuvik",
+   "province": "NT",
+   "lat": 68.36,
+   "lon": -133.72,
+   "name_fr": "Inuvik",
+   "search_en": "inuvik",
+   "search_fr": "inuvik"
+  },
+  {
+   "site_code": "s0000520",
+   "name_en": "Armstrong",
+   "province": "ON",
+   "lat": 50.3,
+   "lon": -89.04,
+   "name_fr": "Armstrong",
+   "search_en": "armstrong",
+   "search_fr": "armstrong"
+  },
+  {
+   "site_code": "s0000521",
+   "name_en": "Oromocto",
+   "province": "NB",
+   "lat": 45.84,
+   "lon": -66.48,
+   "name_fr": "Oromocto",
+   "search_en": "oromocto",
+   "search_fr": "oromocto"
+  },
+  {
+   "site_code": "s0000522",
+   "name_en": "Woodstock",
+   "province": "NB",
+   "lat": 46.15,
+   "lon": -67.6,
+   "name_fr": "Woodstock",
+   "search_en": "woodstock",
+   "search_fr": "woodstock"
+  },
+  {
+   "site_code": "s0000523",
+   "name_en": "Mildred Lake",
+   "province": "AB",
+   "lat": 57.03,
+   "lon": -111.6,
+   "name_fr": "Mildred Lake",
+   "search_en": "mildred lake",
+   "search_fr": "mildred lake"
+  },
+  {
+   "site_code": "s0000524",
+   "name_en": "Fort Resolution",
+   "province": "NT",
+   "lat": 61.17,
+   "lon": -113.67,
+   "name_fr": "Fort Resolution",
+   "search_en": "fort resolution",
+   "search_fr": "fort resolution"
+  },
+  {
+   "site_code": "s0000525",
+   "name_en": "Fort Simpson",
+   "province": "NT",
+   "lat": 61.86,
+   "lon": -121.35,
+   "name_fr": "Fort Simpson",
+   "search_en": "fort simpson",
+   "search_fr": "fort simpson"
+  },
+  {
+   "site_code": "s0000526",
+   "name_en": "Makkovik",
+   "province": "NL",
+   "lat": 55.09,
+   "lon": -59.18,
+   "name_fr": "Makkovik",
+   "search_en": "makkovik",
+   "search_fr": "makkovik"
+  },
+  {
+   "site_code": "s0000527",
+   "name_en": "Golden",
+   "province": "BC",
+   "lat": 51.3,
+   "lon": -116.97,
+   "name_fr": "Golden",
+   "search_en": "golden",
+   "search_fr": "golden"
+  },
+  {
+   "site_code": "s0000528",
+   "name_en": "Greater Napanee",
+   "province": "ON",
+   "lat": 44.24,
+   "lon": -76.97,
+   "name_fr": "Greater Napanee",
+   "search_en": "greater napanee",
+   "search_fr": "greater napanee"
+  },
+  {
+   "site_code": "s0000529",
+   "name_en": "Sydenham",
+   "province": "ON",
+   "lat": 44.41,
+   "lon": -76.6,
+   "name_fr": "Sydenham",
+   "search_en": "sydenham",
+   "search_fr": "sydenham"
+  },
+  {
+   "site_code": "s0000530",
+   "name_en": "Westport",
+   "province": "ON",
+   "lat": 44.68,
+   "lon": -76.4,
+   "name_fr": "Westport",
+   "search_en": "westport",
+   "search_fr": "westport"
+  },
+  {
+   "site_code": "s0000531",
+   "name_en": "Kingston",
+   "province": "ON",
+   "lat": 44.31,
+   "lon": -76.42,
+   "name_fr": "Kingston",
+   "search_en": "kingston",
+   "search_fr": "kingston"
+  },
+  {
+   "site_code": "s0000532",
+   "name_en": "La Grande Rivière",
+   "province": "QC",
+   "lat": 53.63,
+   "lon": -77.7,
+   "name_fr": "La Grande Rivière",
+   "search_en": "la grande riviere",
+   "search_fr": "la grande riviere"
+  },
+  {
+   "site_code": "s0000533",
+   "name_en": "Arnes",
+   "province": "MB",
+   "lat": 50.8,
+   "lon": -96.99,
+   "name_fr": "Arnes",
+   "search_en": "arnes",
+   "search_fr": "arnes"
+  },
+  {
+   "site_code": "s0000534",
+   "name_en": "Gimli",
+   "province": "MB",
+   "lat": 50.63,
+   "lon": -96.99,
+   "name_fr": "Gimli",
+   "search_en": "gimli",
+   "search_fr": "gimli"
+  },
+  {
+   "site_code": "s0000535",
+   "name_en": "Gaspé",
+   "province": "QC",
+   "lat": 48.83,
+   "lon": -64.48,
+   "name_fr": "Gaspé",
+   "search_en": "gaspe",
+   "search_fr": "gaspe"
+  },
+  {
+   "site_code": "s0000536",
+   "name_en": "Forillon",
+   "province": "QC",
+   "lat": 48.84,
+   "lon": -64.34,
+   "name_fr": "Forillon",
+   "search_en": "forillon",
+   "search_fr": "forillon"
+  },
+  {
+   "site_code": "s0000537",
+   "name_en": "Forillon (National Park)",
+   "province": "QC",
+   "lat": 48.9,
+   "lon": -64.35,
+   "name_fr": "Forillon ( Parc national)",
+   "search_en": "forillon (national park)",
+   "search_fr": "forillon ( parc national)"
+  },
+  {
+   "site_code": "s0000538",
+   "name_en": "Greenstone (Geraldton)",
+   "province": "ON",
+   "lat": 49.72,
+   "lon": -86.95,
+   "name_fr": "Greenstone (Geraldton)",
+   "search_en": "greenstone (geraldton)",
+   "search_fr": "greenstone (geraldton)"
+  },
+  {
+   "site_code": "s0000539",
+   "name_en": "Greenstone (Nakina)",
+   "province": "ON",
+   "lat": 50.18,
+   "lon": -86.71,
+   "name_fr": "Greenstone (Nakina)",
+   "search_en": "greenstone (nakina)",
+   "search_fr": "greenstone (nakina)"
+  },
+  {
+   "site_code": "s0000540",
+   "name_en": "Igloolik",
+   "province": "NU",
+   "lat": 69.38,
+   "lon": -81.8,
+   "name_fr": "Igloolik",
+   "search_en": "igloolik",
+   "search_fr": "igloolik"
+  },
+  {
+   "site_code": "s0000541",
+   "name_en": "Havre St-Pierre",
+   "province": "QC",
+   "lat": 50.23,
+   "lon": -63.6,
+   "name_fr": "Havre St-Pierre",
+   "search_en": "havre st-pierre",
+   "search_fr": "havre st-pierre"
+  },
+  {
+   "site_code": "s0000542",
+   "name_en": "Kuujjuarapik",
+   "province": "QC",
+   "lat": 55.28,
+   "lon": -77.75,
+   "name_fr": "Kuujjuarapik",
+   "search_en": "kuujjuarapik",
+   "search_fr": "kuujjuarapik"
+  },
+  {
+   "site_code": "s0000543",
+   "name_en": "Gillam",
+   "province": "MB",
+   "lat": 56.35,
+   "lon": -94.71,
+   "name_fr": "Gillam",
+   "search_en": "gillam",
+   "search_fr": "gillam"
+  },
+  {
+   "site_code": "s0000544",
+   "name_en": "Quaqtaq",
+   "province": "QC",
+   "lat": 61.05,
+   "lon": -69.63,
+   "name_fr": "Quaqtaq",
+   "search_en": "quaqtaq",
+   "search_fr": "quaqtaq"
+  },
+  {
+   "site_code": "s0000545",
+   "name_en": "Hudson Bay",
+   "province": "SK",
+   "lat": 52.84,
+   "lon": -102.38,
+   "name_fr": "Hudson Bay",
+   "search_en": "hudson bay",
+   "search_fr": "hudson bay"
+  },
+  {
+   "site_code": "s0000546",
+   "name_en": "Dryden",
+   "province": "ON",
+   "lat": 49.78,
+   "lon": -92.77,
+   "name_fr": "Dryden",
+   "search_en": "dryden",
+   "search_fr": "dryden"
+  },
+  {
+   "site_code": "s0000547",
+   "name_en": "Hope",
+   "province": "BC",
+   "lat": 49.38,
+   "lon": -121.44,
+   "name_fr": "Hope",
+   "search_en": "hope",
+   "search_fr": "hope"
+  },
+  {
+   "site_code": "s0000548",
+   "name_en": "Haldimand County",
+   "province": "ON",
+   "lat": 42.99,
+   "lon": -79.85,
+   "name_fr": "Haldimand County",
+   "search_en": "haldimand county",
+   "search_fr": "haldimand county"
+  },
+  {
+   "site_code": "s0000549",
+   "name_en": "Hamilton",
+   "province": "ON",
+   "lat": 43.24,
+   "lon": -79.99,
+   "name_fr": "Hamilton",
+   "search_en": "hamilton",
+   "search_fr": "hamilton"
+  },
+  {
+   "site_code": "s0000550",
+   "name_en": "Brantford",
+   "province": "ON",
+   "lat": 43.16,
+   "lon": -80.26,
+   "name_fr": "Brantford",
+   "search_en": "brantford",
+   "search_fr": "brantford"
+  },
+  {
+   "site_code": "s0000551",
+   "name_en": "Longueuil",
+   "province": "QC",
+   "lat": 45.53,
+   "lon": -73.52,
+   "name_fr": "Longueuil",
+   "search_en": "longueuil",
+   "search_fr": "longueuil"
+  },
+  {
+   "site_code": "s0000552",
+   "name_en": "Richelieu",
+   "province": "QC",
+   "lat": 45.45,
+   "lon": -73.25,
+   "name_fr": "Richelieu",
+   "search_en": "richelieu",
+   "search_fr": "richelieu"
+  },
+  {
+   "site_code": "s0000553",
+   "name_en": "Carignan",
+   "province": "QC",
+   "lat": 45.45,
+   "lon": -73.3,
+   "name_fr": "Carignan",
+   "search_en": "carignan",
+   "search_fr": "carignan"
+  },
+  {
+   "site_code": "s0000554",
+   "name_en": "Chambly",
+   "province": "QC",
+   "lat": 45.45,
+   "lon": -73.28,
+   "name_fr": "Chambly",
+   "search_en": "chambly",
+   "search_fr": "chambly"
+  },
+  {
+   "site_code": "s0000555",
+   "name_en": "Mont Saint-Hilaire",
+   "province": "QC",
+   "lat": 45.57,
+   "lon": -73.2,
+   "name_fr": "Mont Saint-Hilaire",
+   "search_en": "mont saint-hilaire",
+   "search_fr": "mont saint-hilaire"
+  },
+  {
+   "site_code": "s0000556",
+   "name_en": "Otterburn Park",
+   "province": "QC",
+   "lat": 45.53,
+   "lon": -73.22,
+   "name_fr": "Otterburn Park",
+   "search_en": "otterburn park",
+   "search_fr": "otterburn park"
+  },
+  {
+   "site_code": "s0000557",
+   "name_en": "Saint-Amable",
+   "province": "QC",
+   "lat": 45.65,
+   "lon": -73.3,
+   "name_fr": "Saint-Amable",
+   "search_en": "saint-amable",
+   "search_fr": "saint-amable"
+  },
+  {
+   "site_code": "s0000558",
+   "name_en": "Saint-Basile Le Grand",
+   "province": "QC",
+   "lat": 45.53,
+   "lon": -73.28,
+   "name_fr": "Saint-Basile Le Grand",
+   "search_en": "saint-basile le grand",
+   "search_fr": "saint-basile le grand"
+  },
+  {
+   "site_code": "s0000559",
+   "name_en": "Sainte-Julie",
+   "province": "QC",
+   "lat": 45.58,
+   "lon": -73.33,
+   "name_fr": "Sainte-Julie",
+   "search_en": "sainte-julie",
+   "search_fr": "sainte-julie"
+  },
+  {
+   "site_code": "s0000560",
+   "name_en": "Enterprise",
+   "province": "NT",
+   "lat": 60.55,
+   "lon": -116.13,
+   "name_fr": "Enterprise",
+   "search_en": "enterprise",
+   "search_fr": "enterprise"
+  },
+  {
+   "site_code": "s0000561",
+   "name_en": "Hay River",
+   "province": "NT",
+   "lat": 60.82,
+   "lon": -115.8,
+   "name_fr": "Hay River",
+   "search_en": "hay river",
+   "search_fr": "hay river"
+  },
+  {
+   "site_code": "s0000562",
+   "name_en": "Summerside",
+   "province": "PE",
+   "lat": 46.4,
+   "lon": -63.79,
+   "name_fr": "Summerside",
+   "search_en": "summerside",
+   "search_fr": "summerside"
+  },
+  {
+   "site_code": "s0000563",
+   "name_en": "Ivujivik",
+   "province": "QC",
+   "lat": 62.42,
+   "lon": -77.92,
+   "name_fr": "Ivujivik",
+   "search_en": "ivujivik",
+   "search_fr": "ivujivik"
+  },
+  {
+   "site_code": "s0000564",
+   "name_en": "Pond Inlet",
+   "province": "NU",
+   "lat": 72.7,
+   "lon": -77.96,
+   "name_fr": "Pond Inlet",
+   "search_en": "pond inlet",
+   "search_fr": "pond inlet"
+  },
+  {
+   "site_code": "s0000565",
+   "name_en": "Island Lake",
+   "province": "MB",
+   "lat": 53.86,
+   "lon": -94.67,
+   "name_fr": "Island Lake",
+   "search_en": "island lake",
+   "search_fr": "island lake"
+  },
+  {
+   "site_code": "s0000566",
+   "name_en": "Gods Lake",
+   "province": "MB",
+   "lat": 54.67,
+   "lon": -94.25,
+   "name_fr": "Gods Lake",
+   "search_en": "gods lake",
+   "search_fr": "gods lake"
+  },
+  {
+   "site_code": "s0000567",
+   "name_en": "Stephenville",
+   "province": "NL",
+   "lat": 48.55,
+   "lon": -58.58,
+   "name_fr": "Stephenville",
+   "search_en": "stephenville",
+   "search_fr": "stephenville"
+  },
+  {
+   "site_code": "s0000568",
+   "name_en": "Kamloops",
+   "province": "BC",
+   "lat": 50.67,
+   "lon": -120.33,
+   "name_fr": "Kamloops",
+   "search_en": "kamloops",
+   "search_fr": "kamloops"
+  },
+  {
+   "site_code": "s0000569",
+   "name_en": "Cache Creek",
+   "province": "BC",
+   "lat": 50.81,
+   "lon": -121.32,
+   "name_fr": "Cache Creek",
+   "search_en": "cache creek",
+   "search_fr": "cache creek"
+  },
+  {
+   "site_code": "s0000570",
+   "name_en": "Aklavik",
+   "province": "NT",
+   "lat": 68.22,
+   "lon": -135.01,
+   "name_fr": "Aklavik",
+   "search_en": "aklavik",
+   "search_fr": "aklavik"
+  },
+  {
+   "site_code": "s0000571",
+   "name_en": "Guelph",
+   "province": "ON",
+   "lat": 43.54,
+   "lon": -80.23,
+   "name_fr": "Guelph",
+   "search_en": "guelph",
+   "search_fr": "guelph"
+  },
+  {
+   "site_code": "s0000572",
+   "name_en": "Cambridge",
+   "province": "ON",
+   "lat": 43.4,
+   "lon": -80.31,
+   "name_fr": "Cambridge",
+   "search_en": "cambridge",
+   "search_fr": "cambridge"
+  },
+  {
+   "site_code": "s0000573",
+   "name_en": "Kitchener-Waterloo",
+   "province": "ON",
+   "lat": 43.42,
+   "lon": -80.47,
+   "name_fr": "Kitchener-Waterloo",
+   "search_en": "kitchener-waterloo",
+   "search_fr": "kitchener-waterloo"
+  },
+  {
+   "site_code": "s0000574",
+   "name_en": "Kangiqsujuaq",
+   "province": "QC",
+   "lat": 61.6,
+   "lon": -71.96,
+   "name_fr": "Kangiqsujuaq",
+   "search_en": "kangiqsujuaq",
+   "search_fr": "kangiqsujuaq"
+  },
+  {
+   "site_code": "s0000575",
+   "name_en": "Lac Raglan",
+   "province": "QC",
+   "lat": 61.66,
+   "lon": -73.26,
+   "name_fr": "Lac Raglan",
+   "search_en": "lac raglan",
+   "search_fr": "lac raglan"
+  },
+  {
+   "site_code": "s0000576",
+   "name_en": "Key Lake",
+   "province": "SK",
+   "lat": 57.22,
+   "lon": -105.63,
+   "name_fr": "Key Lake",
+   "search_en": "key lake",
+   "search_fr": "key lake"
+  },
+  {
+   "site_code": "s0000577",
+   "name_en": "Schefferville",
+   "province": "QC",
+   "lat": 54.8,
+   "lon": -66.83,
+   "name_fr": "Schefferville",
+   "search_en": "schefferville",
+   "search_fr": "schefferville"
+  },
+  {
+   "site_code": "s0000578",
+   "name_en": "Akulivik",
+   "province": "QC",
+   "lat": 60.8,
+   "lon": -78.2,
+   "name_fr": "Akulivik",
+   "search_en": "akulivik",
+   "search_fr": "akulivik"
+  },
+  {
+   "site_code": "s0000579",
+   "name_en": "Waskaganish",
+   "province": "QC",
+   "lat": 51.2,
+   "lon": -78.77,
+   "name_fr": "Waskaganish",
+   "search_en": "waskaganish",
+   "search_fr": "waskaganish"
+  },
+  {
+   "site_code": "s0000580",
+   "name_en": "Baie-James",
+   "province": "QC",
+   "lat": 52.0,
+   "lon": -76.0,
+   "name_fr": "Baie-James",
+   "search_en": "baie-james",
+   "search_fr": "baie-james"
+  },
+  {
+   "site_code": "s0000581",
+   "name_en": "Kindersley",
+   "province": "SK",
+   "lat": 51.47,
+   "lon": -109.16,
+   "name_fr": "Kindersley",
+   "search_en": "kindersley",
+   "search_fr": "kindersley"
+  },
+  {
+   "site_code": "s0000582",
+   "name_en": "Newmarket",
+   "province": "ON",
+   "lat": 44.06,
+   "lon": -79.46,
+   "name_fr": "Newmarket",
+   "search_en": "newmarket",
+   "search_fr": "newmarket"
+  },
+  {
+   "site_code": "s0000583",
+   "name_en": "Charlottetown",
+   "province": "PE",
+   "lat": 46.24,
+   "lon": -63.13,
+   "name_fr": "Charlottetown",
+   "search_en": "charlottetown",
+   "search_fr": "charlottetown"
+  },
+  {
+   "site_code": "s0000584",
+   "name_en": "Vaughan",
+   "province": "ON",
+   "lat": 43.85,
+   "lon": -79.54,
+   "name_fr": "Vaughan",
+   "search_en": "vaughan",
+   "search_fr": "vaughan"
+  },
+  {
+   "site_code": "s0000585",
+   "name_en": "Markham",
+   "province": "ON",
+   "lat": 43.88,
+   "lon": -79.26,
+   "name_fr": "Markham",
+   "search_en": "markham",
+   "search_fr": "markham"
+  },
+  {
+   "site_code": "s0000586",
+   "name_en": "Aupaluk",
+   "province": "QC",
+   "lat": 59.3,
+   "lon": -69.6,
+   "name_fr": "Aupaluk",
+   "search_en": "aupaluk",
+   "search_fr": "aupaluk"
+  },
+  {
+   "site_code": "s0000587",
+   "name_en": "Kimmirut",
+   "province": "NU",
+   "lat": 62.85,
+   "lon": -69.87,
+   "name_fr": "Kimmirut",
+   "search_en": "kimmirut",
+   "search_fr": "kimmirut"
+  },
+  {
+   "site_code": "s0000588",
+   "name_en": "Chapleau",
+   "province": "ON",
+   "lat": 47.84,
+   "lon": -83.4,
+   "name_fr": "Chapleau",
+   "search_en": "chapleau",
+   "search_fr": "chapleau"
+  },
+  {
+   "site_code": "s0000589",
+   "name_en": "Meadow Lake",
+   "province": "SK",
+   "lat": 54.12,
+   "lon": -108.44,
+   "name_fr": "Meadow Lake",
+   "search_en": "meadow lake",
+   "search_fr": "meadow lake"
+  },
+  {
+   "site_code": "s0000590",
+   "name_en": "Lloydminster",
+   "province": "AB",
+   "lat": 53.28,
+   "lon": -110.0,
+   "name_fr": "Lloydminster",
+   "search_en": "lloydminster",
+   "search_fr": "lloydminster"
+  },
+  {
+   "site_code": "s0000591",
+   "name_en": "Kangiqsualujjuaq",
+   "province": "QC",
+   "lat": 58.69,
+   "lon": -65.95,
+   "name_fr": "Kangiqsualujjuaq",
+   "search_en": "kangiqsualujjuaq",
+   "search_fr": "kangiqsualujjuaq"
+  },
+  {
+   "site_code": "s0000592",
+   "name_en": "Kelowna",
+   "province": "BC",
+   "lat": 49.88,
+   "lon": -119.48,
+   "name_fr": "Kelowna",
+   "search_en": "kelowna",
+   "search_fr": "kelowna"
+  },
+  {
+   "site_code": "s0000593",
+   "name_en": "Mayo",
+   "province": "YT",
+   "lat": 63.59,
+   "lon": -135.9,
+   "name_fr": "Mayo",
+   "search_en": "mayo",
+   "search_fr": "mayo"
+  },
+  {
+   "site_code": "s0000594",
+   "name_en": "Mary's Harbour",
+   "province": "NL",
+   "lat": 52.32,
+   "lon": -55.83,
+   "name_fr": "Mary's Harbour",
+   "search_en": "mary's harbour",
+   "search_fr": "mary's harbour"
+  },
+  {
+   "site_code": "s0000595",
+   "name_en": "Fort McMurray",
+   "province": "AB",
+   "lat": 56.73,
+   "lon": -111.38,
+   "name_fr": "Fort McMurray",
+   "search_en": "fort mcmurray",
+   "search_fr": "fort mcmurray"
+  },
+  {
+   "site_code": "s0000596",
+   "name_en": "Moosonee",
+   "province": "ON",
+   "lat": 51.33,
+   "lon": -80.72,
+   "name_fr": "Moosonee",
+   "search_en": "moosonee",
+   "search_fr": "moosonee"
+  },
+  {
+   "site_code": "s0000597",
+   "name_en": "Fort Albany",
+   "province": "ON",
+   "lat": 52.21,
+   "lon": -81.68,
+   "name_fr": "Fort Albany",
+   "search_en": "fort albany",
+   "search_fr": "fort albany"
+  },
+  {
+   "site_code": "s0000598",
+   "name_en": "Chibougamau",
+   "province": "QC",
+   "lat": 49.92,
+   "lon": -74.37,
+   "name_fr": "Chibougamau",
+   "search_en": "chibougamau",
+   "search_fr": "chibougamau"
+  },
+  {
+   "site_code": "s0000599",
+   "name_en": "Umiujaq",
+   "province": "QC",
+   "lat": 56.56,
+   "lon": -76.55,
+   "name_fr": "Umiujaq",
+   "search_en": "umiujaq",
+   "search_fr": "umiujaq"
+  },
+  {
+   "site_code": "s0000600",
+   "name_en": "Mirabel",
+   "province": "QC",
+   "lat": 45.65,
+   "lon": -74.08,
+   "name_fr": "Mirabel",
+   "search_en": "mirabel",
+   "search_fr": "mirabel"
+  },
+  {
+   "site_code": "s0000601",
+   "name_en": "Saint-Jérôme",
+   "province": "QC",
+   "lat": 45.78,
+   "lon": -74.0,
+   "name_fr": "Saint-Jérôme",
+   "search_en": "saint-jerome",
+   "search_fr": "saint-jerome"
+  },
+  {
+   "site_code": "s0000602",
+   "name_en": "Lachute",
+   "province": "QC",
+   "lat": 45.65,
+   "lon": -74.33,
+   "name_fr": "Lachute",
+   "search_en": "lachute",
+   "search_fr": "lachute"
+  },
+  {
+   "site_code": "s0000603",
+   "name_en": "Blainville",
+   "province": "QC",
+   "lat": 45.67,
+   "lon": -73.88,
+   "name_fr": "Blainville",
+   "search_en": "blainville",
+   "search_fr": "blainville"
+  },
+  {
+   "site_code": "s0000604",
+   "name_en": "Boisbriand",
+   "province": "QC",
+   "lat": 45.62,
+   "lon": -73.83,
+   "name_fr": "Boisbriand",
+   "search_en": "boisbriand",
+   "search_fr": "boisbriand"
+  },
+  {
+   "site_code": "s0000605",
+   "name_en": "Lorraine",
+   "province": "QC",
+   "lat": 45.68,
+   "lon": -73.78,
+   "name_fr": "Lorraine",
+   "search_en": "lorraine",
+   "search_fr": "lorraine"
+  },
+  {
+   "site_code": "s0000606",
+   "name_en": "Rosemère",
+   "province": "QC",
+   "lat": 45.63,
+   "lon": -73.8,
+   "name_fr": "Rosemère",
+   "search_en": "rosemere",
+   "search_fr": "rosemere"
+  },
+  {
+   "site_code": "s0000607",
+   "name_en": "Sainte-Anne-Des-Plaines",
+   "province": "QC",
+   "lat": 45.77,
+   "lon": -73.82,
+   "name_fr": "Sainte-Anne-Des-Plaines",
+   "search_en": "sainte-anne-des-plaines",
+   "search_fr": "sainte-anne-des-plaines"
+  },
+  {
+   "site_code": "s0000608",
+   "name_en": "Sainte-Thérèse",
+   "province": "QC",
+   "lat": 45.63,
+   "lon": -73.85,
+   "name_fr": "Sainte-Thérèse",
+   "search_en": "sainte-therese",
+   "search_fr": "sainte-therese"
+  },
+  {
+   "site_code": "s0000609",
+   "name_en": "Saint-Eustache",
+   "province": "QC",
+   "lat": 45.57,
+   "lon": -73.9,
+   "name_fr": "Saint-Eustache",
+   "search_en": "saint-eustache",
+   "search_fr": "saint-eustache"
+  },
+  {
+   "site_code": "s0000610",
+   "name_en": "Natashquan",
+   "province": "QC",
+   "lat": 50.19,
+   "lon": -61.82,
+   "name_fr": "Natashquan",
+   "search_en": "natashquan",
+   "search_fr": "natashquan"
+  },
+  {
+   "site_code": "s0000611",
+   "name_en": "Gatineau",
+   "province": "QC",
+   "lat": 45.48,
+   "lon": -75.65,
+   "name_fr": "Gatineau",
+   "search_en": "gatineau",
+   "search_fr": "gatineau"
+  },
+  {
+   "site_code": "s0000612",
+   "name_en": "Papineau",
+   "province": "QC",
+   "lat": 45.88,
+   "lon": -75.05,
+   "name_fr": "Papineau",
+   "search_en": "papineau",
+   "search_fr": "papineau"
+  },
+  {
+   "site_code": "s0000613",
+   "name_en": "Pontiac",
+   "province": "QC",
+   "lat": 46.05,
+   "lon": -76.92,
+   "name_fr": "Pontiac",
+   "search_en": "pontiac",
+   "search_fr": "pontiac"
+  },
+  {
+   "site_code": "s0000614",
+   "name_en": "Val-des-Monts",
+   "province": "QC",
+   "lat": 45.65,
+   "lon": -75.67,
+   "name_fr": "Val-des-Monts",
+   "search_en": "val-des-monts",
+   "search_fr": "val-des-monts"
+  },
+  {
+   "site_code": "s0000615",
+   "name_en": "Chelsea",
+   "province": "QC",
+   "lat": 45.5,
+   "lon": -75.78,
+   "name_fr": "Chelsea",
+   "search_en": "chelsea",
+   "search_fr": "chelsea"
+  },
+  {
+   "site_code": "s0000616",
+   "name_en": "Norway House",
+   "province": "MB",
+   "lat": 53.99,
+   "lon": -97.82,
+   "name_fr": "Norway House",
+   "search_en": "norway house",
+   "search_fr": "norway house"
+  },
+  {
+   "site_code": "s0000617",
+   "name_en": "Matagami",
+   "province": "QC",
+   "lat": 49.75,
+   "lon": -77.63,
+   "name_fr": "Matagami",
+   "search_en": "matagami",
+   "search_fr": "matagami"
+  },
+  {
+   "site_code": "s0000618",
+   "name_en": "Ekati (Lac de Gras)",
+   "province": "NT",
+   "lat": 64.5,
+   "lon": -110.5,
+   "name_fr": "Ekati (Lac de Gras)",
+   "search_en": "ekati (lac de gras)",
+   "search_fr": "ekati (lac de gras)"
+  },
+  {
+   "site_code": "s0000619",
+   "name_en": "Cold Lake",
+   "province": "AB",
+   "lat": 54.45,
+   "lon": -110.17,
+   "name_fr": "Cold Lake",
+   "search_en": "cold lake",
+   "search_fr": "cold lake"
+  },
+  {
+   "site_code": "s0000620",
+   "name_en": "Québec",
+   "province": "QC",
+   "lat": 46.82,
+   "lon": -71.22,
+   "name_fr": "Québec",
+   "search_en": "quebec",
+   "search_fr": "quebec"
+  },
+  {
+   "site_code": "s0000621",
+   "name_en": "High Level",
+   "province": "AB",
+   "lat": 58.52,
+   "lon": -117.13,
+   "name_fr": "High Level",
+   "search_en": "high level",
+   "search_fr": "high level"
+  },
+  {
+   "site_code": "s0000622",
+   "name_en": "Grand Manan",
+   "province": "NB",
+   "lat": 44.7,
+   "lon": -66.82,
+   "name_fr": "Grand Manan",
+   "search_en": "grand manan",
+   "search_fr": "grand manan"
+  },
+  {
+   "site_code": "s0000623",
+   "name_en": "Ottawa (Richmond - Metcalfe)",
+   "province": "ON",
+   "lat": 45.24,
+   "lon": -75.47,
+   "name_fr": "Ottawa (Richmond - Metcalfe)",
+   "search_en": "ottawa (richmond - metcalfe)",
+   "search_fr": "ottawa (richmond - metcalfe)"
+  },
+  {
+   "site_code": "s0000624",
+   "name_en": "Prince Albert",
+   "province": "SK",
+   "lat": 53.22,
+   "lon": -105.71,
+   "name_fr": "Prince Albert",
+   "search_en": "prince albert",
+   "search_fr": "prince albert"
+  },
+  {
+   "site_code": "s0000625",
+   "name_en": "Peace River",
+   "province": "AB",
+   "lat": 56.24,
+   "lon": -117.3,
+   "name_fr": "Peace River",
+   "search_en": "peace river",
+   "search_fr": "peace river"
+  },
+  {
+   "site_code": "s0000626",
+   "name_en": "Portage la Prairie",
+   "province": "MB",
+   "lat": 49.97,
+   "lon": -98.29,
+   "name_fr": "Portage la Prairie",
+   "search_en": "portage la prairie",
+   "search_fr": "portage la prairie"
+  },
+  {
+   "site_code": "s0000627",
+   "name_en": "Inukjuak",
+   "province": "QC",
+   "lat": 58.45,
+   "lon": -78.1,
+   "name_fr": "Inukjuak",
+   "search_en": "inukjuak",
+   "search_fr": "inukjuak"
+  },
+  {
+   "site_code": "s0000628",
+   "name_en": "Pickle Lake",
+   "province": "ON",
+   "lat": 51.47,
+   "lon": -90.2,
+   "name_fr": "Pickle Lake",
+   "search_en": "pickle lake",
+   "search_fr": "pickle lake"
+  },
+  {
+   "site_code": "s0000629",
+   "name_en": "Peterborough",
+   "province": "ON",
+   "lat": 44.3,
+   "lon": -78.33,
+   "name_fr": "Peterborough",
+   "search_en": "peterborough",
+   "search_fr": "peterborough"
+  },
+  {
+   "site_code": "s0000630",
+   "name_en": "Port Perry",
+   "province": "ON",
+   "lat": 44.1,
+   "lon": -78.95,
+   "name_fr": "Port Perry",
+   "search_en": "port perry",
+   "search_fr": "port perry"
+  },
+  {
+   "site_code": "s0000631",
+   "name_en": "Kawartha Lakes (Lindsay)",
+   "province": "ON",
+   "lat": 44.36,
+   "lon": -78.74,
+   "name_fr": "Kawartha Lakes (Lindsay)",
+   "search_en": "kawartha lakes (lindsay)",
+   "search_fr": "kawartha lakes (lindsay)"
+  },
+  {
+   "site_code": "s0000632",
+   "name_en": "Kawartha Lakes (Fenelon Falls)",
+   "province": "ON",
+   "lat": 44.54,
+   "lon": -78.74,
+   "name_fr": "Kawartha Lakes (Fenelon Falls)",
+   "search_en": "kawartha lakes (fenelon falls)",
+   "search_fr": "kawartha lakes (fenelon falls)"
+  },
+  {
+   "site_code": "s0000633",
+   "name_en": "Prince Rupert",
+   "province": "BC",
+   "lat": 54.32,
+   "lon": -130.32,
+   "name_fr": "Prince Rupert",
+   "search_en": "prince rupert",
+   "search_fr": "prince rupert"
+  },
+  {
+   "site_code": "s0000634",
+   "name_en": "Powell River",
+   "province": "BC",
+   "lat": 49.85,
+   "lon": -124.53,
+   "name_fr": "Powell River",
+   "search_en": "powell river",
+   "search_fr": "powell river"
+  },
+  {
+   "site_code": "s0000635",
+   "name_en": "Montréal",
+   "province": "QC",
+   "lat": 45.52,
+   "lon": -73.65,
+   "name_fr": "Montréal",
+   "search_en": "montreal",
+   "search_fr": "montreal"
+  },
+  {
+   "site_code": "s0000636",
+   "name_en": "Fort Chipewyan",
+   "province": "AB",
+   "lat": 58.71,
+   "lon": -111.16,
+   "name_fr": "Fort Chipewyan",
+   "search_en": "fort chipewyan",
+   "search_fr": "fort chipewyan"
+  },
+  {
+   "site_code": "s0000637",
+   "name_en": "Burk's Falls",
+   "province": "ON",
+   "lat": 45.63,
+   "lon": -79.4,
+   "name_fr": "Burk's Falls",
+   "search_en": "burk's falls",
+   "search_fr": "burk's falls"
+  },
+  {
+   "site_code": "s0000638",
+   "name_en": "Gravenhurst",
+   "province": "ON",
+   "lat": 44.87,
+   "lon": -79.34,
+   "name_fr": "Gravenhurst",
+   "search_en": "gravenhurst",
+   "search_fr": "gravenhurst"
+  },
+  {
+   "site_code": "s0000639",
+   "name_en": "Port Carling",
+   "province": "ON",
+   "lat": 45.12,
+   "lon": -79.58,
+   "name_fr": "Port Carling",
+   "search_en": "port carling",
+   "search_fr": "port carling"
+  },
+  {
+   "site_code": "s0000640",
+   "name_en": "Huntsville",
+   "province": "ON",
+   "lat": 45.31,
+   "lon": -79.28,
+   "name_fr": "Huntsville",
+   "search_en": "huntsville",
+   "search_fr": "huntsville"
+  },
+  {
+   "site_code": "s0000641",
+   "name_en": "Bracebridge",
+   "province": "ON",
+   "lat": 45.03,
+   "lon": -79.19,
+   "name_fr": "Bracebridge",
+   "search_en": "bracebridge",
+   "search_fr": "bracebridge"
+  },
+  {
+   "site_code": "s0000642",
+   "name_en": "Muskoka",
+   "province": "ON",
+   "lat": 44.91,
+   "lon": -79.37,
+   "name_fr": "Muskoka",
+   "search_en": "muskoka",
+   "search_fr": "muskoka"
+  },
+  {
+   "site_code": "s0000643",
+   "name_en": "Rainbow Lake",
+   "province": "AB",
+   "lat": 58.5,
+   "lon": -119.4,
+   "name_fr": "Rainbow Lake",
+   "search_en": "rainbow lake",
+   "search_fr": "rainbow lake"
+  },
+  {
+   "site_code": "s0000644",
+   "name_en": "The Pas",
+   "province": "MB",
+   "lat": 53.83,
+   "lon": -101.25,
+   "name_fr": "The Pas",
+   "search_en": "the pas",
+   "search_fr": "the pas"
+  },
+  {
+   "site_code": "s0000645",
+   "name_en": "Red Deer",
+   "province": "AB",
+   "lat": 52.27,
+   "lon": -113.81,
+   "name_fr": "Red Deer",
+   "search_en": "red deer",
+   "search_fr": "red deer"
+  },
+  {
+   "site_code": "s0000646",
+   "name_en": "Windsor",
+   "province": "ON",
+   "lat": 42.3,
+   "lon": -82.99,
+   "name_fr": "Windsor",
+   "search_en": "windsor",
+   "search_fr": "windsor"
+  },
+  {
+   "site_code": "s0000647",
+   "name_en": "Good Hope Lake",
+   "province": "BC",
+   "lat": 59.28,
+   "lon": -129.3,
+   "name_fr": "Good Hope Lake",
+   "search_en": "good hope lake",
+   "search_fr": "good hope lake"
+  },
+  {
+   "site_code": "s0000648",
+   "name_en": "Watson Lake",
+   "province": "YT",
+   "lat": 60.06,
+   "lon": -128.7,
+   "name_fr": "Watson Lake",
+   "search_en": "watson lake",
+   "search_fr": "watson lake"
+  },
+  {
+   "site_code": "s0000649",
+   "name_en": "Yarmouth",
+   "province": "NS",
+   "lat": 43.84,
+   "lon": -66.12,
+   "name_fr": "Yarmouth",
+   "search_en": "yarmouth",
+   "search_fr": "yarmouth"
+  },
+  {
+   "site_code": "s0000650",
+   "name_en": "Sioux Narrows",
+   "province": "ON",
+   "lat": 49.41,
+   "lon": -94.1,
+   "name_fr": "Sioux Narrows",
+   "search_en": "sioux narrows",
+   "search_fr": "sioux narrows"
+  },
+  {
+   "site_code": "s0000651",
+   "name_en": "Kenora",
+   "province": "ON",
+   "lat": 49.82,
+   "lon": -94.44,
+   "name_fr": "Kenora",
+   "search_en": "kenora",
+   "search_fr": "kenora"
+  },
+  {
+   "site_code": "s0000652",
+   "name_en": "Lethbridge",
+   "province": "AB",
+   "lat": 49.69,
+   "lon": -112.84,
+   "name_fr": "Lethbridge",
+   "search_en": "lethbridge",
+   "search_fr": "lethbridge"
+  },
+  {
+   "site_code": "s0000653",
+   "name_en": "Shediac",
+   "province": "NB",
+   "lat": 46.22,
+   "lon": -64.53,
+   "name_fr": "Shédiac",
+   "search_en": "shediac",
+   "search_fr": "shediac"
+  },
+  {
+   "site_code": "s0000654",
+   "name_en": "Moncton",
+   "province": "NB",
+   "lat": 46.12,
+   "lon": -64.8,
+   "name_fr": "Moncton",
+   "search_en": "moncton",
+   "search_fr": "moncton"
+  },
+  {
+   "site_code": "s0000655",
+   "name_en": "Hopewell",
+   "province": "NB",
+   "lat": 45.83,
+   "lon": -64.72,
+   "name_fr": "Hopewell",
+   "search_en": "hopewell",
+   "search_fr": "hopewell"
+  },
+  {
+   "site_code": "s0000656",
+   "name_en": "Comox",
+   "province": "BC",
+   "lat": 49.68,
+   "lon": -124.93,
+   "name_fr": "Comox",
+   "search_en": "comox",
+   "search_fr": "comox"
+  },
+  {
+   "site_code": "s0000657",
+   "name_en": "Courtenay",
+   "province": "BC",
+   "lat": 49.68,
+   "lon": -124.98,
+   "name_fr": "Courtenay",
+   "search_en": "courtenay",
+   "search_fr": "courtenay"
+  },
+  {
+   "site_code": "s0000658",
+   "name_en": "Brampton",
+   "province": "ON",
+   "lat": 43.69,
+   "lon": -79.76,
+   "name_fr": "Brampton",
+   "search_en": "brampton",
+   "search_fr": "brampton"
+  },
+  {
+   "site_code": "s0000659",
+   "name_en": "Kakabeka Falls",
+   "province": "ON",
+   "lat": 48.41,
+   "lon": -89.62,
+   "name_fr": "Kakabeka Falls",
+   "search_en": "kakabeka falls",
+   "search_fr": "kakabeka falls"
+  },
+  {
+   "site_code": "s0000660",
+   "name_en": "Dorion",
+   "province": "ON",
+   "lat": 48.79,
+   "lon": -88.65,
+   "name_fr": "Dorion",
+   "search_en": "dorion",
+   "search_fr": "dorion"
+  },
+  {
+   "site_code": "s0000661",
+   "name_en": "Grande Prairie",
+   "province": "AB",
+   "lat": 55.17,
+   "lon": -118.8,
+   "name_fr": "Grande Prairie",
+   "search_en": "grande prairie",
+   "search_fr": "grande prairie"
+  },
+  {
+   "site_code": "s0000662",
+   "name_en": "Canora",
+   "province": "SK",
+   "lat": 51.64,
+   "lon": -102.43,
+   "name_fr": "Canora",
+   "search_en": "canora",
+   "search_fr": "canora"
+  },
+  {
+   "site_code": "s0000663",
+   "name_en": "Yorkton",
+   "province": "SK",
+   "lat": 51.21,
+   "lon": -102.46,
+   "name_fr": "Yorkton",
+   "search_en": "yorkton",
+   "search_fr": "yorkton"
+  },
+  {
+   "site_code": "s0000664",
+   "name_en": "Kamsack",
+   "province": "SK",
+   "lat": 51.56,
+   "lon": -101.9,
+   "name_fr": "Kamsack",
+   "search_en": "kamsack",
+   "search_fr": "kamsack"
+  },
+  {
+   "site_code": "s0000665",
+   "name_en": "Melville",
+   "province": "SK",
+   "lat": 50.93,
+   "lon": -102.81,
+   "name_fr": "Melville",
+   "search_en": "melville",
+   "search_fr": "melville"
+  },
+  {
+   "site_code": "s0000666",
+   "name_en": "North Battleford",
+   "province": "SK",
+   "lat": 52.76,
+   "lon": -108.29,
+   "name_fr": "North Battleford",
+   "search_en": "north battleford",
+   "search_fr": "north battleford"
+  },
+  {
+   "site_code": "s0000667",
+   "name_en": "Gander",
+   "province": "NL",
+   "lat": 48.95,
+   "lon": -54.61,
+   "name_fr": "Gander",
+   "search_en": "gander",
+   "search_fr": "gander"
+  },
+  {
+   "site_code": "s0000668",
+   "name_en": "Campbellton",
+   "province": "NL",
+   "lat": 49.29,
+   "lon": -54.94,
+   "name_fr": "Campbellton",
+   "search_en": "campbellton",
+   "search_fr": "campbellton"
+  },
+  {
+   "site_code": "s0000669",
+   "name_en": "Lewisporte",
+   "province": "NL",
+   "lat": 49.25,
+   "lon": -55.06,
+   "name_fr": "Lewisporte",
+   "search_en": "lewisporte",
+   "search_fr": "lewisporte"
+  },
+  {
+   "site_code": "s0000670",
+   "name_en": "Sydney",
+   "province": "NS",
+   "lat": 46.14,
+   "lon": -60.2,
+   "name_fr": "Sydney",
+   "search_en": "sydney",
+   "search_fr": "sydney"
+  },
+  {
+   "site_code": "s0000671",
+   "name_en": "Quesnel",
+   "province": "BC",
+   "lat": 53.0,
+   "lon": -122.5,
+   "name_fr": "Quesnel",
+   "search_en": "quesnel",
+   "search_fr": "quesnel"
+  },
+  {
+   "site_code": "s0000672",
+   "name_en": "Resolute",
+   "province": "NU",
+   "lat": 74.7,
+   "lon": -94.83,
+   "name_fr": "Resolute",
+   "search_en": "resolute",
+   "search_fr": "resolute"
+  },
+  {
+   "site_code": "s0000673",
+   "name_en": "Roberval",
+   "province": "QC",
+   "lat": 48.52,
+   "lon": -72.27,
+   "name_fr": "Roberval",
+   "search_en": "roberval",
+   "search_fr": "roberval"
+  },
+  {
+   "site_code": "s0000674",
+   "name_en": "Lac-Saint-Jean",
+   "province": "QC",
+   "lat": 48.57,
+   "lon": -72.23,
+   "name_fr": "Lac-Saint-Jean",
+   "search_en": "lac-saint-jean",
+   "search_fr": "lac-saint-jean"
+  },
+  {
+   "site_code": "s0000675",
+   "name_en": "Saint-Félicien",
+   "province": "QC",
+   "lat": 48.65,
+   "lon": -72.45,
+   "name_fr": "Saint-Félicien",
+   "search_en": "saint-felicien",
+   "search_fr": "saint-felicien"
+  },
+  {
+   "site_code": "s0000676",
+   "name_en": "Red Lake",
+   "province": "ON",
+   "lat": 51.1,
+   "lon": -93.72,
+   "name_fr": "Red Lake",
+   "search_en": "red lake",
+   "search_fr": "red lake"
+  },
+  {
+   "site_code": "s0000677",
+   "name_en": "Pikangikum",
+   "province": "ON",
+   "lat": 51.81,
+   "lon": -93.99,
+   "name_fr": "Pikangikum",
+   "search_en": "pikangikum",
+   "search_fr": "pikangikum"
+  },
+  {
+   "site_code": "s0000678",
+   "name_en": "Rankin Inlet",
+   "province": "NU",
+   "lat": 62.82,
+   "lon": -92.08,
+   "name_fr": "Rankin Inlet",
+   "search_en": "rankin inlet",
+   "search_fr": "rankin inlet"
+  },
+  {
+   "site_code": "s0000679",
+   "name_en": "Revelstoke",
+   "province": "BC",
+   "lat": 50.98,
+   "lon": -118.2,
+   "name_fr": "Revelstoke",
+   "search_en": "revelstoke",
+   "search_fr": "revelstoke"
+  },
+  {
+   "site_code": "s0000680",
+   "name_en": "Greater Sudbury",
+   "province": "ON",
+   "lat": 46.58,
+   "lon": -81.07,
+   "name_fr": "Grand Sudbury",
+   "search_en": "greater sudbury",
+   "search_fr": "grand sudbury"
+  },
+  {
+   "site_code": "s0000681",
+   "name_en": "Sherbrooke",
+   "province": "QC",
+   "lat": 45.4,
+   "lon": -71.9,
+   "name_fr": "Sherbrooke",
+   "search_en": "sherbrooke",
+   "search_fr": "sherbrooke"
+  },
+  {
+   "site_code": "s0000682",
+   "name_en": "Asbestos",
+   "province": "QC",
+   "lat": 45.77,
+   "lon": -71.93,
+   "name_fr": "Asbestos",
+   "search_en": "asbestos",
+   "search_fr": "asbestos"
+  },
+  {
+   "site_code": "s0000683",
+   "name_en": "Suffield",
+   "province": "AB",
+   "lat": 50.22,
+   "lon": -111.16,
+   "name_fr": "Suffield",
+   "search_en": "suffield",
+   "search_fr": "suffield"
+  },
+  {
+   "site_code": "s0000684",
+   "name_en": "Stony Rapids",
+   "province": "SK",
+   "lat": 59.25,
+   "lon": -105.84,
+   "name_fr": "Stony Rapids",
+   "search_en": "stony rapids",
+   "search_fr": "stony rapids"
+  },
+  {
+   "site_code": "s0000685",
+   "name_en": "Quispamsis",
+   "province": "NB",
+   "lat": 45.44,
+   "lon": -65.94,
+   "name_fr": "Quispamsis",
+   "search_en": "quispamsis",
+   "search_fr": "quispamsis"
+  },
+  {
+   "site_code": "s0000686",
+   "name_en": "Sussex",
+   "province": "NB",
+   "lat": 45.72,
+   "lon": -65.51,
+   "name_fr": "Sussex",
+   "search_en": "sussex",
+   "search_fr": "sussex"
+  },
+  {
+   "site_code": "s0000687",
+   "name_en": "Saint John",
+   "province": "NB",
+   "lat": 45.26,
+   "lon": -66.04,
+   "name_fr": "Saint John",
+   "search_en": "saint john",
+   "search_fr": "saint john"
+  },
+  {
+   "site_code": "s0000688",
+   "name_en": "Fundy (National Park)",
+   "province": "NB",
+   "lat": 45.62,
+   "lon": -65.03,
+   "name_fr": "Fundy (Parc national)",
+   "search_en": "fundy (national park)",
+   "search_fr": "fundy (parc national)"
+  },
+  {
+   "site_code": "s0000689",
+   "name_en": "Sanikiluaq",
+   "province": "NU",
+   "lat": 56.53,
+   "lon": -79.23,
+   "name_fr": "Sanikiluaq",
+   "search_en": "sanikiluaq",
+   "search_fr": "sanikiluaq"
+  },
+  {
+   "site_code": "s0000690",
+   "name_en": "Fort Smith",
+   "province": "NT",
+   "lat": 60.0,
+   "lon": -111.88,
+   "name_fr": "Fort Smith",
+   "search_en": "fort smith",
+   "search_fr": "fort smith"
+  },
+  {
+   "site_code": "s0000691",
+   "name_en": "St. Catharines",
+   "province": "ON",
+   "lat": 43.17,
+   "lon": -79.25,
+   "name_fr": "St. Catharines",
+   "search_en": "st. catharines",
+   "search_fr": "st. catharines"
+  },
+  {
+   "site_code": "s0000692",
+   "name_en": "Niagara Falls",
+   "province": "ON",
+   "lat": 43.06,
+   "lon": -79.11,
+   "name_fr": "Niagara Falls",
+   "search_en": "niagara falls",
+   "search_fr": "niagara falls"
+  },
+  {
+   "site_code": "s0000693",
+   "name_en": "Nanisivik",
+   "province": "NU",
+   "lat": 73.03,
+   "lon": -84.55,
+   "name_fr": "Nanisivik",
+   "search_en": "nanisivik",
+   "search_fr": "nanisivik"
+  },
+  {
+   "site_code": "s0000694",
+   "name_en": "Cape Dorset",
+   "province": "NU",
+   "lat": 64.23,
+   "lon": -76.54,
+   "name_fr": "Cape Dorset",
+   "search_en": "cape dorset",
+   "search_fr": "cape dorset"
+  },
+  {
+   "site_code": "s0000695",
+   "name_en": "Thompson",
+   "province": "MB",
+   "lat": 55.74,
+   "lon": -97.86,
+   "name_fr": "Thompson",
+   "search_en": "thompson",
+   "search_fr": "thompson"
+  },
+  {
+   "site_code": "s0000696",
+   "name_en": "Sachigo Lake",
+   "province": "ON",
+   "lat": 53.87,
+   "lon": -92.17,
+   "name_fr": "Sachigo Lake",
+   "search_en": "sachigo lake",
+   "search_fr": "sachigo lake"
+  },
+  {
+   "site_code": "s0000697",
+   "name_en": "Big Trout Lake",
+   "province": "ON",
+   "lat": 53.75,
+   "lon": -90.0,
+   "name_fr": "Big Trout Lake",
+   "search_en": "big trout lake",
+   "search_fr": "big trout lake"
+  },
+  {
+   "site_code": "s0000698",
+   "name_en": "Wunnummin Lake",
+   "province": "ON",
+   "lat": 52.94,
+   "lon": -89.3,
+   "name_fr": "Wunnummin Lake",
+   "search_en": "wunnummin lake",
+   "search_fr": "wunnummin lake"
+  },
+  {
+   "site_code": "s0000699",
+   "name_en": "Tasiujaq",
+   "province": "QC",
+   "lat": 58.7,
+   "lon": -69.93,
+   "name_fr": "Tasiujaq",
+   "search_en": "tasiujaq",
+   "search_fr": "tasiujaq"
+  },
+  {
+   "site_code": "s0000700",
+   "name_en": "Stirling",
+   "province": "ON",
+   "lat": 44.3,
+   "lon": -77.55,
+   "name_fr": "Stirling",
+   "search_en": "stirling",
+   "search_fr": "stirling"
+  },
+  {
+   "site_code": "s0000701",
+   "name_en": "Trenton",
+   "province": "ON",
+   "lat": 44.11,
+   "lon": -77.58,
+   "name_fr": "Trenton",
+   "search_en": "trenton",
+   "search_fr": "trenton"
+  },
+  {
+   "site_code": "s0000702",
+   "name_en": "Prince Edward (Picton)",
+   "province": "ON",
+   "lat": 44.02,
+   "lon": -77.26,
+   "name_fr": "Prince Edward (Picton)",
+   "search_en": "prince edward (picton)",
+   "search_fr": "prince edward (picton)"
+  },
+  {
+   "site_code": "s0000703",
+   "name_en": "Belleville",
+   "province": "ON",
+   "lat": 44.26,
+   "lon": -77.37,
+   "name_fr": "Belleville",
+   "search_en": "belleville",
+   "search_fr": "belleville"
+  },
+  {
+   "site_code": "s0000704",
+   "name_en": "Quinte West",
+   "province": "ON",
+   "lat": 44.2,
+   "lon": -77.58,
+   "name_fr": "Quinte Ouest",
+   "search_en": "quinte west",
+   "search_fr": "quinte ouest"
+  },
+  {
+   "site_code": "s0000705",
+   "name_en": "Timmins",
+   "province": "ON",
+   "lat": 48.47,
+   "lon": -81.33,
+   "name_fr": "Timmins",
+   "search_en": "timmins",
+   "search_fr": "timmins"
+  },
+  {
+   "site_code": "s0000706",
+   "name_en": "Cochrane",
+   "province": "ON",
+   "lat": 49.17,
+   "lon": -81.06,
+   "name_fr": "Cochrane",
+   "search_en": "cochrane",
+   "search_fr": "cochrane"
+  },
+  {
+   "site_code": "s0000707",
+   "name_en": "Oshawa",
+   "province": "ON",
+   "lat": 43.9,
+   "lon": -78.86,
+   "name_fr": "Oshawa",
+   "search_en": "oshawa",
+   "search_fr": "oshawa"
+  },
+  {
+   "site_code": "s0000708",
+   "name_en": "Whitby",
+   "province": "ON",
+   "lat": 43.93,
+   "lon": -78.95,
+   "name_fr": "Whitby",
+   "search_en": "whitby",
+   "search_fr": "whitby"
+  },
+  {
+   "site_code": "s0000709",
+   "name_en": "Shawinigan",
+   "province": "QC",
+   "lat": 46.57,
+   "lon": -72.75,
+   "name_fr": "Shawinigan",
+   "search_en": "shawinigan",
+   "search_fr": "shawinigan"
+  },
+  {
+   "site_code": "s0000710",
+   "name_en": "Pickering",
+   "province": "ON",
+   "lat": 43.91,
+   "lon": -79.13,
+   "name_fr": "Pickering",
+   "search_en": "pickering",
+   "search_fr": "pickering"
+  },
+  {
+   "site_code": "s0000711",
+   "name_en": "Puvirnituq",
+   "province": "QC",
+   "lat": 60.03,
+   "lon": -77.28,
+   "name_fr": "Puvirnituq",
+   "search_en": "puvirnituq",
+   "search_fr": "puvirnituq"
+  },
+  {
+   "site_code": "s0000712",
+   "name_en": "Laval",
+   "province": "QC",
+   "lat": 45.58,
+   "lon": -73.75,
+   "name_fr": "Laval",
+   "search_en": "laval",
+   "search_fr": "laval"
+  },
+  {
+   "site_code": "s0000713",
+   "name_en": "Naujaat",
+   "province": "NU",
+   "lat": 66.53,
+   "lon": -86.25,
+   "name_fr": "Naujaat",
+   "search_en": "naujaat",
+   "search_fr": "naujaat"
+  },
+  {
+   "site_code": "s0000714",
+   "name_en": "Hall Beach",
+   "province": "NU",
+   "lat": 68.79,
+   "lon": -81.24,
+   "name_fr": "Hall Beach",
+   "search_en": "hall beach",
+   "search_fr": "hall beach"
+  },
+  {
+   "site_code": "s0000715",
+   "name_en": "La Ronge",
+   "province": "SK",
+   "lat": 55.12,
+   "lon": -105.29,
+   "name_fr": "La Ronge",
+   "search_en": "la ronge",
+   "search_fr": "la ronge"
+  },
+  {
+   "site_code": "s0000716",
+   "name_en": "Qikiqtarjuaq",
+   "province": "NU",
+   "lat": 67.55,
+   "lon": -64.03,
+   "name_fr": "Qikiqtarjuaqq",
+   "search_en": "qikiqtarjuaq",
+   "search_fr": "qikiqtarjuaqq"
+  },
+  {
+   "site_code": "s0000717",
+   "name_en": "Val-d'Or",
+   "province": "QC",
+   "lat": 48.1,
+   "lon": -77.78,
+   "name_fr": "Val-d'Or",
+   "search_en": "val-d'or",
+   "search_fr": "val-d'or"
+  },
+  {
+   "site_code": "s0000718",
+   "name_en": "Amos",
+   "province": "QC",
+   "lat": 48.57,
+   "lon": -78.12,
+   "name_fr": "Amos",
+   "search_en": "amos",
+   "search_fr": "amos"
+  },
+  {
+   "site_code": "s0000719",
+   "name_en": "Kuujjuaq",
+   "province": "QC",
+   "lat": 58.1,
+   "lon": -68.4,
+   "name_fr": "Kuujjuaq",
+   "search_en": "kuujjuaq",
+   "search_fr": "kuujjuaq"
+  },
+  {
+   "site_code": "s0000720",
+   "name_en": "Norman Wells",
+   "province": "NT",
+   "lat": 65.28,
+   "lon": -126.83,
+   "name_fr": "Norman Wells",
+   "search_en": "norman wells",
+   "search_fr": "norman wells"
+  },
+  {
+   "site_code": "s0000721",
+   "name_en": "Joliette",
+   "province": "QC",
+   "lat": 46.02,
+   "lon": -73.45,
+   "name_fr": "Joliette",
+   "search_en": "joliette",
+   "search_fr": "joliette"
+  },
+  {
+   "site_code": "s0000722",
+   "name_en": "La Loche",
+   "province": "SK",
+   "lat": 56.49,
+   "lon": -109.4,
+   "name_fr": "La Loche",
+   "search_en": "la loche",
+   "search_fr": "la loche"
+  },
+  {
+   "site_code": "s0000723",
+   "name_en": "Buffalo Narrows",
+   "province": "SK",
+   "lat": 55.88,
+   "lon": -108.52,
+   "name_fr": "Buffalo Narrows",
+   "search_en": "buffalo narrows",
+   "search_fr": "buffalo narrows"
+  },
+  {
+   "site_code": "s0000724",
+   "name_en": "Wiarton",
+   "province": "ON",
+   "lat": 44.74,
+   "lon": -81.14,
+   "name_fr": "Wiarton",
+   "search_en": "wiarton",
+   "search_fr": "wiarton"
+  },
+  {
+   "site_code": "s0000725",
+   "name_en": "Port Elgin",
+   "province": "ON",
+   "lat": 44.44,
+   "lon": -81.39,
+   "name_fr": "Port Elgin",
+   "search_en": "port elgin",
+   "search_fr": "port elgin"
+  },
+  {
+   "site_code": "s0000726",
+   "name_en": "Saugeen Shores",
+   "province": "ON",
+   "lat": 44.41,
+   "lon": -81.37,
+   "name_fr": "Saugeen Shores",
+   "search_en": "saugeen shores",
+   "search_fr": "saugeen shores"
+  },
+  {
+   "site_code": "s0000727",
+   "name_en": "South Bruce Peninsula",
+   "province": "ON",
+   "lat": 44.71,
+   "lon": -81.22,
+   "name_fr": "South Bruce Peninsula",
+   "search_en": "south bruce peninsula",
+   "search_fr": "south bruce peninsula"
+  },
+  {
+   "site_code": "s0000728",
+   "name_en": "Owen Sound",
+   "province": "ON",
+   "lat": 44.57,
+   "lon": -80.93,
+   "name_fr": "Owen Sound",
+   "search_en": "owen sound",
+   "search_fr": "owen sound"
+  },
+  {
+   "site_code": "s0000729",
+   "name_en": "Petawawa",
+   "province": "ON",
+   "lat": 45.91,
+   "lon": -77.27,
+   "name_fr": "Petawawa",
+   "search_en": "petawawa",
+   "search_fr": "petawawa"
+  },
+  {
+   "site_code": "s0000730",
+   "name_en": "Pembroke",
+   "province": "ON",
+   "lat": 45.82,
+   "lon": -77.11,
+   "name_fr": "Pembroke",
+   "search_en": "pembroke",
+   "search_fr": "pembroke"
+  },
+  {
+   "site_code": "s0000731",
+   "name_en": "Renfrew",
+   "province": "ON",
+   "lat": 45.47,
+   "lon": -76.68,
+   "name_fr": "Renfrew",
+   "search_en": "renfrew",
+   "search_fr": "renfrew"
+  },
+  {
+   "site_code": "s0000732",
+   "name_en": "Deep River",
+   "province": "ON",
+   "lat": 46.05,
+   "lon": -77.42,
+   "name_fr": "Deep River",
+   "search_en": "deep river",
+   "search_fr": "deep river"
+  },
+  {
+   "site_code": "s0000733",
+   "name_en": "Moosomin",
+   "province": "SK",
+   "lat": 50.14,
+   "lon": -101.67,
+   "name_fr": "Moosomin",
+   "search_en": "moosomin",
+   "search_fr": "moosomin"
+  },
+  {
+   "site_code": "s0000734",
+   "name_en": "Richer",
+   "province": "MB",
+   "lat": 49.66,
+   "lon": -96.46,
+   "name_fr": "Richer",
+   "search_en": "richer",
+   "search_fr": "richer"
+  },
+  {
+   "site_code": "s0000735",
+   "name_en": "Victoria Harbour",
+   "province": "BC",
+   "lat": 48.42,
+   "lon": -123.39,
+   "name_fr": "Victoria Harbour",
+   "search_en": "victoria harbour",
+   "search_fr": "victoria harbour"
+  },
+  {
+   "site_code": "s0000736",
+   "name_en": "Wabush Lake",
+   "province": "NL",
+   "lat": 53.08,
+   "lon": -66.87,
+   "name_fr": "Wabush Lake",
+   "search_en": "wabush lake",
+   "search_fr": "wabush lake"
+  },
+  {
+   "site_code": "s0000737",
+   "name_en": "Labrador City",
+   "province": "NL",
+   "lat": 52.94,
+   "lon": -66.92,
+   "name_fr": "Labrador City",
+   "search_en": "labrador city",
+   "search_fr": "labrador city"
+  },
+  {
+   "site_code": "s0000738",
+   "name_en": "Fermont",
+   "province": "QC",
+   "lat": 52.78,
+   "lon": -67.08,
+   "name_fr": "Fermont",
+   "search_en": "fermont",
+   "search_fr": "fermont"
+  },
+  {
+   "site_code": "s0000739",
+   "name_en": "Williams Lake",
+   "province": "BC",
+   "lat": 52.14,
+   "lon": -122.14,
+   "name_fr": "Williams Lake",
+   "search_en": "williams lake",
+   "search_fr": "williams lake"
+  },
+  {
+   "site_code": "s0000740",
+   "name_en": "Wrigley",
+   "province": "NT",
+   "lat": 63.27,
+   "lon": -123.61,
+   "name_fr": "Wrigley",
+   "search_en": "wrigley",
+   "search_fr": "wrigley"
+  },
+  {
+   "site_code": "s0000741",
+   "name_en": "Cranbrook",
+   "province": "BC",
+   "lat": 49.5,
+   "lon": -115.77,
+   "name_fr": "Cranbrook",
+   "search_en": "cranbrook",
+   "search_fr": "cranbrook"
+  },
+  {
+   "site_code": "s0000742",
+   "name_en": "Saint-Timothée",
+   "province": "QC",
+   "lat": 45.29,
+   "lon": -74.04,
+   "name_fr": "Saint-Timothée",
+   "search_en": "saint-timothee",
+   "search_fr": "saint-timothee"
+  },
+  {
+   "site_code": "s0000743",
+   "name_en": "Rosthern",
+   "province": "SK",
+   "lat": 52.66,
+   "lon": -106.33,
+   "name_fr": "Rosthern",
+   "search_en": "rosthern",
+   "search_fr": "rosthern"
+  },
+  {
+   "site_code": "s0000744",
+   "name_en": "Lambton Shores",
+   "province": "ON",
+   "lat": 43.18,
+   "lon": -81.9,
+   "name_fr": "Lambton Shores",
+   "search_en": "lambton shores",
+   "search_fr": "lambton shores"
+  },
+  {
+   "site_code": "s0000745",
+   "name_en": "Medicine Hat",
+   "province": "AB",
+   "lat": 50.04,
+   "lon": -110.68,
+   "name_fr": "Medicine Hat",
+   "search_en": "medicine hat",
+   "search_fr": "medicine hat"
+  },
+  {
+   "site_code": "s0000746",
+   "name_en": "Fort St. John",
+   "province": "BC",
+   "lat": 56.25,
+   "lon": -120.85,
+   "name_fr": "Fort St. John",
+   "search_en": "fort st. john",
+   "search_fr": "fort st. john"
+  },
+  {
+   "site_code": "s0000747",
+   "name_en": "Savant Lake",
+   "province": "ON",
+   "lat": 50.24,
+   "lon": -90.71,
+   "name_fr": "Savant Lake",
+   "search_en": "savant lake",
+   "search_fr": "savant lake"
+  },
+  {
+   "site_code": "s0000748",
+   "name_en": "Sioux Lookout",
+   "province": "ON",
+   "lat": 50.09,
+   "lon": -92.0,
+   "name_fr": "Sioux Lookout",
+   "search_en": "sioux lookout",
+   "search_fr": "sioux lookout"
+  },
+  {
+   "site_code": "s0000749",
+   "name_en": "Whale Cove",
+   "province": "NU",
+   "lat": 62.16,
+   "lon": -92.57,
+   "name_fr": "Whale Cove",
+   "search_en": "whale cove",
+   "search_fr": "whale cove"
+  },
+  {
+   "site_code": "s0000750",
+   "name_en": "Pangnirtung",
+   "province": "NU",
+   "lat": 66.14,
+   "lon": -65.72,
+   "name_fr": "Pangnirtung",
+   "search_en": "pangnirtung",
+   "search_fr": "pangnirtung"
+  },
+  {
+   "site_code": "s0000751",
+   "name_en": "Beaver Creek",
+   "province": "YT",
+   "lat": 62.38,
+   "lon": -140.88,
+   "name_fr": "Beaver Creek",
+   "search_en": "beaver creek",
+   "search_fr": "beaver creek"
+  },
+  {
+   "site_code": "s0000752",
+   "name_en": "Earlton",
+   "province": "ON",
+   "lat": 47.71,
+   "lon": -79.82,
+   "name_fr": "Earlton",
+   "search_en": "earlton",
+   "search_fr": "earlton"
+  },
+  {
+   "site_code": "s0000753",
+   "name_en": "Temiskaming Shores",
+   "province": "ON",
+   "lat": 47.49,
+   "lon": -79.72,
+   "name_fr": "Temiskaming Shores",
+   "search_en": "temiskaming shores",
+   "search_fr": "temiskaming shores"
+  },
+  {
+   "site_code": "s0000754",
+   "name_en": "Vanderhoof",
+   "province": "BC",
+   "lat": 54.02,
+   "lon": -124.02,
+   "name_fr": "Vanderhoof",
+   "search_en": "vanderhoof",
+   "search_fr": "vanderhoof"
+  },
+  {
+   "site_code": "s0000755",
+   "name_en": "Repentigny",
+   "province": "QC",
+   "lat": 45.73,
+   "lon": -73.47,
+   "name_fr": "Repentigny",
+   "search_en": "repentigny",
+   "search_fr": "repentigny"
+  },
+  {
+   "site_code": "s0000756",
+   "name_en": "Kitimat",
+   "province": "BC",
+   "lat": 54.05,
+   "lon": -128.65,
+   "name_fr": "Kitimat",
+   "search_en": "kitimat",
+   "search_fr": "kitimat"
+  },
+  {
+   "site_code": "s0000757",
+   "name_en": "Terrace",
+   "province": "BC",
+   "lat": 54.52,
+   "lon": -128.6,
+   "name_fr": "Terrace",
+   "search_en": "terrace",
+   "search_fr": "terrace"
+  },
+  {
+   "site_code": "s0000758",
+   "name_en": "Abbotsford",
+   "province": "BC",
+   "lat": 49.06,
+   "lon": -122.25,
+   "name_fr": "Abbotsford",
+   "search_en": "abbotsford",
+   "search_fr": "abbotsford"
+  },
+  {
+   "site_code": "s0000759",
+   "name_en": "Paulatuk",
+   "province": "NT",
+   "lat": 69.35,
+   "lon": -124.07,
+   "name_fr": "Paulatuk",
+   "search_en": "paulatuk",
+   "search_fr": "paulatuk"
+  },
+  {
+   "site_code": "s0000760",
+   "name_en": "Carcross",
+   "province": "YT",
+   "lat": 60.17,
+   "lon": -134.71,
+   "name_fr": "Carcross",
+   "search_en": "carcross",
+   "search_fr": "carcross"
+  },
+  {
+   "site_code": "s0000761",
+   "name_en": "Wawa",
+   "province": "ON",
+   "lat": 47.99,
+   "lon": -84.77,
+   "name_fr": "Wawa",
+   "search_en": "wawa",
+   "search_fr": "wawa"
+  },
+  {
+   "site_code": "s0000762",
+   "name_en": "Montreal River Harbour",
+   "province": "ON",
+   "lat": 47.24,
+   "lon": -84.65,
+   "name_fr": "Montreal River Harbour",
+   "search_en": "montreal river harbour",
+   "search_fr": "montreal river harbour"
+  },
+  {
+   "site_code": "s0000763",
+   "name_en": "Lake Superior (Provincial Park)",
+   "province": "ON",
+   "lat": 47.6,
+   "lon": -84.74,
+   "name_fr": "Lac Supérieur (Parc provincial)",
+   "search_en": "lake superior (provincial park)",
+   "search_fr": "lac superieur (parc provincial)"
+  },
+  {
+   "site_code": "s0000764",
+   "name_en": "White River",
+   "province": "ON",
+   "lat": 48.58,
+   "lon": -85.26,
+   "name_fr": "White River",
+   "search_en": "white river",
+   "search_fr": "white river"
+  },
+  {
+   "site_code": "s0000765",
+   "name_en": "North Bay",
+   "province": "ON",
+   "lat": 46.31,
+   "lon": -79.46,
+   "name_fr": "North Bay",
+   "search_en": "north bay",
+   "search_fr": "north bay"
+  },
+  {
+   "site_code": "s0000766",
+   "name_en": "West Nipissing",
+   "province": "ON",
+   "lat": 46.45,
+   "lon": -80.04,
+   "name_fr": "Nipissing Ouest",
+   "search_en": "west nipissing",
+   "search_fr": "nipissing ouest"
+  },
+  {
+   "site_code": "s0000767",
+   "name_en": "Okotoks",
+   "province": "AB",
+   "lat": 50.73,
+   "lon": -113.98,
+   "name_fr": "Okotoks",
+   "search_en": "okotoks",
+   "search_fr": "okotoks"
+  },
+  {
+   "site_code": "s0000768",
+   "name_en": "Airdrie",
+   "province": "AB",
+   "lat": 51.29,
+   "lon": -114.01,
+   "name_fr": "Airdrie",
+   "search_en": "airdrie",
+   "search_fr": "airdrie"
+  },
+  {
+   "site_code": "s0000769",
+   "name_en": "Delson",
+   "province": "QC",
+   "lat": 45.37,
+   "lon": -73.55,
+   "name_fr": "Delson",
+   "search_en": "delson",
+   "search_fr": "delson"
+  },
+  {
+   "site_code": "s0000770",
+   "name_en": "Smithers",
+   "province": "BC",
+   "lat": 54.78,
+   "lon": -127.17,
+   "name_fr": "Smithers",
+   "search_en": "smithers",
+   "search_fr": "smithers"
+  },
+  {
+   "site_code": "s0000771",
+   "name_en": "Fort Nelson",
+   "province": "BC",
+   "lat": 58.81,
+   "lon": -122.7,
+   "name_fr": "Fort Nelson",
+   "search_en": "fort nelson",
+   "search_fr": "fort nelson"
+  },
+  {
+   "site_code": "s0000772",
+   "name_en": "Penticton",
+   "province": "BC",
+   "lat": 49.5,
+   "lon": -119.58,
+   "name_fr": "Penticton",
+   "search_en": "penticton",
+   "search_fr": "penticton"
+  },
+  {
+   "site_code": "s0000773",
+   "name_en": "Richmond Hill",
+   "province": "ON",
+   "lat": 43.87,
+   "lon": -79.44,
+   "name_fr": "Richmond Hill",
+   "search_en": "richmond hill",
+   "search_fr": "richmond hill"
+  },
+  {
+   "site_code": "s0000774",
+   "name_en": "Taloyoak",
+   "province": "NU",
+   "lat": 69.54,
+   "lon": -93.52,
+   "name_fr": "Taloyoak",
+   "search_en": "taloyoak",
+   "search_fr": "taloyoak"
+  },
+  {
+   "site_code": "s0000775",
+   "name_en": "Victoria",
+   "province": "BC",
+   "lat": 48.43,
+   "lon": -123.37,
+   "name_fr": "Victoria",
+   "search_en": "victoria",
+   "search_fr": "victoria"
+  },
+  {
+   "site_code": "s0000776",
+   "name_en": "Leaf Rapids",
+   "province": "MB",
+   "lat": 56.47,
+   "lon": -99.75,
+   "name_fr": "Leaf Rapids",
+   "search_en": "leaf rapids",
+   "search_fr": "leaf rapids"
+  },
+  {
+   "site_code": "s0000777",
+   "name_en": "Lynn Lake",
+   "province": "MB",
+   "lat": 56.83,
+   "lon": -101.08,
+   "name_fr": "Lynn Lake",
+   "search_en": "lynn lake",
+   "search_fr": "lynn lake"
+  },
+  {
+   "site_code": "s0000778",
+   "name_en": "Brochet",
+   "province": "MB",
+   "lat": 57.88,
+   "lon": -101.67,
+   "name_fr": "Brochet",
+   "search_en": "brochet",
+   "search_fr": "brochet"
+  },
+  {
+   "site_code": "s0000779",
+   "name_en": "Churchill",
+   "province": "MB",
+   "lat": 58.73,
+   "lon": -94.12,
+   "name_fr": "Churchill",
+   "search_en": "churchill",
+   "search_fr": "churchill"
+  },
+  {
+   "site_code": "s0000780",
+   "name_en": "Happy Valley-Goose Bay",
+   "province": "NL",
+   "lat": 53.3,
+   "lon": -60.31,
+   "name_fr": "Happy Valley-Goose Bay",
+   "search_en": "happy valley-goose bay",
+   "search_fr": "happy valley-goose bay"
+  },
+  {
+   "site_code": "s0000781",
+   "name_en": "Grande Cache",
+   "province": "AB",
+   "lat": 53.89,
+   "lon": -119.12,
+   "name_fr": "Grande Cache",
+   "search_en": "grande cache",
+   "search_fr": "grande cache"
+  },
+  {
+   "site_code": "s0000782",
+   "name_en": "Kapuskasing",
+   "province": "ON",
+   "lat": 49.42,
+   "lon": -82.42,
+   "name_fr": "Kapuskasing",
+   "search_en": "kapuskasing",
+   "search_fr": "kapuskasing"
+  },
+  {
+   "site_code": "s0000783",
+   "name_en": "Mont-Joli",
+   "province": "QC",
+   "lat": 48.58,
+   "lon": -68.18,
+   "name_fr": "Mont-Joli",
+   "search_en": "mont-joli",
+   "search_fr": "mont-joli"
+  },
+  {
+   "site_code": "s0000784",
+   "name_en": "Matane",
+   "province": "QC",
+   "lat": 48.85,
+   "lon": -67.53,
+   "name_fr": "Matane",
+   "search_en": "matane",
+   "search_fr": "matane"
+  },
+  {
+   "site_code": "s0000785",
+   "name_en": "Toronto Island",
+   "province": "ON",
+   "lat": 43.63,
+   "lon": -79.37,
+   "name_fr": "Toronto Island",
+   "search_en": "toronto island",
+   "search_fr": "toronto island"
+  },
+  {
+   "site_code": "s0000786",
+   "name_en": "Mississauga",
+   "province": "ON",
+   "lat": 43.59,
+   "lon": -79.66,
+   "name_fr": "Mississauga",
+   "search_en": "mississauga",
+   "search_fr": "mississauga"
+  },
+  {
+   "site_code": "s0000787",
+   "name_en": "Caledon",
+   "province": "ON",
+   "lat": 43.87,
+   "lon": -79.86,
+   "name_fr": "Caledon",
+   "search_en": "caledon",
+   "search_fr": "caledon"
+  },
+  {
+   "site_code": "s0000788",
+   "name_en": "Regina",
+   "province": "SK",
+   "lat": 50.45,
+   "lon": -104.61,
+   "name_fr": "Regina",
+   "search_en": "regina",
+   "search_fr": "regina"
+  },
+  {
+   "site_code": "s0000789",
+   "name_en": "Halton Hills",
+   "province": "ON",
+   "lat": 43.63,
+   "lon": -79.95,
+   "name_fr": "Halton Hills",
+   "search_en": "halton hills",
+   "search_fr": "halton hills"
+  },
+  {
+   "site_code": "s0000790",
+   "name_en": "Gore Bay",
+   "province": "ON",
+   "lat": 45.92,
+   "lon": -82.46,
+   "name_fr": "Gore Bay",
+   "search_en": "gore bay",
+   "search_fr": "gore bay"
+  },
+  {
+   "site_code": "s0000791",
+   "name_en": "Detah",
+   "province": "NT",
+   "lat": 62.41,
+   "lon": -114.31,
+   "name_fr": "Detah",
+   "search_en": "detah",
+   "search_fr": "detah"
+  },
+  {
+   "site_code": "s0000792",
+   "name_en": "Victoria (Hartland)",
+   "province": "BC",
+   "lat": 48.52,
+   "lon": -123.43,
+   "name_fr": "Victoria (Hartland)",
+   "search_en": "victoria (hartland)",
+   "search_fr": "victoria (hartland)"
+  },
+  {
+   "site_code": "s0000793",
+   "name_en": "Salluit",
+   "province": "QC",
+   "lat": 62.2,
+   "lon": -75.63,
+   "name_fr": "Salluit",
+   "search_en": "salluit",
+   "search_fr": "salluit"
+  },
+  {
+   "site_code": "s0000794",
+   "name_en": "Slave Lake",
+   "province": "AB",
+   "lat": 55.28,
+   "lon": -114.77,
+   "name_fr": "Slave Lake",
+   "search_en": "slave lake",
+   "search_fr": "slave lake"
+  },
+  {
+   "site_code": "s0000795",
+   "name_en": "Sandspit",
+   "province": "BC",
+   "lat": 53.25,
+   "lon": -131.82,
+   "name_fr": "Sandspit",
+   "search_en": "sandspit",
+   "search_fr": "sandspit"
+  },
+  {
+   "site_code": "s0000796",
+   "name_en": "Sarnia",
+   "province": "ON",
+   "lat": 42.98,
+   "lon": -82.32,
+   "name_fr": "Sarnia",
+   "search_en": "sarnia",
+   "search_fr": "sarnia"
+  },
+  {
+   "site_code": "s0000797",
+   "name_en": "Saskatoon",
+   "province": "SK",
+   "lat": 52.14,
+   "lon": -106.69,
+   "name_fr": "Saskatoon",
+   "search_en": "saskatoon",
+   "search_fr": "saskatoon"
+  },
+  {
+   "site_code": "s0000798",
+   "name_en": "Coral Harbour",
+   "province": "NU",
+   "lat": 64.13,
+   "lon": -83.17,
+   "name_fr": "Coral Harbour",
+   "search_en": "coral harbour",
+   "search_fr": "coral harbour"
+  },
+  {
+   "site_code": "s0000799",
+   "name_en": "Port Hardy",
+   "province": "BC",
+   "lat": 50.7,
+   "lon": -127.42,
+   "name_fr": "Port Hardy",
+   "search_en": "port hardy",
+   "search_fr": "port hardy"
+  },
+  {
+   "site_code": "s0000800",
+   "name_en": "Sept-Îles",
+   "province": "QC",
+   "lat": 50.2,
+   "lon": -66.38,
+   "name_fr": "Sept-Îles",
+   "search_en": "sept-iles",
+   "search_fr": "sept-iles"
+  },
+  {
+   "site_code": "s0000801",
+   "name_en": "Port-Cartier",
+   "province": "QC",
+   "lat": 50.03,
+   "lon": -66.87,
+   "name_fr": "Port-Cartier",
+   "search_en": "port-cartier",
+   "search_fr": "port-cartier"
+  },
+  {
+   "site_code": "s0000802",
+   "name_en": "Annapolis Royal",
+   "province": "NS",
+   "lat": 44.74,
+   "lon": -65.52,
+   "name_fr": "Annapolis Royal",
+   "search_en": "annapolis royal",
+   "search_fr": "annapolis royal"
+  },
+  {
+   "site_code": "s0000803",
+   "name_en": "Greenwood",
+   "province": "NS",
+   "lat": 44.97,
+   "lon": -64.93,
+   "name_fr": "Greenwood",
+   "search_en": "greenwood",
+   "search_fr": "greenwood"
+  },
+  {
+   "site_code": "s0000804",
+   "name_en": "Bridgetown",
+   "province": "NS",
+   "lat": 44.84,
+   "lon": -65.29,
+   "name_fr": "Bridgetown",
+   "search_en": "bridgetown",
+   "search_fr": "bridgetown"
+  },
+  {
+   "site_code": "s0000805",
+   "name_en": "Mackenzie",
+   "province": "BC",
+   "lat": 55.3,
+   "lon": -123.17,
+   "name_fr": "Mackenzie",
+   "search_en": "mackenzie",
+   "search_fr": "mackenzie"
+  },
+  {
+   "site_code": "s0000806",
+   "name_en": "Bathurst",
+   "province": "NB",
+   "lat": 47.63,
+   "lon": -65.63,
+   "name_fr": "Bathurst",
+   "search_en": "bathurst",
+   "search_fr": "bathurst"
+  },
+  {
+   "site_code": "s0000807",
+   "name_en": "Campbellton",
+   "province": "NB",
+   "lat": 47.99,
+   "lon": -66.68,
+   "name_fr": "Campbellton",
+   "search_en": "campbellton",
+   "search_fr": "campbellton"
+  },
+  {
+   "site_code": "s0000808",
+   "name_en": "Dalhousie",
+   "province": "NB",
+   "lat": 48.05,
+   "lon": -66.39,
+   "name_fr": "Dalhousie",
+   "search_en": "dalhousie",
+   "search_fr": "dalhousie"
+  },
+  {
+   "site_code": "s0000809",
+   "name_en": "Charlo",
+   "province": "NB",
+   "lat": 47.99,
+   "lon": -66.31,
+   "name_fr": "Charlo",
+   "search_en": "charlo",
+   "search_fr": "charlo"
+  },
+  {
+   "site_code": "s0000810",
+   "name_en": "Pointe-à-la-Croix",
+   "province": "QC",
+   "lat": 48.02,
+   "lon": -66.68,
+   "name_fr": "Pointe-à-la-Croix",
+   "search_en": "pointe-a-la-croix",
+   "search_fr": "pointe-a-la-croix"
+  },
+  {
+   "site_code": "s0000811",
+   "name_en": "Carleton-sur-Mer",
+   "province": "QC",
+   "lat": 48.1,
+   "lon": -66.13,
+   "name_fr": "Carleton-sur-Mer",
+   "search_en": "carleton-sur-mer",
+   "search_fr": "carleton-sur-mer"
+  },
+  {
+   "site_code": "s0000812",
+   "name_en": "Tatamagouche",
+   "province": "NS",
+   "lat": 45.71,
+   "lon": -63.29,
+   "name_fr": "Tatamagouche",
+   "search_en": "tatamagouche",
+   "search_fr": "tatamagouche"
+  },
+  {
+   "site_code": "s0000813",
+   "name_en": "Truro",
+   "province": "NS",
+   "lat": 45.37,
+   "lon": -63.28,
+   "name_fr": "Truro",
+   "search_en": "truro",
+   "search_fr": "truro"
+  },
+  {
+   "site_code": "s0000814",
+   "name_en": "Economy",
+   "province": "NS",
+   "lat": 45.38,
+   "lon": -63.91,
+   "name_fr": "Economy",
+   "search_en": "economy",
+   "search_fr": "economy"
+  },
+  {
+   "site_code": "s0000815",
+   "name_en": "Orangeville",
+   "province": "ON",
+   "lat": 43.92,
+   "lon": -80.11,
+   "name_fr": "Orangeville",
+   "search_en": "orangeville",
+   "search_fr": "orangeville"
+  },
+  {
+   "site_code": "s0000816",
+   "name_en": "Fort McPherson",
+   "province": "NT",
+   "lat": 67.44,
+   "lon": -134.88,
+   "name_fr": "Fort McPherson",
+   "search_en": "fort mcpherson",
+   "search_fr": "fort mcpherson"
+  },
+  {
+   "site_code": "s0000817",
+   "name_en": "Tulita",
+   "province": "NT",
+   "lat": 64.9,
+   "lon": -125.57,
+   "name_fr": "Tulita",
+   "search_en": "tulita",
+   "search_fr": "tulita"
+  },
+  {
+   "site_code": "s0000818",
+   "name_en": "Fort Good Hope",
+   "province": "NT",
+   "lat": 66.26,
+   "lon": -128.64,
+   "name_fr": "Fort Good Hope",
+   "search_en": "fort good hope",
+   "search_fr": "fort good hope"
+  },
+  {
+   "site_code": "s0000819",
+   "name_en": "Ignace",
+   "province": "ON",
+   "lat": 49.41,
+   "lon": -91.68,
+   "name_fr": "Ignace",
+   "search_en": "ignace",
+   "search_fr": "ignace"
+  },
+  {
+   "site_code": "s0000820",
+   "name_en": "Gjoa Haven",
+   "province": "NU",
+   "lat": 68.63,
+   "lon": -95.88,
+   "name_fr": "Gjoa Haven",
+   "search_en": "gjoa haven",
+   "search_fr": "gjoa haven"
+  },
+  {
+   "site_code": "s0000821",
+   "name_en": "Alert",
+   "province": "NU",
+   "lat": 82.5,
+   "lon": -62.37,
+   "name_fr": "Alert",
+   "search_en": "alert",
+   "search_fr": "alert"
+  },
+  {
+   "site_code": "s0000822",
+   "name_en": "Moose Jaw",
+   "province": "SK",
+   "lat": 50.39,
+   "lon": -105.55,
+   "name_fr": "Moose Jaw",
+   "search_en": "moose jaw",
+   "search_fr": "moose jaw"
+  },
+  {
+   "site_code": "s0000823",
+   "name_en": "Old Crow",
+   "province": "YT",
+   "lat": 67.57,
+   "lon": -139.84,
+   "name_fr": "Old Crow",
+   "search_en": "old crow",
+   "search_fr": "old crow"
+  },
+  {
+   "site_code": "s0000824",
+   "name_en": "Pincher Creek",
+   "province": "AB",
+   "lat": 49.49,
+   "lon": -113.95,
+   "name_fr": "Pincher Creek",
+   "search_en": "pincher creek",
+   "search_fr": "pincher creek"
+  },
+  {
+   "site_code": "s0000825",
+   "name_en": "Whitehorse",
+   "province": "YT",
+   "lat": 60.7,
+   "lon": -135.08,
+   "name_fr": "Whitehorse",
+   "search_en": "whitehorse",
+   "search_fr": "whitehorse"
+  },
+  {
+   "site_code": "s0000826",
+   "name_en": "Sandy Lake",
+   "province": "ON",
+   "lat": 53.06,
+   "lon": -93.32,
+   "name_fr": "Sandy Lake",
+   "search_en": "sandy lake",
+   "search_fr": "sandy lake"
+  },
+  {
+   "site_code": "s0000827",
+   "name_en": "St. Peters Bay",
+   "province": "PE",
+   "lat": 46.42,
+   "lon": -62.58,
+   "name_fr": "St. Peters Bay",
+   "search_en": "st. peters bay",
+   "search_fr": "st. peters bay"
+  },
+  {
+   "site_code": "s0000828",
+   "name_en": "Stewart",
+   "province": "BC",
+   "lat": 55.93,
+   "lon": -129.98,
+   "name_fr": "Stewart",
+   "search_en": "stewart",
+   "search_fr": "stewart"
+  },
+  {
+   "site_code": "s0000829",
+   "name_en": "Stettler",
+   "province": "AB",
+   "lat": 52.32,
+   "lon": -112.7,
+   "name_fr": "Stettler",
+   "search_en": "stettler",
+   "search_fr": "stettler"
+  },
+  {
+   "site_code": "s0000830",
+   "name_en": "Tuktoyaktuk",
+   "province": "NT",
+   "lat": 69.45,
+   "lon": -133.03,
+   "name_fr": "Tuktoyaktuk",
+   "search_en": "tuktoyaktuk",
+   "search_fr": "tuktoyaktuk"
+  },
+  {
+   "site_code": "s0000831",
+   "name_en": "Delta",
+   "province": "MB",
+   "lat": 50.19,
+   "lon": -98.32,
+   "name_fr": "Delta",
+   "search_en": "delta",
+   "search_fr": "delta"
+  },
+  {
+   "site_code": "s0000832",
+   "name_en": "Churchill Falls",
+   "province": "NL",
+   "lat": 53.55,
+   "lon": -64.02,
+   "name_fr": "Churchill Falls",
+   "search_en": "churchill falls",
+   "search_fr": "churchill falls"
+  },
+  {
+   "site_code": "s0000833",
+   "name_en": "Wainwright",
+   "province": "AB",
+   "lat": 52.83,
+   "lon": -110.86,
+   "name_fr": "Wainwright",
+   "search_en": "wainwright",
+   "search_fr": "wainwright"
+  },
+  {
+   "site_code": "s0000834",
+   "name_en": "Bella Bella",
+   "province": "BC",
+   "lat": 52.16,
+   "lon": -128.14,
+   "name_fr": "Bella Bella",
+   "search_en": "bella bella",
+   "search_fr": "bella bella"
+  },
+  {
+   "site_code": "s0000835",
+   "name_en": "Lloydminster",
+   "province": "SK",
+   "lat": 53.28,
+   "lon": -109.98,
+   "name_fr": "Lloydminster",
+   "search_en": "lloydminster",
+   "search_fr": "lloydminster"
+  },
+  {
+   "site_code": "s0000843",
+   "name_en": "Sudbury (Greater)",
+   "province": "ON",
+   "lat": 46.58,
+   "lon": -81.07,
+   "name_fr": "Sudbury (Grand)",
+   "search_en": "sudbury (greater)",
+   "search_fr": "sudbury (grand)"
+  },
+  {
+   "site_code": "s0000845",
+   "name_en": "Cummins Lakes (Provincial Park)",
+   "province": "BC",
+   "lat": 52.1,
+   "lon": -118.06,
+   "name_fr": "Cummins Lakes (Parc provincial)",
+   "search_en": "cummins lakes (provincial park)",
+   "search_fr": "cummins lakes (parc provincial)"
+  },
+  {
+   "site_code": "s0000857",
+   "name_en": "L'Anse-au-Loup",
+   "province": "NL",
+   "lat": 51.52,
+   "lon": -56.84,
+   "name_fr": "L'Anse-au-Loup",
+   "search_en": "l'anse-au-loup",
+   "search_fr": "l'anse-au-loup"
+  },
+  {
+   "site_code": "s0000858",
+   "name_en": "Rigolet",
+   "province": "NL",
+   "lat": 54.18,
+   "lon": -58.43,
+   "name_fr": "Rigolet",
+   "search_en": "rigolet",
+   "search_fr": "rigolet"
+  },
+  {
+   "site_code": "s0000859",
+   "name_en": "Cartwright Junction (Trans-Labrador Hwy)",
+   "province": "NL",
+   "lat": 53.07,
+   "lon": -57.51,
+   "name_fr": "Cartwright Junction (Rte Trans-Labrador)",
+   "search_en": "cartwright junction (trans-labrador hwy)",
+   "search_fr": "cartwright junction (rte trans-labrador)"
+  },
+  {
+   "site_code": "s0000860",
+   "name_en": "Gull Island Rapids (Trans-Labrador Hwy)",
+   "province": "NL",
+   "lat": 52.98,
+   "lon": -61.47,
+   "name_fr": "Gull Island Rapids (Rte Trans-Labrador)",
+   "search_en": "gull island rapids (trans-labrador hwy)",
+   "search_fr": "gull island rapids (rte trans-labrador)"
+  },
+  {
+   "site_code": "s0000861",
+   "name_en": "Eskasoni",
+   "province": "NS",
+   "lat": 45.94,
+   "lon": -60.62,
+   "name_fr": "Eskasoni",
+   "search_en": "eskasoni",
+   "search_fr": "eskasoni"
+  },
+  {
+   "site_code": "s0000862",
+   "name_en": "Richmond",
+   "province": "BC",
+   "lat": 49.16,
+   "lon": -123.16,
+   "name_fr": "Richmond",
+   "search_en": "richmond",
+   "search_fr": "richmond"
+  },
+  {
+   "site_code": "s0000863",
+   "name_en": "Duncan",
+   "province": "BC",
+   "lat": 48.78,
+   "lon": -123.71,
+   "name_fr": "Duncan",
+   "search_en": "duncan",
+   "search_fr": "duncan"
+  },
+  {
+   "site_code": "s0000864",
+   "name_en": "Qualicum Beach",
+   "province": "BC",
+   "lat": 49.35,
+   "lon": -124.44,
+   "name_fr": "Qualicum Beach",
+   "search_en": "qualicum beach",
+   "search_fr": "qualicum beach"
+  },
+  {
+   "site_code": "s0000865",
+   "name_en": "West Vancouver",
+   "province": "BC",
+   "lat": 49.33,
+   "lon": -123.16,
+   "name_fr": "West Vancouver",
+   "search_en": "west vancouver",
+   "search_fr": "west vancouver"
+  },
+  {
+   "site_code": "s0000866",
+   "name_en": "Langley",
+   "province": "BC",
+   "lat": 49.1,
+   "lon": -122.66,
+   "name_fr": "Langley",
+   "search_en": "langley",
+   "search_fr": "langley"
+  }
+ ]
+}
